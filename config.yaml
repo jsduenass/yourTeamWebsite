@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: jsduenass.github.io/yourteamwebsite/
 
 languageCode: en-us
 title: "John's Blog"
@@ -10,8 +10,11 @@ languages:
   en:
     languageName: English
     weight: 1
+  es:
+    languageName: Spanish
+    weight: 2
   bn:
-    languageName: বাংলা
+    languageName: 
     weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
@@ -55,7 +58,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/jsduenass/yourTeamWebsite
   # Default branch of your Git repo
   gitBranch: source
 
