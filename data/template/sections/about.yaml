@@ -1,6 +1,6 @@
 # section information
 section:
-  name: ¿quien soy?
+  name: ¿quienes somos?
   id: about
   enable: true
   weight: 1
@@ -8,67 +8,67 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Estudiante Ing. Mecatrónica 
+designation: Software Engineer
 # your company information
 company:
-  name: Universidad Nacional de Colombia.
-  url: "https://unal.edu.co/"
+  name: Example Co.
+  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-#resume: ""
+#resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Estudiante de ingeniería mecatrónica interesado en el área de la programación, teoría del control y simulaciones numéricas, impulsado por un profundo amor por el conocimiento, motivado por la búsqueda de soluciones desde el ámbito de la ingeniería y la optimización.'
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "jsduenass@unal.edu.co"
+  url: "example@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: https://github.com/jsduenass
+  url: "https://www.github.com/example"
 
-#- name: Stackoverflow
-#  icon: "fab fa-stack-overflow"
-#  url: "#"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/jsduenass/"
+  url: "#"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "https://twitter.com/jsduenass"
+  url: "#"
 
-#- name: Facebook
-#  icon: "fab fa-facebook"
-#  url: "#"
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Trabajo duro
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Hard Working
   percentage: 85
   color: green
-- name: Rapido aprendizaje
+- name: Fast Learner
   percentage: 85
   color: sky
-- name: Resolución de problemas
+- name: Problem Solving
   percentage: 85
   color: orange
-- name: Liderazgo
-  percentage: 50
-  color: blue
-- name: Team work
-  percentage: 70
-  color: yellow
-- name: Communicación 
-  percentage: 75
-  color: pink
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75
