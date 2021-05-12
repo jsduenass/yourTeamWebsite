@@ -2,11 +2,7 @@
 title: "ভূমিকা"
 date: 2020-06-08T08:06:25+06:00
 description: Introduction to Sample Post
-menu:
-  sidebar:
-    name: ভূমিকা
-    identifier: introduction
-    weight: 10
+
 ---
 
 স্বাগতম! এটি একটি ভূমিকা সূচক পোস্ট। এই পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ

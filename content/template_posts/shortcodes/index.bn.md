@@ -2,11 +2,7 @@
 title: "শর্টকোডের  নমুনা"
 date: 2020-06-08T08:06:25+06:00
 description: Shortcodes sample
-menu:
-  sidebar:
-    name: শর্টকোডের  নমুনা
-    identifier: shortcodes
-    weight: 40
+
 ---
 
 এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ

@@ -2,12 +2,7 @@
 title: "সমৃদ্ধ কন্টেন্ট"
 date: 2020-06-08T08:06:25+06:00
 description: Sample post with multiple images, embedded video ect.
-menu:
-  sidebar:
-    name: সমৃদ্ধ কন্টেন্ট
-    identifier: rich-content
-    parent: sub-category
-    weight: 10
+
 ---
 
 এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
