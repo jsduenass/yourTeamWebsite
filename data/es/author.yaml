@@ -2,8 +2,8 @@
 name: "Juan Sebastian Dueñas"
 nickname: "Sebastian "
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Saludos 🖖👽 , soy   "
-image: "images/author/john.png"
+greeting: "Saludos 🖖👽, soy   "
+image: "images/author/Sebastian.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "jsduenass@unal.edu.co"
@@ -11,6 +11,6 @@ contactInfo:
 # some summary about what you do
 summary:
   - Bienvenido a mi sitio web
-  - Soy un desarrollador
+  - Soy un programador
   - Entusiasta del analisis de datos 
   - Me encanta trabajar en proyectos retadores

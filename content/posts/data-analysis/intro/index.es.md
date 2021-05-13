@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: "Ciencia de datos"
     identifier: data-science
-    weight: 10
+    weight: 4
 ---
 
 Esta es la pagina principal donde se almacena lo relacionado con la ciencia de datos

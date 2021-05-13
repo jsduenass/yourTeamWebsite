@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: "data analysis"
     identifier: data-science
-    weight: 10
+    weight: 4
 ---
 
-This is the data analysis main page 
+This is the starting page for the data analysis section main page 
