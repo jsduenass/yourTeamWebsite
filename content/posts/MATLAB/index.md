@@ -14,10 +14,10 @@ menu:
 * [robocup@work team qualifications](https://atwork.robocup.org/2021/03/12/robocup-2021-worldwide-call-for-participation/) 
 * [github getting started](https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge)
 *	 [Design and Control of Robot Manipulators ](https://www.facebook.com/notes/matlab-and-simulink-robotics-arena/design-and-control-of-robot-manipulators-technical-resources/3351011848336733/) 
-
+* [get started with gazebo](https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html)
 
 ## About the system
-The work is based on the vmware virtual machine provided by the github getting started . It contains: 
+The work is based on the vmware virtual machine provided by the github getting started. It contains: 
 * ROS 2 Dashing desktop installation
 * ROS Melodic desktop installation
 * Gazebo robot simulator 9.0.0
@@ -37,16 +37,22 @@ The project uses ros_kortex  robotic arm for the virtual manipulator
 The virtualization platform used was virtual box  instead of vmware workstation
 
 ## Config
+* running and testing the vm (virtual machine) works
+* take a snapshot of the vm in order to have a backup to go back to if something goes wrong.  
+* using virtual box Guest additions to get full-screen 
+* activate share clipboard to copy paste to work between both in host and guest
+* add [Spanish keyboard](https://askubuntu.com/questions/1014585/how-to-add-a-latin-american-keyboard-in-17-10): changing the default keyboard layout from English to Spanish  simplifies the use of special characters
 
-add [Spanish keyboard](https://askubuntu.com/questions/1014585/how-to-add-a-latin-american-keyboard-in-17-10): changing the default keyboard layout from English to Spanish  simplifies the use of special characters
+  ```
+  sudo locale-gen es_AR.UTF-8
+  ```
 
-```
-sudo locale-gen es_AR.UTF-8
-```
+* Configure Network between guest and host. Enable network adapter with __NAT__ configuration and allow port forwarding in advance settings. The port 11311 needs to be forward in order for the host computer to connect to ROS network.  NAT (Network Adress Translation) creates a private network for the guest vm.
+  
+![Network configuration](network-config.png)
 
-using virtual box Guest additions to get full-screen 
-activate share clipboard to copy paste to work between both in host and guest
-
+* Check the virtual box network tool to identify network adaptor of the host computer ```192.168.56.1```
+  
 ## Environment exploration
 Files related to the project are located at the Desktop inside the Robocup Challenge folder. Exploring these files ( ```Example World 1.desktop```) from the command line give an insight in how they work
 ```
@@ -96,3 +102,14 @@ ls -R | grep urdf
 
 ```./src/ros_kortex/kortex_description/arms/gen3/urdf```
 
+### Connect to MATLAB 
+* Select on of the available gazebo files on the desktop, it would run a gazebo world.
+* Run ```source /opt/ros/melodic/setup.bash``` in order to add the ROS environment variable and be able to run ROS command from the shell then try runnign ```rostopic list``` to test it is working 
+* Thanks to the network configuration, a MATLAB instance running in the host environment can connect to the guest __vm__  ROS network. One needs to provide the ROS master URI by providing an IP address and a port. The following script in MATLAB would start the connection.
+
+```{matlab}
+ipaddress = '192.168.56.1';
+rosinit(ipaddress,11311);
+
+% Initializing global node /matlab_global_node_47691 with NodeURI http://192.168.56.1:59106/
+```
