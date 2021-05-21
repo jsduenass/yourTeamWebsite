@@ -11,10 +11,13 @@ menu:
 
 ## Resources 
 *	[Virtual manipulator challenge main page](https://2021.robocup.org/robot-manipulation) 
-* [robocup@work team qualifications](https://atwork.robocup.org/2021/03/12/robocup-2021-worldwide-call-for-participation/) 
-* [github getting started](https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge)
-*	 [Design and Control of Robot Manipulators ](https://www.facebook.com/notes/matlab-and-simulink-robotics-arena/design-and-control-of-robot-manipulators-technical-resources/3351011848336733/) 
-* [get started with gazebo](https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html)
+* [Video introduction](https://youtu.be/h-IVj2tajQQ?t=1561)
+* [Robocup@work team qualifications](https://atwork.robocup.org/2021/03/12/robocup-2021-worldwide-call-for-participation/) 
+* [Robocup@home team qualifications](https://athome.robocup.org/2021-cfp-all/)
+* [Github getting started](https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge)
+*	[Design and Control of Robot Manipulators ](https://www.facebook.com/notes/matlab-and-simulink-robotics-arena/design-and-control-of-robot-manipulators-technical-resources/3351011848336733/) 
+* [Get started with gazebo](https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html)
+* [This notes](https://jsduenass.github.io/posts/matlab/)
 
 ## About the system
 The work is based on the vmware virtual machine provided by the github getting started. It contains: 
@@ -34,29 +37,49 @@ gazebo -v
 
 The project uses ros_kortex  robotic arm for the virtual manipulator  
 
-The virtualization platform used was virtual box  instead of vmware workstation
 
 ## Config
-* running and testing the vm (virtual machine) works
-* take a snapshot of the vm in order to have a backup to go back to if something goes wrong.  
-* using virtual box Guest additions to get full-screen 
-* activate share clipboard to copy paste to work between both in host and guest
-* add [Spanish keyboard](https://askubuntu.com/questions/1014585/how-to-add-a-latin-american-keyboard-in-17-10): changing the default keyboard layout from English to Spanish  simplifies the use of special characters
+There are different platforms where to run vmware workstation player and virtual box. The tutorial recommends using the vmware route and issues where found while using virtual box
+
+### vmware 
+While running the virtual machine some errors were encounter  
+```
+Error while powering on: VMware Player does not support nested virtualization on this host.
+```
+Which were fix by disabling the ```virtual CPU performance counters``` and ```Virtual Intel VT-x/EPT or AMD-V/RVI``` settings 
+
+
+### Virtual box (Not recommended)
+* Running and testing the vm (virtual machine) works
+* Take a snapshot of the vm in order to have a backup to go back to if something goes wrong.  
+* Using virtual box Guest additions to get full-screen 
+* Activate share clipboard to copy paste to work between both in host and guest
+* Configure Network between guest and host. Here there are two options:
+  * Enable network adapter with bridge configuration. issue: scripts file where the ros_master URI is configured fail because many network interfaces are recognized so the ros_master URI needs to be manually defined.  
+  ![Network configuration](network-config.png)
+  * Enable network adapter with __NAT__ configuration and allow __port forwarding__ in advance settings. The port 11311 needs to be forward in order for the host computer to connect to ROS network.  NAT (Network Address Translation) creates a private network for the guest vm So the IP address used from inside the guest ```192.168.56.1``` is different tha the used by the host computer ```192.168.56.1```. issue: ROS services does not working properly with MATLAB. Note: Check the virtual box network tool to identify network adaptor of the host computer ```192.168.56.1```
+
+
+Once a virtual machine is setup and running some minor configuration are made in order to make it easier to use
+
+* Add [Spanish keyboard](https://askubuntu.com/questions/1014585/how-to-add-a-latin-american-keyboard-in-17-10): changing the default keyboard layout from English to Spanish  simplifies the use of special characters
 
   ```
   sudo locale-gen es_AR.UTF-8
   ```
 
-* Configure Network between guest and host. Enable network adapter with __NAT__ configuration and allow port forwarding in advance settings. The port 11311 needs to be forward in order for the host computer to connect to ROS network.  NAT (Network Adress Translation) creates a private network for the guest vm.
-  
-![Network configuration](network-config.png)
+* Add the setup file from ROS and catkin environment to bash, in order to add the ROS environment variable and be able to run ROS command from the shell. 
+```
+echo 'source /opt/ros/melodic/setup.bash' >>  ~/.bashrc
+echo 'source ~/catkin_ws/devel/setup.bash' >>  ~/.bashrc
+```
+* try running ```rostopic list``` to test it is working 
 
-* Check the virtual box network tool to identify network adaptor of the host computer ```192.168.56.1```
-  
+
 ## Environment exploration
 Files related to the project are located at the Desktop inside the Robocup Challenge folder. Exploring these files ( ```Example World 1.desktop```) from the command line give an insight in how they work
 ```
-cd "Desktop/RoboCup Challenge"
+cd "~/Desktop/RoboCup Challenge"
 less "Example World 1.desktop"
 ```
 
@@ -103,13 +126,44 @@ ls -R | grep urdf
 ```./src/ros_kortex/kortex_description/arms/gen3/urdf```
 
 ### Connect to MATLAB 
-* Select on of the available gazebo files on the desktop, it would run a gazebo world.
-* Run ```source /opt/ros/melodic/setup.bash``` in order to add the ROS environment variable and be able to run ROS command from the shell then try runnign ```rostopic list``` to test it is working 
-* Thanks to the network configuration, a MATLAB instance running in the host environment can connect to the guest __vm__  ROS network. One needs to provide the ROS master URI by providing an IP address and a port. The following script in MATLAB would start the connection.
+* Select on of the available example files located on the RoboCup Challenge folder, it would run a gazebo world and start ROS.
+* Open MATLAb and run the following script to connect to 
 
 ```{matlab}
-ipaddress = '192.168.56.1';
+%% Connect to ROs Network
+clc
+ipaddress = '192.168.182.128';
+
+rosshutdown
 rosinit(ipaddress,11311);
 
 % Initializing global node /matlab_global_node_47691 with NodeURI http://192.168.56.1:59106/
 ```
+The MATLAB command ```rosshutdown``` ends the connection
+ 
+ROS action client 
+
+### Basic ROS commands 
+```
+%% testing ROS commands 
+rosaction("list")
+rostopic("info", "tf")
+rostopic("info", "clock")
+svclist =rosservice("list");
+rosservice("info","/gazebo/set_model_configuration")
+rosservice info '/gazebo/set_model_configuration'
+```
+## Important information 
+variables of interest:
+* rostopic: '/my_gen3/joint_states'
+  * message type: 'sensor_msgs/JointState'
+
+
+```rqt_graph```: Show a graphical representation of the ROS network
+
+
+
+[ROS service MATLAB](https://www.mathworks.com/help/ros/ref/rosservice.html)
+
+
+
