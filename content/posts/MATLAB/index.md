@@ -69,10 +69,10 @@ Once a virtual machine is setup and running some minor configuration are made in
   ```
 
 * Add the setup file from ROS and catkin environment to bash, in order to add the ROS environment variable and be able to run ROS command from the shell. 
-```
-echo 'source /opt/ros/melodic/setup.bash' >>  ~/.bashrc
-echo 'source ~/catkin_ws/devel/setup.bash' >>  ~/.bashrc
-```
+  ```
+  echo 'source /opt/ros/melodic/setup.bash' >>  ~/.bashrc
+  echo 'source ~/catkin_ws/devel/setup.bash' >>  ~/.bashrc
+  ```
 * try running ```rostopic list``` to test it is working 
 
 
