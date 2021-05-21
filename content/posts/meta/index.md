@@ -1,12 +1,12 @@
 ---
 title: "About"
-date: 2021-05-11
+date: 2021-05-21
 description: concerning the creation of the website
 menu:
   sidebar:
     name: "About"
     identifier: meta-post
-    weight: 10
+    weight: 1
 hero: hero.gif
 
 ---

@@ -1,19 +1,14 @@
 ---
 title: "Datacademy  challenge by Platzi"
-date: 2021-05-12
+#date: 2021-05-12
 description: datacademy challenge 
 menu:
   sidebar:
     name: "Datacademy"
     identifier: data-science
-    weight: 10
+    weight: 30
 ---
 
-
-
-I register in this c
-Journal 
-
-This is the data analysis main page 
+Under construction
 
 ## Journal 
