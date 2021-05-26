@@ -12,7 +12,7 @@ menu:
 ---
 
 ## Book list
-- [] china 2185. liu cixin
+- [] China 2185. liu cixin
 - [] Cibernetica. Norbert weiner 
 - [] La historia de mi vida. Hellen Keller
 - [] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
@@ -23,18 +23,18 @@ menu:
 - [] Golem. Stanislaw Lem
 - [] Spies of No Country. Matti Friedman 
 - [] My Philosophy of Industry. Henry Ford
-- [] hard drive bill gates and the making of the microsoft empire
+- [] Hard drive bill gates and the making of the microsoft empire
 - [] Pale Blue Dot. Carl Sagan
 - [] Fish is Fish. Leo Lionni. Children's book
 - [] The reluctant dragon
 - [] The walking drum. Louis L. Amoun
 - [] Introduction to quantum mechanics. David Griffiths
 - [] The time machine. H.G wells
-- [] how to solve it. George Poyla
-- [] los años de aprendizaje de Wilhelm Meister. Wolfgang Goethe 
-- [] en busca del tiempo perdido. Marcel Proust
-- [] how we learn. Benedic Carey
-- [] armas de instrucción masiva. John Taylor Gatto
+- [] How to solve it. George Poyla
+- [] Los años de aprendizaje de Wilhelm Meister. Wolfgang Goethe 
+- [] En busca del tiempo perdido. Marcel Proust
+- [] How we learn. Benedic Carey
+- [] Armas de instrucción masiva. John Taylor Gatto
 - [] The pig that wants to be eaten. Julian Baggani
 
 
@@ -48,15 +48,15 @@ menu:
 - [x] Cuentos completos I. Isaac Asimov
 - [x] Fundación. Isaac Asimov
 - [x] Los hermanos kamarazov. Fyodor Dostoyevsky.   [The Problem of Evil: Crash Course Philosophy](https://www.youtube.com/watch?v=9AzNEG1GB-k)  
-- [x] la guia del autoestopista intergalactico. Douglas Adams
+- [x] La guia del autoestopista intergalactico. Douglas Adams
 - [x] La nave de un millón de años. Poul Anderson
 - [x] Visiones de robot. Isaac Asimov
 - [x] The hunger games. Suzanne Collins
 - [x] La traición de Darwin. Gerardo Bartolomé
 - [x] Fiasco. Stanislaw Lem 
 - [x] Historia del futuro. Robert Anson Heinlein [extra sci-fi](https://www.youtube.com/watch?v=XaWMe5nC9SA)  
-- [x] ensayo sobre la ceguera. José Saramago 
-- [x] bovedas de acero. Isaac Asimov
+- [x] Ensayo sobre la ceguera. José Saramago 
+- [x] Bovedas de acero. Isaac Asimov
 - [x] El sol desnudo. Asimov
 - [x] París. Edward Rutherfurd
 - [x] A tale of two cities. Charles Dickens 
@@ -79,7 +79,7 @@ menu:
 - [x] Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?. Einstein-Podolsky-Rosen. (EPR article/ EPR paradox)
 - [x] La riqueza de las naciones. Adam Smith
 - [x] Guía Asimov para la Biblia. Isaac Asimov
-- [x] ensayo sobre la lucidez. José Saramago
+- [x] Ensayo sobre la lucidez. José Saramago
 
 
 

@@ -32,8 +32,8 @@ lsb_release -a
 gazebo -v
 ```
 
-* ubunto version: 18.04.5
-* gazebo version 9.16.0
+* Ubuntu version: 18.04.5
+* Gazebo version: 9.16.0
 
 The project uses ros_kortex  robotic arm for the virtual manipulator  
 
@@ -47,7 +47,7 @@ While running the virtual machine some errors were encounter
 Error while powering on: VMware Player does not support nested virtualization on this host.
 ```
 Which were fix by disabling the ```virtual CPU performance counters``` and ```Virtual Intel VT-x/EPT or AMD-V/RVI``` settings 
-
+and ```disable side channel mitigation```
 
 ### Virtual box (Not recommended)
 * Running and testing the vm (virtual machine) works
@@ -161,6 +161,17 @@ variables of interest:
 
 ```rqt_graph```: Show a graphical representation of the ROS network
 
+
+matlab homogeneous transformation matrix
+euler angles 
+intrinsic rotation
+
+## ROS concepts
+
+* ROS Node
+* ROS Publisher: Broadcast information
+* ROS Subscriber: Request information
+* ROS message: packet of information
 
 
 [ROS service MATLAB](https://www.mathworks.com/help/ros/ref/rosservice.html)
