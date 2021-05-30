@@ -16,11 +16,41 @@ menu:
 >
 > __--- Douglas Adams__
 
+
+> Así también un orbe enteron, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.
+>
+> __--- Charles Dickens, Historia de dos ciudades. pag. 212 (1859)__
+
+
+>Bajo esa bóveda tachonada de luminarias fijas y eternas, tan lejanas algunas de este minúsculo planeta que según afirman los sabios es dudoso que sus rayos hallan tenido tiempo de llegar a el descubrirlo com un punto en el espacio donde se sufre y nada se hace
+>
+> __--- Charles Dickens, Historia de dos ciudades - El zapatero. (1859)__
+
+De las anteriores dos citas se evidencia el conocimiento de astronomía que poseía Charles Dickens, y como lo influía a contemplar un punto de vista más allá de la tierra, donde todo lo que conocemos es minúsculo. 
+
+### A pale blue dot
+{{< youtube EWPFmdAWRZ0 >}}
+
+>From this distant vantage point, the Earth might not seem of any particular interest. 
+>
+>But for us, it's different. Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, ever king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar,” every "supreme leader," every saint and sinner in the history of our species lived there on a mote of dust suspended in a sunbeam.
+>
+>The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.
+>
+> Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
+>The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
+>
+>It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.
+>
+> __--- Carl Sagan, A pale blue dot__
+
 > For the very reason that here nothing served a purpose -not ever, not to anyone- and that here no guillotine of evolution was in play, nature, constrained neither by the life she bore nor by the death she inflicted, could achieve liberation, displaying a prodigality characteristic of herself, a limitless wastefulness, a brute magnificence that was useless, a eternal power of creation without a goal, without a need, without a meaning. 
 > 
 > __--- Stanislaw Lem, Fiasco__
 
-> Es un sentimiento creciente entre algunos grupos de este país la noción de que cuando un hombre o una compañia han sacado un beneficio del publico durante un cierto número de años, el gobierno y los tribunales tienen el deber de salvaguardar esos beneficios en el futuro, incluso frente a circunstancias de cambio y contra el interés del publico... 
+
+
+> Es un sentimiento creciente entre algunos grupos de este país la noción de que cuando un hombre o una compañía han sacado un beneficio del publico durante un cierto número de años, el gobierno y los tribunales tienen el deber de salvaguardar esos beneficios en el futuro, incluso frente a circunstancias de cambio y contra el interés del publico... 
 > Ni los individuos ni las corporaciones tienen el menor derecho de acudir a los tribunales y exigir que el reloj de la historia sea detenido, o retrasado, en beneficio particular suyo.
 > 
 > __---Robert.A Heinlein, La línea de la vida__
@@ -29,14 +59,32 @@ menu:
 >
 > __--- Milic Capek, The philosophical impact of contemporary physics__
 
-> ¿Acaso no existe ninguna manera de gobernar el mundo sin hacer que la vilolencia se la manera decisiva de juzgar entre el bien y el mal? ...
-> vivimos en un mundo en el que la Union Soviética dispone de suficiente armamento como para mater cincuenta veces a cada habitnate de la tierra, pero se siente insegura porque los Estados Unidos tienen suficiente armamento como para matar a todos sesenta veces.
-> 
-> __--- Isaac Asimov, No violencia. La visita del tiranosaurio- prologo Penterra__ 
-
-> La posteridad considera una revolución triunfante como el levantamiento de una nación o de un grupo que forman un solo frente, pero la mayoría de las veces esa idea no es más que un lustre patriótico que se da al recuerdo. En toda revolución, aquellos que siguen fervorosamente la lucha hasta la muerte son una minoría, y suele haber un numero al menos igual que son decididamente antirrevolucionarios, más una mayoría efectiva que es apática y va a donde la llevan ( en una u otra dirección) si es necesario, pero prefiere que la dejen en paz
+> El coronel experimentó la sensación de que nacían hongos y lirios venenosos en sus tripas.
 >
-> __--- Isaac Asimov, Guía de la biblia nuevo testamento__
+> __--- Gabriel Garcia Marquez, El coronel no tiene quien le escriba__
+
+Antítesis entre la belleza de los lirios y el malestar que representan.
+
+> Fue en aquella cabaña perdida en las montañas del Gran Khingam donde algo comenzó a cambiar en el interior de Ye Wenjie. Las negras profundidades de la tundra congelada de su corazón comenzaron a deshelarse. Apareció una pequeña laguna de aguas cristalinas 
+>
+> __--- Liu Cixin, El problema de los 3 cuerpos__
+
+> Rostov, poco a poco ante la presencia de Berg, poco grata para el, adoptó de nuevo el tono anterior de húsar valentón, y animándose les conto acerca de sus andanzas en Schengraben exactamente como cuenta las batallas los que han tomado parte en ellas, es decir, como les gustaría, que hubieran sucedido, como lo han oído de otros narradores, como fuera más hermoso contarlas no exactamente como han sucedido.
+> 
+> __--- Leon Tolstoi, Guerra y paz__
+
+> Se sentía a la cabeza de un movimiento que había comenzado y ya se había convertido en incontenible. Era com un caballo enganchado corriendo cuesta abajo. No sabia si tiraba o era arrastrado, pero avanzaba lo más rápido posible, sin tener tiempo de pensar a donde conduciría ese movimiento.
+> 
+> __--- Leon Tolstoi, Guerra y paz__
+
+> Bismark esta convencido de que salió victorioso de la ultima guerra causa de complicadas, astutas y profundas consideraciones estatales. Los miembro del Vaterland piensan que fue fruto de patriotismo. Los ingleses piensan que fueron más astutos que Napoleón y todo lo que ellos piensan no ha sido sino creado por su imaginación con ayuda de su intelecto para justificar la necesidad de derramamiento de sangre de la sociedad europea. La misma necesidad que tienen las hormigas negras y amarillas de aniquilarse las unas a otra y de construir sus hormigueros del mismo modo.
+> 
+> __--- Leon Tolstoi, Guerra y paz__
+
+> En los acontecimientos históricos las grandes personalidades son las etiquetas que dan la denominación al acontecimiento per son las que, al igual que las etiquetas, tienen una menor relación con el acontecimiento 
+>  
+> __--- Leon Tolstoi, Guerra y paz__
+
 
 
 > El fuego detrás del cuarzo estaba ahora débil, encaminándose a regañadientes hacia la muerte.
@@ -56,69 +104,76 @@ menu:
 > 
 > __--- Sir Arthur Conan Doyle. Sherlock Holmes. La liga de los pelirrojos__
 
-Este fragmento que sucede en dialogo entre Sherlock Holmes y Watson puede tomarse como consejo de Sir Arthor Conan Doyle que puede ser aplicado para realizar escritos de ficción  basados en eventos reales.
+Este fragmento que sucede en dialogo entre Sherlock Holmes y Watson puede tomarse como consejo de Sir Arthur Conan Doyle que puede ser aplicado para realizar escritos de ficción  basados en eventos reales.
+
+> It is my belief, Watson, found upon my experience , that the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful country side.
+> 
+> Arthur Conan Doyle, The adventure of the Cooper Beeches.
+
+What I find interesting about this quote is not that I find it true but rather it is telling of a way of thinking of Conan Doyle, a glimpse on how he saw and felt about the world.
+
+Sherlock Holmes strikes as a very modern and relatable character, his life in some way resembles our modern life, he rides carriages as we would a taxi, he has meals and drinks coffee as part of his daily routine, and the fact that he has to pay rent to his land lady miss Turner are small details of normal life that makes you feel fully immerse and think of his stories as realistic as your own experiences.    
 
 >Se equivoca, profesor. Que el vulgo crea en cometas extraordinarios que atraviesan el espacio, o en la existencia de monstruos antediluvianos que pueblan el interior del la tierra, pase, pero ni el astrónomo ni el geólogo admiten tales quimeras.
 >
 >__--- Julio Verne, Veinte mil leguas de viaje submarino__
 
-> Así también un orbe enteron, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.
->
-> __--- Charles Dickens, Historia de dos ciudades (1958) pag 212__
 
+> ¿Acaso no existe ninguna manera de gobernar el mundo sin hacer que la violencia se la manera decisiva de juzgar entre el bien y el mal? ...
+> vivimos en un mundo en el que la Union Soviética dispone de suficiente armamento como para mater cincuenta veces a cada habitante de la tierra, pero se siente insegura porque los Estados Unidos tienen suficiente armamento como para matar a todos sesenta veces.
+> 
+> __--- Isaac Asimov, No violencia. La visita del tiranosaurio- prologo Penterra__ 
 
->Bajo esa bóveda tachonada de luminarias fijas y eternas, tan lejanas algunas de este minúsculo planeta que según afirman los sabios es dudoso que sus rayos hallan tenido tiempo de llegar a el descubrirlo com un punto en el espacio donde se sufre y nada se hace
+> La posteridad considera una revolución triunfante como el levantamiento de una nación o de un grupo que forman un solo frente, pero la mayoría de las veces esa idea no es más que un lustre patriótico que se da al recuerdo. En toda revolución, aquellos que siguen fervorosamente la lucha hasta la muerte son una minoría, y suele haber un numero al menos igual que son decididamente antirrevolucionarios, más una mayoría efectiva que es apática y va a donde la llevan ( en una u otra dirección) si es necesario, pero prefiere que la dejen en paz
 >
-> __--- Charles Dickens, Historia de dos ciudades- El zapatero__
-
-Con las anteriores dos citas quede sorprendido del conocimiento de astronomía que poseía Charles Dickens, y como lo influía a contemplar un punto de vista más allá de la tierra, onde todo lo que conocemos es minúsculo. 
-
-
-[a pale blue dot](https://youtu.be/EWPFmdAWRZ0)
-
->From this distant vantage point, the Earth might not seem of any particular interest. 
->
->But for us, it's different. Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, ever king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar,” every "supreme leader," every saint and sinner in the history of our species lived there on a mote of dust suspended in a sunbeam.
->
->The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become momentary masters of a fraction of a dot. Think of the endless visited by the inhabitants of one corner of this pixel the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.
->
-> Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
->The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
->
->It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.
->
-> __--- Carl Sagan, A pale blue dot__
+> __--- Isaac Asimov, Guía de la biblia nuevo testamento__
 
 > Cuando la historia se ocupa de las personalidades, las descripciones son blancas o negra, según los intereses del escritor.
 >
 > __---Asimov, Segunda fundación__
 
 
-
 > Lo que hace más importante a tu rosa es el tiempo que tú has perdido con ella
 > 
-> __--- Antonie De Saint exupery. El principito__
+> __--- Antonie De Saint Exupery. El principito__
 
-> -los hombres de tu tierra- dijo el principito cultivan cinco mil rosas en un jardín y no encuentran  lo que buscan. -No lo encuentran nunca - le respondi - y sin embargo, lo que buscan podrian encontrarlo en una sola rosa o en poco de agua
+> -los hombres de tu tierra- dijo el principito cultivan cinco mil rosas en un jardín y no encuentran  lo que buscan. -No lo encuentran nunca - le respondí - y sin embargo, lo que buscan podrían encontrarlo en una sola rosa o en poco de agua
 > 
-> __--- Antonie De Saint exupery. El principito__
+> __--- Antonie De Saint Exupery. El principito__
 
 > The given civilization would enter a crisis to end all crisis, i.e, extinction
 > 
 > __--- Stanislaw Lem, Fiasco__
 
-> How easily an isolated group of the best people can become a threat to themselves through the influence of an individual, particularly if that individual is one of whom they count, as f he were made of even stuff than they
+> How easily an isolated group of the best people can become a threat to themselves through the influence of an individual, particularly if that individual is one of whom they count, as f he were made of even better stuff than they.
 > 
 > __--- Stanislaw Lem, Fiasco__
 
->In Asimov's series the need to understand history in order to construct a sustainable future becoms the pivotal theme, both on the level of narration and on the level of characters that turn their knowledge of history into action
+> In Asimov's series the need to understand history in order to construct a sustainable future becomes the pivotal theme, both on the level of narration and on the level of characters that turn their knowledge of history into action.
 >
 > __--- Jari Kakela__ 
 > 
 
+> Science fiction engages in representation that makes the described phenomenon unfamiliar, but as readers recognize what this defamiliarizing representation refer to, it enables them to discover new ways of thinking and thus promotes rational understanding. 
+>
+> __--- Jari Kakela__ 
+
+
+>[Asimov] has the habit of centering his fiction in plot and clearly stating to his reader, in rather direct terms, what is happening in his story and why it is happening.
+>
+> __--- Jari Kakela__ 
+>
+
+> Asimov's plots are rarely very dramatic as such. Rather they focus on the rational, gradual discovery of what has happened (or will, or should happen) frequently resulting in detective story like narrative structures ...
+>
+> it is this sense of accumulating evidence, or knowledge and understanding of the world and the events described, which creates the narrative tension much of Asimov's work. 
+>
+> __--- Jari Kakela__ 
+>
+
 > Establishing the historicity of the present in the sense of denaturalizing the present by showing it to be neither arbitrary nor inevitable but the conjunctural result of complex, knowable material processes.
 > 
->__ Carl Freedman, Critical theory and science fiction__
+>__Carl Freedman, Critical theory and science fiction__
 
 > Es cierto que la nación no se crea por leyes ni decretos, sobre todo en Colombia, pues sabido es que muchas normas estipuladas en la Constitución son letra muerta
 > 
@@ -129,13 +184,24 @@ Con las anteriores dos citas quede sorprendido del conocimiento de astronomía q
 >  
 > __--- Facundo Cabral, El profeta de Gibran__
 
+> E-government is defined as a way for governments to use the most innovative information and communication technologies, particularly web-based applications, to provide citizens and business with more convenient access to government information and services 
+>  
+> __--- Zhiyuan Fang, Egoverments in digital era__
+
+> Se habla a veces de hecho, de la crueldad <<bestial>> del hombre, pero esto es terriblemente injusto y ofensivo para las bestias: una bestia nunca puede ser tan cruel como el hombre , tan artística, tan plásticamente cruel.
+>
+> __--- Fiodor Dostievskin, Los hermanos Karamazov__ 
 
 
 ## STEM
 
->figuring out mathematical operations and tricks certainly takes significant  amounts  of  effort,  time,  and  devotion.  Today,  we  often  take  for  granted  those  symbols  and explanations that are neatly compiled into math and science textbooks. It is easy to forget that every  equation  encases  a  story:  frustration,  fascination,  arduous  work,  friendly  collaborations,  disappointment, and the occasional serendipity. Mathematics is not just about numbers, but it is also about the people whose work gives us the luxury and pleasure of understanding.  
->
-> __---  Rafael Villarreal-Calderon, Chopping Logs:  A Look at the History and Uses of Logarithms__
+> Physics my friend is a narrow path drawn across a gulf that the human imagination cannot grasp
+> 
+> __--- Stanislaw Lem, Fiasco__
+
+> Although the harmonic series when summed diverges it does so at an incredible slow rate as if a snail was crawling to infinity. 
+> __--- Physics explained youtube channel__ 
+
 
 >It is time to give these users more control over their computers through education and supporting software, this will cause a massive surge in productivity and creativity, with a far-ranging impact that can barely be anticipated or imagined.
 >
@@ -145,11 +211,15 @@ Con las anteriores dos citas quede sorprendido del conocimiento de astronomía q
 >
 > __--- Sherry Turkle__
 
+> figuring out mathematical operations and tricks certainly takes significant  amounts  of  effort,  time,  and  devotion.  Today,  we  often  take  for  granted  those  symbols  and explanations that are neatly compiled into math and science textbooks. It is easy to forget that every  equation  encases  a  story:  frustration,  fascination,  arduous  work,  friendly  collaborations,  disappointment, and the occasional serendipity. Mathematics is not just about numbers, but it is also about the people whose work gives us the luxury and pleasure of understanding.  
+>
+> __---  Rafael Villarreal-Calderon, Chopping Logs:  A Look at the History and Uses of Logarithms__
 
-> Physics my friend is a narrow path drawn across a gulf that the human imagination cannot grasp
+> El trabajo de Boltzmann no negaba la vigencia de las leyes de Newton; simplemente era una forma nueva de tratar inmensos conjuntos de partículas. Esto no fue entendido bien por buena parte de sus contemporáneos, para los cuales era difícil aceptar que lo que hasta entonces se consideraban leyes fundamentales de la naturaleza, como el segundo principio de la termodinámica, pudieran tener una interpretación estadística, minando así su carácter estrictamente determinista.
+
+> Thus a familiar model connected to physical intuition, but constituting matter of some ill-understood sort of wave, confronted an abstract mathematics with seemingly bizarra variables, insistent about discontinuity and suspending space-time pictures. Unsurprisingly, the coexistence of alternative theories generated debate. The fact, soon demonstrated, of their mathematical equivalence did not resolve the interpretative dispute. For fundamentally different physical pictures were offer.
 > 
-> __--- Stanislaw Lem, Fiasco__
-
+> __--- Catheryn Carson, The origins of the quantum theory__
 
 ## Education and learning
 
@@ -281,6 +351,9 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 > 
 >__--- Fiodor Dostoievski, Los hermanos Kramazov - Rebeldia__
 
+> La vida noes lo que uno vivió sino la que uno recuerda y cómo la recuerda para contarla
+>
+> __--- Gabriel Garcia Marquez, vivir para contarla__
 
 > still couldn't accept that meaning and solace aren't to be found on the heavens but in the tranches of everyday living
 >
@@ -309,6 +382,9 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 > It is not good for a man to be cognizant of his physical and spiritual mechanisms. Complete knowledge reveals limits to human possibilities and the less a man is by nature in his purposes, the lees he can tolerate limits.
 >
 >__--- Stanislaw Lem, Fiasco__
+
+> The fact that you are not happy has nothing to do with what you have or don't have. the fact that you are not happy is your  life doesn't match the way you think it should be. And you have some idea how you think it should be.
+>
 
 
 ## Sayings 
