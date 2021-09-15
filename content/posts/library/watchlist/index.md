@@ -12,16 +12,17 @@ menu:
 ---
 
 ## Book list
+- [] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html). 
 - [] China 2185. liu cixin
 - [] Cibernetica. Norbert weiner 
 - [] La historia de mi vida. Hellen Keller
 - [] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
-- [] El idiota. Fyodor Dostoyevsky
 - [] Emilio o de la educación. Rousseau.
+- [] Historia social del conocimiento. Peter Burke
 - [] Self-Reliance. Ralph Waldo Emerson
+- [] Si una Noche de Invierno un Viajero. Italo Calvino 
 - [] where wizards stay up late. Katie Hafner
 - [] Golem. Stanislaw Lem
-- [] Spies of No Country. Matti Friedman 
 - [] My Philosophy of Industry. Henry Ford
 - [] Hard drive bill gates and the making of the microsoft empire
 - [] Pale Blue Dot. Carl Sagan
@@ -36,14 +37,19 @@ menu:
 - [] How we learn. Benedic Carey
 - [] Armas de instrucción masiva. John Taylor Gatto
 - [] The pig that wants to be eaten. Julian Baggani
-
+- [] El mito de sisifo. Albert camus
+- [] La Revolución Historiográfica Francesa. Peter Burke
+- [] Por las grutas y selvas del Indostán. Helena Blavatsky
+- [] Diagnosing the System for Organizations. Stafford Beer 
+- [] Social Commitments in a Depersonalized World. Shane R. Thye  
+- [] Dynamics: the Geometry of Behavior. Ralph Abraham
 
 
 ## Leidos
 
-> "I cannot remember the books I'va read anymore than the meal I have eaten; even so, they have made me" 
+> I cannot remember the books I've read anymore than the meal I have eaten; even so, they have made me 
 >
-> ( --- Ralph Waldo Emerson)
+> __--- Ralph Waldo Emerson__
 
 - [x] Cuentos completos I. Isaac Asimov
 - [x] Fundación. Isaac Asimov
@@ -56,7 +62,8 @@ menu:
 - [x] Fiasco. Stanislaw Lem 
 - [x] Historia del futuro. Robert Anson Heinlein [extra sci-fi](https://www.youtube.com/watch?v=XaWMe5nC9SA)  
 - [x] Ensayo sobre la ceguera. José Saramago 
-- [x] Bovedas de acero. Isaac Asimov
+- [x] Los propios dioses.Isaac Asimov
+- [x] Bóvedas de acero. Isaac Asimov
 - [x] El sol desnudo. Asimov
 - [x] París. Edward Rutherfurd
 - [x] A tale of two cities. Charles Dickens 
@@ -70,6 +77,7 @@ menu:
 - [x] Vivir para contarla. Gabriel Garcia Marquez
 - [x] El otoño del patriarca. Gabriel Garcia Marquez
 - [x] Cien años de soledad. Gabriel Garcia Marquez
+- [x] Spies of No Country. Matti Friedman 
 - [x] El problema de los 3 cuerpos. Liu Cixin
 - [x] El fin de la eternidad. Isaac Asimov
 - [x] Objetivo: la luna: la historia inédita de la mayor aventura humana. Parry Dan 
@@ -80,7 +88,7 @@ menu:
 - [x] La riqueza de las naciones. Adam Smith
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] Ensayo sobre la lucidez. José Saramago
-
+- [x] El idiota. Fyodor Dostoyevsky
 
 
 

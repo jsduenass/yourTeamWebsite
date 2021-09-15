@@ -17,12 +17,12 @@ menu:
 > __--- Douglas Adams__
 
 
-> Así también un orbe enteron, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.
+> Así también un orbe entero, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.
 >
 > __--- Charles Dickens, Historia de dos ciudades. pag. 212 (1859)__
 
 
->Bajo esa bóveda tachonada de luminarias fijas y eternas, tan lejanas algunas de este minúsculo planeta que según afirman los sabios es dudoso que sus rayos hallan tenido tiempo de llegar a el descubrirlo com un punto en el espacio donde se sufre y nada se hace
+>Bajo esa bóveda tachonada de luminarias fijas y eternas, tan lejanas algunas de este minúsculo planeta que según afirman los sabios es dudoso que sus rayos hallan tenido tiempo de llegar a el descubrirlo como un punto en el espacio donde se sufre y nada se hace.
 >
 > __--- Charles Dickens, Historia de dos ciudades - El zapatero. (1859)__
 
@@ -55,7 +55,7 @@ De las anteriores dos citas se evidencia el conocimiento de astronomía que pose
 > 
 > __---Robert.A Heinlein, La línea de la vida__
 
-> The intensity of every astonishment gradually wear off; the human mind, by the sheer effect of repetition and habit, gradually becomes accustomed to the strangest and least familiar ideas
+> The intensity of every astonishment gradually wear off; the human mind, by the sheer effect of repetition and habit, gradually becomes accustomed to the strangest and least familiar ideas.
 >
 > __--- Milic Capek, The philosophical impact of contemporary physics__
 
@@ -65,7 +65,7 @@ De las anteriores dos citas se evidencia el conocimiento de astronomía que pose
 
 Antítesis entre la belleza de los lirios y el malestar que representan.
 
-> Fue en aquella cabaña perdida en las montañas del Gran Khingam donde algo comenzó a cambiar en el interior de Ye Wenjie. Las negras profundidades de la tundra congelada de su corazón comenzaron a deshelarse. Apareció una pequeña laguna de aguas cristalinas 
+> Fue en aquella cabaña perdida en las montañas del Gran Khingam donde algo comenzó a cambiar en el interior de Ye Wenjie. Las negras profundidades de la tundra congelada de su corazón comenzaron a deshelarse. Apareció una pequeña laguna de aguas cristalinas. 
 >
 > __--- Liu Cixin, El problema de los 3 cuerpos__
 
@@ -77,13 +77,14 @@ Antítesis entre la belleza de los lirios y el malestar que representan.
 > 
 > __--- Leon Tolstoi, Guerra y paz__
 
-> Bismark esta convencido de que salió victorioso de la ultima guerra causa de complicadas, astutas y profundas consideraciones estatales. Los miembro del Vaterland piensan que fue fruto de patriotismo. Los ingleses piensan que fueron más astutos que Napoleón y todo lo que ellos piensan no ha sido sino creado por su imaginación con ayuda de su intelecto para justificar la necesidad de derramamiento de sangre de la sociedad europea. La misma necesidad que tienen las hormigas negras y amarillas de aniquilarse las unas a otra y de construir sus hormigueros del mismo modo.
+> Bismark esta convencido de que salió victorioso de la ultima guerra a causa de complicadas, astutas y profundas consideraciones estatales. Los miembro del Vaterland piensan que fue fruto de patriotismo. Los ingleses piensan que fueron más astutos que Napoleón y todo lo que ellos piensan no ha sido sino creado por su imaginación con ayuda de su intelecto para justificar la necesidad de derramamiento de sangre de la sociedad europea. La misma necesidad que tienen las hormigas negras y amarillas de aniquilarse las unas a otra y de construir sus hormigueros del mismo modo.
 > 
 > __--- Leon Tolstoi, Guerra y paz__
 
-> En los acontecimientos históricos las grandes personalidades son las etiquetas que dan la denominación al acontecimiento per son las que, al igual que las etiquetas, tienen una menor relación con el acontecimiento 
+> En los acontecimientos históricos las grandes personalidades son las etiquetas que dan la denominación al acontecimiento pero son las que, al igual que las etiquetas, tienen una menor relación con el acontecimiento 
 >  
 > __--- Leon Tolstoi, Guerra y paz__
+
 
 
 
@@ -91,7 +92,7 @@ Antítesis entre la belleza de los lirios y el malestar que representan.
 >
 >__--- Isaac Asimov, se puede evitar un conflicto__
 
-> Oía el corazón. No podia imaginar que aquel leve ruido que me acompañaba desde hacia tanto tiempo pudiese cesar nunca
+> Oía el corazón. No podia imaginar que aquel leve ruido que me acompañaba desde hacia tanto tiempo pudiese cesar nunca.
 >
 > __--- Albert Camus, El extranjero__
 
@@ -108,7 +109,7 @@ Este fragmento que sucede en dialogo entre Sherlock Holmes y Watson puede tomars
 
 > It is my belief, Watson, found upon my experience , that the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful country side.
 > 
-> Arthur Conan Doyle, The adventure of the Cooper Beeches.
+> __--- Arthur Conan Doyle, The adventure of the Cooper Beeches__
 
 What I find interesting about this quote is not that I find it true but rather it is telling of a way of thinking of Conan Doyle, a glimpse on how he saw and felt about the world.
 
@@ -119,7 +120,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >__--- Julio Verne, Veinte mil leguas de viaje submarino__
 
 
-> ¿Acaso no existe ninguna manera de gobernar el mundo sin hacer que la violencia se la manera decisiva de juzgar entre el bien y el mal? ...
+> ¿Acaso no existe ninguna manera de gobernar el mundo sin hacer que la violencia sea la manera decisiva de juzgar entre el bien y el mal? ...
 > vivimos en un mundo en el que la Union Soviética dispone de suficiente armamento como para mater cincuenta veces a cada habitante de la tierra, pero se siente insegura porque los Estados Unidos tienen suficiente armamento como para matar a todos sesenta veces.
 > 
 > __--- Isaac Asimov, No violencia. La visita del tiranosaurio- prologo Penterra__ 
@@ -162,14 +163,14 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >[Asimov] has the habit of centering his fiction in plot and clearly stating to his reader, in rather direct terms, what is happening in his story and why it is happening.
 >
 > __--- Jari Kakela__ 
->
+
 
 > Asimov's plots are rarely very dramatic as such. Rather they focus on the rational, gradual discovery of what has happened (or will, or should happen) frequently resulting in detective story like narrative structures ...
 >
 > it is this sense of accumulating evidence, or knowledge and understanding of the world and the events described, which creates the narrative tension much of Asimov's work. 
 >
 > __--- Jari Kakela__ 
->
+
 
 > Establishing the historicity of the present in the sense of denaturalizing the present by showing it to be neither arbitrary nor inevitable but the conjunctural result of complex, knowable material processes.
 > 
@@ -192,6 +193,26 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > __--- Fiodor Dostievskin, Los hermanos Karamazov__ 
 
+> Let me tell you, my friend, that there are things done to-day in electrical science which would have been deemed unholy by the very men who discovered the electricity - who would themselves not so long before have been burned as wizards,  
+>
+>__--- Bram stroker, Dracula__
+
+> El ni siquiera tomo aliento para explicar que las cucarachas, el insecto más antiguo sobre la tierra, era ya la víctima favorita de los chancletazos en el Antiguo Testamento, pero que como especie era definitivamente refractaria a cualquier método de exterminio, desde las rebanadas de tomate con boráx hasta la harina con azúcar, pues sus mil seiscientas tres variedades habían resistido a la más remota,tenaz y despiadada persecución que el hombre había desatado desde sus orígenes contra ser viviente alguno, inclusive el propio hombre, hasta el extremo de que así como se atribuía al género humano un instinto de reproducción, debía atribuírsele otro más definido y apremiante, que era el instinto de matar cucarachas, y que si éstas habían logrado escapar a la ferocidad humana era porque se habían refugiado  en las tinieblas, donde se hicieron invulnerables por el miedo congénito del hombre a la oscuridad.   
+> 
+>__--- Gabriel Garcia Marquez, cien años de soledad__
+
+
+
+> -  Diremos que lo eonctramos flotando en la canastilla - sonrió 
+>  - No se lo creerá nadie-  dijo la monja 
+> - Si se lo creyeron a las Sagradas Escritura - replico Fernanda-, no veo por qué no han de creérmelo a mi 
+> 
+>__--- Gabriel Garcia Marquez, cien años de soledad__
+
+
+> Era en aquel momento temprano del reinado que cada pueblo vive unas cinco veces en un siglo. Un periodo  revolucionario, diferente de lo que llamamos <<revolución>> solo por el hecho de que el poder está en manos del antiguo gobierno y no del nuevo. En estas revoluciones, como en todas las demás, se habla del espíritu de los nuevos tiempos, de las exigencias de este tiempo, de los derechos del hombre, de la necesidad de que impere la sensatez en la estructura del estad y la justicia general. Bajo el pretexto de estas ideas, también entran en liza las pasiones más irrazonables del hombre. Pasarán  el tiempo y las ganas, y los antiguos introductores de lo novedoso se aferrarán a su antiguo orden nuevo, ahora anticuado, y defenderán la decoración de su casa frente a la juventud que crece, que de nuevo quiere y necesita satisfacer su necesidad de probar fuerzas. 
+> 
+> __--- Leon Tolstoi, Guerra y paz__
 
 ## STEM
 
@@ -200,6 +221,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > __--- Stanislaw Lem, Fiasco__
 
 > Although the harmonic series when summed diverges it does so at an incredible slow rate as if a snail was crawling to infinity. 
+>
 > __--- Physics explained youtube channel__ 
 
 
@@ -233,7 +255,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > __--- The people's choice: How the Voter Makes Up His Mind in a Presidential Campaign__
 
 
-> Every individual carries around with him germs of observations and half-forgoten experiences.
+> Every individual carries around with him germs of observations and half-forgotten experiences.
 >
 > __--- The people's choice: How the Voter Makes Up His Mind in a Presidential Campaign__
 
@@ -249,7 +271,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 > If you really want to lean and get better at anything ... you'll have to be willing to be uncomfortable because thinking takes effort it involves  fighting through confusion.
 >
-> __Dreck Muller - Veritasium__
+> __--- Dreck Muller - Veritasium__
 
 
 > Un mundo le es dado al hombre; su gloria no es soportar ni despreciar este mundo, sino enriquecerlo construyendo otros universos.
@@ -330,11 +352,11 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 >
 >__--- Adam Smith, La riqueza de las naciones__
 
-> cuando hay grands propiedades hay grandes desigualdades. Por cada hombre muy rico debe haber por lo menos 500 pobres, y la opulencia de unos pocos supone la indigencia de muchos. La abundancia de los ricos aviva la indignación de los pobres, que son conducidos por necesidad y alentados por la envidia a atropellar sus posesiones. El dueño de toda propiedad valiosa no puede dormir seguro ni una sola noche si no se halla bajo la protección de un magistrado civil. Todo el tiempo se ve rodeado por enemigos desconocidos a quienes nunca a provocado pero a quienes nunca puede apaciguar jamás.
+> cuando hay grandes propiedades hay grandes desigualdades. Por cada hombre muy rico debe haber por lo menos 500 pobres, y la opulencia de unos pocos supone la indigencia de muchos. La abundancia de los ricos aviva la indignación de los pobres, que son conducidos por necesidad y alentados por la envidia a atropellar sus posesiones. El dueño de toda propiedad valiosa no puede dormir seguro ni una sola noche si no se halla bajo la protección de un magistrado civil. Todo el tiempo se ve rodeado por enemigos desconocidos a quienes nunca a provocado pero a quienes nunca puede apaciguar jamás.
 >
 >__--- Adam Smith, La riqueza de las naciones__
 
-> ahorar, ahorra sin cesar, acumular para acumular, producir para producir; ese es el lema capitalista burgues; el proletariado no es más que una maquina que produce plusvalia, el capitalista es una maquina que capitaliza esta plusvalia.
+> Ahorrar, ahorra sin cesar, acumular para acumular, producir para producir; ese es el lema capitalista burgués; el proletariado no es más que una maquina que produce plusvalia, el capitalista es una maquina que capitaliza esta plusvalia.
 > 
 > __--- Karl Marx, El capital__
 
@@ -343,27 +365,35 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 >[Fight of the Century: Keynes vs. Hayek - Economics Rap Battle Round Two](https://www.youtube.com/watch?v=GTQnarzmTOc)
 
 
+> If I say that the first industrial revolution, the revolution of the 'dark Satanic mills', was the __devaluation of the human arm__ by the competition of machinery there is not rate of pay at which the United States pick an shovel laborer can live which  is low enough to compete with the work of a steam shovel as an excavator.
+
+> The modern industrial revolution is similarly bound to __devalue the human brain__ at least in its simpler or more routine decisions. Of course, just as the skilled carpenter, the skilled mechanic, the skilled dressmaker have in some degree survived the first industrial revolution, so the skilled scientist and the skilled administrator may survive the second. However, taking the second revolution as accomplished, the average human being of mediocre attainments or less has nothing to sell that it is worth anyone’s money to buy.
+
+>The answer, of course, is to have a society based on human values other than buying or selling. To arrive at this society, we need a good deal of planning and a good deal of struggle
+>
+> __--- Robert wiener, Cybernetics__
+
 ## Meaning 
 
 > Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
-> Seria muy triste que todo ocurriese sin que yo lo percibiera. No quiero que mi cuerpo, con sus sufrimientos y sus faltas, sirva tan solo para contribuir a la armonía futura en beneficio de no se quien. Quiero ver con mis propios ojos a la cierva durmiendo junto al león, a la victima besando a su matador. Sobre este deseo reposan toda las religiones y yo tengo fe.
-> Quiero estar presente cuando todos se enteren del porque de las cosas 
+> Seria muy triste que todo ocurriese sin que yo lo percibiera. No quiero que mi cuerpo, con sus sufrimientos y sus faltas, sirva tan solo para contribuir a la armonía futura en beneficio de no se quien. Quiero ver con mis propios ojos a la cierva durmiendo junto al león, a la victima besando a su matador. Sobre este deseo reposan todas las religiones y yo tengo fe.
+> Quiero estar presente cuando todos se enteren del porque de las cosas. 
 > 
 >__--- Fiodor Dostoievski, Los hermanos Kramazov - Rebeldia__
 
-> La vida noes lo que uno vivió sino la que uno recuerda y cómo la recuerda para contarla
+> La vida noes lo que uno vivió sino la que uno recuerda y cómo la recuerda para contarla.
 >
 > __--- Gabriel Garcia Marquez, vivir para contarla__
 
-> still couldn't accept that meaning and solace aren't to be found on the heavens but in the tranches of everyday living
+> Still couldn't accept that meaning and solace aren't to be found on the heavens but in the tranches of everyday living
 >
 > __--- exurb2, And then we'll be ok__
 
-> We are recording things about the world, we are learning things and writing stories and preserving that is truly what i think is the essence of being a human, we are autobiographers of the universe.
+> We are recording things about the world, we are learning things and writing stories and preserving that, is truly what I think is the essence of being a human, we are autobiographers of the universe.
 > 
 > __--- Michel Stevens (Vsauce), The artificial intelligence podcast__
 
-> Toda una serie de pacientes disipulos se convirtieron en su momento en los maestro dogmáticos de la siguiente generación servil 
+> Toda una serie de pacientes disipulos se convirtieron en su momento en los maestro dogmáticos de la siguiente generación servil. 
 >
 > __--- Carl Sagan, el mundo y sus demonios__
 
@@ -384,7 +414,15 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 >__--- Stanislaw Lem, Fiasco__
 
 > The fact that you are not happy has nothing to do with what you have or don't have. the fact that you are not happy is your  life doesn't match the way you think it should be. And you have some idea how you think it should be.
+
+
+> Un mundo le es dado al hombre; su gloria no es soportar o despreciar este mundo, sino enriquecerlo construyendo otros universos
 >
+> __--- Mario Bunge, La ciencia su método y su filosofía__
+
+
+### Time by Pink Floyd
+{{< youtube JwYX52BP2Sk >}}
 
 
 ## Sayings 
@@ -402,7 +440,7 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 > 
 > __--- Isaac Asimov__
 
-> I theory, there is no difference between theory and practice, but in practice there is
+> In theory, there is no difference between theory and practice, but in practice there is
 > 
 > __---Benjamin Brewster, earliest Known appearance__
 
@@ -433,4 +471,5 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 > __--- George Orwell__
 
 > It is very sad to mee that some people are so intent on leaving their mark on the world that they don't care if that mark is a scar
+>
 >  __--- Hank Green__
