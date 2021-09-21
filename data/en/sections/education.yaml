@@ -12,13 +12,39 @@ section:
 degrees:
 - name: Mechatronics Engineer 
   icon: fa-graduation-cap
-  timeframe: 2016-...
+  timeframe: 2015-2020
   institution:
     name: Colombian National University 
     url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Servomechanisms
+    - name: Mechatronic Design
+    - name: Signals and Systems
+    - name: Dynamics
+    - name: Basic Electronics Workshop
+
+  publications: #(optional)
+  - title: servo mechanism system.
+    url: "files/servo_mechanism_system.pdf"
+  - title: turning system for emptying a barrel.
+    url: "files/turning_system_for_emptying_a_barrel.pdf"
+  - title: filter design.
+    url: "files/filter_design.pdf"
+  - title: digital filter desgin DTMF system.
+    url: "files/digital_filter_desgin_DTMF_system.pdf"
+  - title: cranshaft design.
+    url: "files/cranshaft_design.pdf"
+  - title: 2D mechanism
+    url: "files/2D_mechanism.pdf"
+  - title: bike security system.
+    url: "files/bike_security_system.pdf"
+  
 - name: online learner
   icon: "fas fa-wifi"
-  timeframe: 2021-...
+  timeframe: 2021-2022
   institution:
     name: Platzi
     url: "https://platzi.com/p/JS_DS/"

@@ -4,9 +4,10 @@ date: 2021-05-19
 description: Virtual manipulator challenge  
 menu:
   sidebar:
-    name: "MATLAB"
-    identifier: MATLAB
-    weight: 10
+    name: "Robocup"
+    identifier: robocup
+    parent: programming  
+    weight: 8
 ---
 
 
