@@ -11,7 +11,7 @@ menu:
 
 ---
 
-## Book list
+## Reading list
 - [] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html). 
 - [] China 2185. liu cixin
 - [] Cibernetica. Norbert weiner 
@@ -45,7 +45,7 @@ menu:
 - [] Dynamics: the Geometry of Behavior. Ralph Abraham
 
 
-## Leidos
+### Books read
 
 > I cannot remember the books I've read anymore than the meal I have eaten; even so, they have made me 
 >

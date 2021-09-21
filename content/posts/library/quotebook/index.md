@@ -9,10 +9,11 @@ menu:
     weight: 21
 
 ---
+This is a collection of quotes I found interesting in one way or another.
 
 ## Literature
 
-> The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed or perspective tends to be. 
+> The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be. 
 >
 > __--- Douglas Adams__
 
@@ -146,7 +147,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > 
 > __--- Stanislaw Lem, Fiasco__
 
-> How easily an isolated group of the best people can become a threat to themselves through the influence of an individual, particularly if that individual is one of whom they count, as f he were made of even better stuff than they.
+> How easily an isolated group of the best people can become a threat to themselves through the influence of an individual, particularly if that individual is one of whom they count, as he were made of even better stuff than they.
 > 
 > __--- Stanislaw Lem, Fiasco__
 
@@ -203,7 +204,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 
 
-> -  Diremos que lo eonctramos flotando en la canastilla - sonrió 
+> -  Diremos que lo encotramos flotando en la canastilla - sonrió 
 >  - No se lo creerá nadie-  dijo la monja 
 > - Si se lo creyeron a las Sagradas Escritura - replico Fernanda-, no veo por qué no han de creérmelo a mi 
 > 
@@ -229,7 +230,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > __-- Guido Van Rousell, Computer Programming for Everybody__
 
-> I want to study not only what computer is doing for us, but what it is going to us.
+> I want to study not only what computer is doing for us, but what it is doing to us.
 >
 > __--- Sherry Turkle__
 
@@ -242,6 +243,10 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > Thus a familiar model connected to physical intuition, but constituting matter of some ill-understood sort of wave, confronted an abstract mathematics with seemingly bizarra variables, insistent about discontinuity and suspending space-time pictures. Unsurprisingly, the coexistence of alternative theories generated debate. The fact, soon demonstrated, of their mathematical equivalence did not resolve the interpretative dispute. For fundamentally different physical pictures were offer.
 > 
 > __--- Catheryn Carson, The origins of the quantum theory__
+
+> Talk about an equimanicla problem of epic proportions. Here is your question today. You have to understand how all of the known elements in the universe fit together in a logical way. Good luck take care
+> 
+> __--- Matt Walker, The lex Fridman Podcast__
 
 ## Education and learning
 
@@ -271,8 +276,8 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 > If you really want to lean and get better at anything ... you'll have to be willing to be uncomfortable because thinking takes effort it involves  fighting through confusion.
 >
-> __--- Dreck Muller - Veritasium__
-
+> __--- Dereck Muller - Veritasium__
+ 
 
 > Un mundo le es dado al hombre; su gloria no es soportar ni despreciar este mundo, sino enriquecerlo construyendo otros universos.
 > 
@@ -293,7 +298,7 @@ Context has a key role in communication
 > __--- Milic Capek, The philosophical impact of contemporary physics__
 
 
-> The path of true learning is a stew with rocks not roses. 
+> The path of true learning is a strewn with rocks not roses. 
 > 
 > __--- Mortimer Adler__
 
@@ -366,9 +371,9 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 
 
 > If I say that the first industrial revolution, the revolution of the 'dark Satanic mills', was the __devaluation of the human arm__ by the competition of machinery there is not rate of pay at which the United States pick an shovel laborer can live which  is low enough to compete with the work of a steam shovel as an excavator.
-
+>
 > The modern industrial revolution is similarly bound to __devalue the human brain__ at least in its simpler or more routine decisions. Of course, just as the skilled carpenter, the skilled mechanic, the skilled dressmaker have in some degree survived the first industrial revolution, so the skilled scientist and the skilled administrator may survive the second. However, taking the second revolution as accomplished, the average human being of mediocre attainments or less has nothing to sell that it is worth anyone’s money to buy.
-
+>
 >The answer, of course, is to have a society based on human values other than buying or selling. To arrive at this society, we need a good deal of planning and a good deal of struggle
 >
 > __--- Robert wiener, Cybernetics__
@@ -381,7 +386,7 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 > 
 >__--- Fiodor Dostoievski, Los hermanos Kramazov - Rebeldia__
 
-> La vida noes lo que uno vivió sino la que uno recuerda y cómo la recuerda para contarla.
+> La vida no es lo que uno vivió sino la que uno recuerda y cómo la recuerda para contarla.
 >
 > __--- Gabriel Garcia Marquez, vivir para contarla__
 
