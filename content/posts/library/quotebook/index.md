@@ -248,6 +248,44 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > 
 > __--- Matt Walker, The lex Fridman Podcast__
 
+
+
+> The creators of personal computer technology linked their innovations to ideologies or preresentations that explained and justified their designs. Those visions have become invisible, latent assumptions to the latter-day users of the personal computer, even as they shape these user' activities and attitudes. It is my task here to make them visible once again.
+>  
+> __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
+
+> "To make it easy one must make coding comprehensible. Present notation  have many disadvantages; all are incomprehensible to the novice, they are all different (one for each machine) and they are never easy to read. it is quite difficult to decipher coded programs even with notes and even if you yourself made the program several months ago" (quoted in Lubar 1993,359).
+>
+> __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
+
+This quote captures the problem of making code accesible and understandable, a problem that despite all the technological advances is one we are still facing today (written in 2021).
+
+
+> If we then ask ourselves where that intelligence is embodied we are forced to concede that it is elusively distributed throughout hierarchy of functional processesa hierarchy whose foundation extends down into natural processes below the depth of our comprehension. If there is any one thing upon which this intelligence depends it would seem to be _organization_
+>
+>__--- Douglas Engelbart, Augmenting Human Intellect__ 
+
+> The user is at first a virtuality to be invented by the designer and realized along with the technology. Or to put it the other way around, technological innovation initially entails a script that defines specific characters as its users, independent of any real actors who might take those parts.
+>
+> __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
+
+> It started ... when I began work ... on the design of interactive systems to be used by office workers for document preparation. My observations of secretaries learning to use the text editors of that era soon convinced me that my beloved computers were, in fact unfriendly monsters, and that their sharpest fangs were the ever-present modes.(Tesler 1981, 90)
+> 
+> __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
+
+### Mechatronics
+> Clearly, an automobile with 30–60 microcontrollers, up to 100 electric motors, about 200 pounds of wiring, a multitude of sensors, and thousands of lines of software code can hardly be classified as a strictly mechanical system. The automobile is being transformed into a comprehensive mechatronic system.
+>
+> __--- Robert H. Bishop and M. K. Ramasubramanian, What is Mechatronics__
+
+
+## Organization
+
+> While an ideal time to begin a company handbook is at inception, the next best time is _today_.
+>
+>__--- [gitlab Handbok](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)__
+
+
 ## Education and learning
 
 > The sheer magnitude of human knowledge renders its coverage by education an impossibility, rather. The goal of education is better conceived as helping students develop the intellectual tools and learning strategies needed to adquiere the knowledge that allows people to think productively. 
@@ -336,6 +374,11 @@ Context has a key role in communication
 > There is a risk of giving people the illusion of understanding math .. unless they solve a problem that requires struggle ... I don't have a lot of faith that actual learning took place.
 >
 > __--- Grant Sanderson (three blue on brown), Showmakers podcast__
+
+
+> La educación se ve obligada a proporcionar las cartas náuticas de un mundo complejo y en perpetua agitación y, al mismo tiempo, la brújula para poder navegar por él.
+>
+>_--- Jackes Delors, Los cuatro pilares de la educación__
 
 
 

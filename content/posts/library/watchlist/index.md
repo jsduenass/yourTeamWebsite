@@ -65,6 +65,7 @@ menu:
 - [x] Los propios dioses.Isaac Asimov
 - [x] Bóvedas de acero. Isaac Asimov
 - [x] El sol desnudo. Asimov
+- [x] Bootstrapping Douglas Endelbart and the origins of Personal Computing. Thierry Bardin
 - [x] París. Edward Rutherfurd
 - [x] A tale of two cities. Charles Dickens 
 - [x] Paris del siglo xx. Julio Verne

@@ -15,7 +15,7 @@ company:
   url: "https://unal.edu.co/"
 
 # your resume. this file path should be relative to you "static" directory
-#resume: ""
+resume: "files/Sebastian_Duenas_CV.pdf"
 
 # a summary about you
 summary: 'Mechatronics Engineer Student interested in programming, control theory and numerical simulations, driven by a deep interest for learning and motivated to search innovative solutions through the lense of Engineering and Optimization.'

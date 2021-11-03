@@ -12,13 +12,15 @@ hero: hero.gif
 ---
 
 
-I am guessing you have already read the __[about section](/#about)__  which holds a formal presentation of who I am. This however is a more lay back version where I intend to explore more aspects about myself and also document the experiences while creating this website.
+The __[about section](/#about)__  holds a formal presentation of who I am. This however is a more lay back version where I intend to explore and also document different experiences.
 
 
 ## How do you justify your existence? 
-This is a phrase that has stuck with me since the first time I read it in _The Tales of the Black Widowers_ by Isaac Asimov. Asimov is one of my favorite authors. he encapsulates a genuine wonder for the world and all what is around him. Through the lenses of science fiction he builds a reflections . So  my way of answering this question would be.
+This is a phrase that has stuck with me since the first time I read it in _The Tales of the Black Widowers_ by Isaac Asimov. Asimov is one of my favorite authors. He encapsulates a genuine wonder for the world and all what is around him. Through the lense of science fiction he builds a reflection of our own world with little sprinkles of speculation here and there to make something that feels foreign and yet very familiar. So  my way of answering this question would be.
 
-> The world is a fascinating place, but we only get to live inside the boundary of what we know therefore I justify my existence by expanding this horizon to the farthest I can, and be amazed and amused by what there is out there
+> The world is a fascinating place, but we only get to live inside the boundary of what we know therefore I justify my existence by expanding this horizon to the farthest I can, and be amazed and amused by what there is out there.
+
+
 
 ## Building this website
 Let's start from the beginning, I been thinking about writing for a long time but have struggled to do it for any meaningful length of time and keep up with it. I don't know when you are reading this but 2020/2021 have been period defined by a global pandemic which caused a rapid adoption of digital technologies. The times are changing so adapting to this new world with a bigger digital presence is a must.
