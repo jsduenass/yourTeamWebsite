@@ -179,7 +179,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 > Es cierto que la nación no se crea por leyes ni decretos, sobre todo en Colombia, pues sabido es que muchas normas estipuladas en la Constitución son letra muerta
 > 
-> __--- María ELena Erazo, Construcción de la nación Colombiana__
+> __--- María Elena Erazo, Construcción de la nación Colombiana__
 
 
 > Ustedes se deleitan haciendo leyes pero más se deleitan burlándolas como los niños que jugando en la playa levantan con paciencia castillo de arena que luego destruyen entre risas.
@@ -215,6 +215,11 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > 
 > __--- Leon Tolstoi, Guerra y paz__
 
+> The crusade was failing on the shore of the promised land, its prophet entrenched in its vision, its soldier-priest lost in self-doubt. In the literature describing the anthropology of religions, this is the time of scapegoats and the murderous crowd.
+> 
+> __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
+
+
 ## STEM
 
 > Physics my friend is a narrow path drawn across a gulf that the human imagination cannot grasp
@@ -224,15 +229,6 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > Although the harmonic series when summed diverges it does so at an incredible slow rate as if a snail was crawling to infinity. 
 >
 > __--- Physics explained youtube channel__ 
-
-
->It is time to give these users more control over their computers through education and supporting software, this will cause a massive surge in productivity and creativity, with a far-ranging impact that can barely be anticipated or imagined.
->
-> __-- Guido Van Rousell, Computer Programming for Everybody__
-
-> I want to study not only what computer is doing for us, but what it is doing to us.
->
-> __--- Sherry Turkle__
 
 > figuring out mathematical operations and tricks certainly takes significant  amounts  of  effort,  time,  and  devotion.  Today,  we  often  take  for  granted  those  symbols  and explanations that are neatly compiled into math and science textbooks. It is easy to forget that every  equation  encases  a  story:  frustration,  fascination,  arduous  work,  friendly  collaborations,  disappointment, and the occasional serendipity. Mathematics is not just about numbers, but it is also about the people whose work gives us the luxury and pleasure of understanding.  
 >
@@ -250,7 +246,16 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 
 
-> The creators of personal computer technology linked their innovations to ideologies or preresentations that explained and justified their designs. Those visions have become invisible, latent assumptions to the latter-day users of the personal computer, even as they shape these user' activities and attitudes. It is my task here to make them visible once again.
+### Computers
+> It is time to give these users more control over their computers through education and supporting software, this will cause a massive surge in productivity and creativity, with a far-ranging impact that can barely be anticipated or imagined.
+>
+> __-- Guido Van Rousell, Computer Programming for Everybody__
+
+> I want to study not only what computer is doing for us, but what it is doing to us.
+>
+> __--- Sherry Turkle__
+
+> The creators of personal computer technology linked their innovations to ideologies or representations that explained and justified their designs. Those visions have become invisible, latent assumptions to the latter-day users of the personal computer, even as they shape these user' activities and attitudes. It is my task here to make them visible once again.
 >  
 > __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
 
@@ -273,17 +278,44 @@ This quote captures the problem of making code accesible and understandable, a p
 > 
 > __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
 
+> The future often is seen in terms of yesterday's questions, just as the past is seen in terms of what prevailed. But some of the yesterday's questions remain unanswered about the future of the personal computer, and indeed, about the future of the person who used it. Clues to what those answers might be sometimes can be found by remembering and reevaluating what did not prevail.
+> 
+> __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
+
+
+
+> The great success of the internet is not technical, but in human impact. Electronic mail may not be a wonderful advance in Computer science but it is a whole new way fo people to communicate
+> 
+> __--- David Clark, [RFC 1336](https://datatracker.ietf.org/doc/html/rfc1336)__
+
 ### Mechatronics
 > Clearly, an automobile with 30–60 microcontrollers, up to 100 electric motors, about 200 pounds of wiring, a multitude of sensors, and thousands of lines of software code can hardly be classified as a strictly mechanical system. The automobile is being transformed into a comprehensive mechatronic system.
 >
 > __--- Robert H. Bishop and M. K. Ramasubramanian, What is Mechatronics__
 
+> No matter how well an individual subsystem or component (electric motor, sensor, power amplifier, or DSP) performs, the overall performance can be degraded if the designer fails to integrate and optimize the electromechanical system. 
+>
+> __---Sergey Edward Lyshevski, The Mechatronics handbook__
+
+> Modeling, simulation, analysis, virtual prototyping, and visualization are critical and urgently important aspects for developing and prototyping of advanced electromechanical systems.
+> 
+> __---Sergey Edward Lyshevski, The Mechatronics handbook__
+
+
+
+
+{{< youtube PL1-Z9ArJBD7tBImjZDuETByCk3q9djTMc >}}
+<!---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL1-Z9ArJBD7tBImjZDuETByCk3q9djTMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+--->
 
 ## Organization
 
 > While an ideal time to begin a company handbook is at inception, the next best time is _today_.
 >
->__--- [gitlab Handbok](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)__
+>__--- [gitlab Handbook](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)__
+
+
 
 
 ## Education and learning
@@ -468,6 +500,7 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 >
 > __--- Mario Bunge, La ciencia su método y su filosofía__
 
+[John Danaher at the Lex Fridman Podcast](https://www.youtube.com/watch?v=ktuw6Ow4sd0)
 
 ### Time by Pink Floyd
 {{< youtube JwYX52BP2Sk >}}

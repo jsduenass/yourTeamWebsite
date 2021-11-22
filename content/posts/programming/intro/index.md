@@ -17,3 +17,8 @@ Well, I think that is a muddy question because it encapsulates a wide range of a
 There has to be  a lot of patience in this process because programming is slow, full of walls you have to smash your head against many times until you realize there is actually a path around, it is building and tearing down your own creations because things are going to fail a lot!!! so you have to be ready to let go and try new perspectives. Now that you have a taste of what is in front of you is just natural to set a goal something you want to accomplish a project and try to find the knowledge you'll need to make it work.
 
 
+
+## UNRobot simulation challenge 
+
+{{< youtube PL1-Z9ArJBD7tciVHUn6VALEUHiWq_CKOR >}}
+

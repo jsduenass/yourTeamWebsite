@@ -54,7 +54,7 @@ menu:
 - [x] Cuentos completos I. Isaac Asimov
 - [x] Fundación. Isaac Asimov
 - [x] Los hermanos kamarazov. Fyodor Dostoyevsky.   [The Problem of Evil: Crash Course Philosophy](https://www.youtube.com/watch?v=9AzNEG1GB-k)  
-- [x] La guia del autoestopista intergalactico. Douglas Adams
+- [x] La guia del autoestopista intergaláctico. Douglas Adams
 - [x] La nave de un millón de años. Poul Anderson
 - [x] Visiones de robot. Isaac Asimov
 - [x] The hunger games. Suzanne Collins

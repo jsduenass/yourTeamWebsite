@@ -14,6 +14,14 @@ hero: hero.gif
 
 The __[about section](/#about)__  holds a formal presentation of who I am. This however is a more lay back version where I intend to explore and also document different experiences.
 
+## What I am currently interested in
+
+* Computers
+* Organizations
+* Information
+* Robots
+* Cybernetics 
+
 
 ## How do you justify your existence? 
 This is a phrase that has stuck with me since the first time I read it in _The Tales of the Black Widowers_ by Isaac Asimov. Asimov is one of my favorite authors. He encapsulates a genuine wonder for the world and all what is around him. Through the lense of science fiction he builds a reflection of our own world with little sprinkles of speculation here and there to make something that feels foreign and yet very familiar. So  my way of answering this question would be.
