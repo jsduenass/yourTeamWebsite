@@ -15,10 +15,14 @@ menu:
 - [] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html). 
 - [] China 2185. liu cixin
 - [] Cibernetica. Norbert weiner 
+- [] The Human Use of Human Beings. Norbert weiner
+- [] [Baumgartner & Momsen Detective Stories for German Learners](https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook)
 - [] La historia de mi vida. Hellen Keller
 - [] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
 - [] Emilio o de la educación. Rousseau.
 - [] Historia social del conocimiento. Peter Burke
+- [] The Feynman Lectures on Physics
+- [] this is how they tell me the world ends. Nicole Perlroth
 - [] Self-Reliance. Ralph Waldo Emerson
 - [] Si una Noche de Invierno un Viajero. Italo Calvino 
 - [] where wizards stay up late. Katie Hafner
@@ -43,6 +47,13 @@ menu:
 - [] Diagnosing the System for Organizations. Stafford Beer 
 - [] Social Commitments in a Depersonalized World. Shane R. Thye  
 - [] Dynamics: the Geometry of Behavior. Ralph Abraham
+- [] Computers as theatre. Brenda Laurel 
+- [] Modern Operating Systems. Stuart Tanenbaum 
+- [] Computer networks. Stuart Tanenbaum
+- [] Oryx and crake. Margaret Atwood
+- [] The selfish gene.Richard Dawkins
+- [] On the origin of species. Charles Darwin
+- [] the Dragon Book
 
 
 ### Books read
@@ -90,6 +101,7 @@ menu:
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] Ensayo sobre la lucidez. José Saramago
 - [x] El idiota. Fyodor Dostoyevsky
-
+- [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
+SpellRight  
 
 

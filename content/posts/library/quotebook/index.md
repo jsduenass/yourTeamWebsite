@@ -23,7 +23,7 @@ This is a collection of quotes I found interesting in one way or another.
 > __--- Charles Dickens, Historia de dos ciudades. pag. 212 (1859)__
 
 
->Bajo esa bóveda tachonada de luminarias fijas y eternas, tan lejanas algunas de este minúsculo planeta que según afirman los sabios es dudoso que sus rayos hallan tenido tiempo de llegar a el descubrirlo como un punto en el espacio donde se sufre y nada se hace.
+>Bajo esa bóveda tachonada de luminarias fijas y eternas, tan lejanas algunas de este minúsculo planeta que según afirman los sabios es dudoso que sus rayos hallan tenido tiempo de llegar a el descubrirlo como un punto en el espacio donde nada se sufre y nada se hace.
 >
 > __--- Charles Dickens, Historia de dos ciudades - El zapatero. (1859)__
 
@@ -303,9 +303,9 @@ This quote captures the problem of making code accesible and understandable, a p
 
 
 
-
-{{< youtube PL1-Z9ArJBD7tBImjZDuETByCk3q9djTMc >}}
 <!---
+{{< youtube PL1-Z9ArJBD7tBImjZDuETByCk3q9djTMc >}}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL1-Z9ArJBD7tBImjZDuETByCk3q9djTMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 --->
 
@@ -453,6 +453,16 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 >
 > __--- Robert wiener, Cybernetics__
 
+> The history of industrial automation is characterized by periods of rapid change in
+popular methods. Either as a cause or, perhaps, an effect, such periods of change in
+automation techniques seem closely tied to world economics
+>
+>__---- John Craig__
+
+
+
+it is fascinating to see how an indicator of economic prosperity has shifted from production to consumption
+
 ## Meaning 
 
 > Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
@@ -500,6 +510,8 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 >
 > __--- Mario Bunge, La ciencia su método y su filosofía__
 
+
+[Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo)
 [John Danaher at the Lex Fridman Podcast](https://www.youtube.com/watch?v=ktuw6Ow4sd0)
 
 ### Time by Pink Floyd
