@@ -1,194 +1,20 @@
-<!doctype html><html>
-<head>
-<title>Robocup Virtual manipulator challenge</title>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta http-equiv=x-ua-compatible content="ie=edge">
-<link rel=stylesheet href=/css/bootstrap.min.css>
-<link rel=stylesheet href=/css/layouts/main.css>
-<link rel=stylesheet href=/css/style.css>
-<link rel=stylesheet href=/css/navigators/navbar.css>
-<link rel=stylesheet href=/css/plyr.css>
-<link rel=stylesheet href=/css/flag-icon.min.css>
-<link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600" rel=stylesheet>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css>
-<link rel=icon type=image/png href=/images/site/logo.svg>
-<link rel=stylesheet href=/css/style.css>
-<meta name=description content="Virtual manipulator challenge">
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css>
-<link rel=stylesheet href=/css/layouts/single.css>
-<link rel=stylesheet href=/css/navigators/sidebar.css>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-122321624-2','auto'),ga('send','pageview'))</script>
-<script async src=https://www.google-analytics.com/analytics.js></script>
-</head>
-<body data-spy=scroll data-target=#TableOfContents data-offset=80>
-<div class="container-fluid bg-dimmed wrapper">
-<nav class="navbar navbar-expand-xl top-navbar final-navbar shadow">
-<div class=container>
-<button class="navbar-toggler navbar-light" id=sidebar-toggler type=button onclick=toggleSidebar()>
-<span class=navbar-toggler-icon></span>
-</button>
-<a class=navbar-brand href=/>
-<img src=/images/site/logo.svg alt=Logo>Sebastian D 🇨🇴 </a>
+<!doctype html><html><head><title>Robocup Virtual manipulator challenge</title><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="ie=edge"><link rel=stylesheet href=/css/bootstrap.min.css><link rel=stylesheet href=/css/layouts/main.css><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/navigators/navbar.css><link rel=stylesheet href=/css/plyr.css><link rel=stylesheet href=/css/flag-icon.min.css><link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600" rel=stylesheet><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css><link rel=icon type=image/png href=/images/site/logo.svg><link rel=stylesheet href=/css/style.css><meta name=description content="Virtual manipulator challenge"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css><link rel=stylesheet href=/css/layouts/single.css><link rel=stylesheet href=/css/navigators/sidebar.css><script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-122321624-2","auto"),ga("send","pageview"))</script><script async src=https://www.google-analytics.com/analytics.js></script></head><body data-spy=scroll data-target=#TableOfContents data-offset=80><div class="container-fluid bg-dimmed wrapper"><nav class="navbar navbar-expand-xl top-navbar final-navbar shadow"><div class=container><button class="navbar-toggler navbar-light" id=sidebar-toggler type=button onclick=toggleSidebar()>
+<span class=navbar-toggler-icon></span></button>
+<a class=navbar-brand href=/><img src=/images/site/logo.svg alt=Logo>Sebastian D 🇨🇴</a>
 <button class="navbar-toggler navbar-light" id=toc-toggler type=button onclick=toggleTOC()>
-<span class=navbar-toggler-icon></span>
-</button>
-<div class="collapse navbar-collapse lang-selector" id=top-nav-items>
-<ul class="navbar-nav ml-auto">
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle" href=# id=languageSelector role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>
-<span class="flag-icon flag-icon-gb"></span>
-English
-</a>
-<div class=dropdown-menu aria-labelledby=languageSelector>
-<a class="dropdown-item nav-link languages-item" href=/es/posts/programming/robocup>
-<span class="flag-icon flag-icon-es"></span>
-Spanish
-</a>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<img src=/images/site/logo.svg class=d-none id=main-logo alt=Logo>
-<img src=/images/site/inverted-logo.svg class=d-none id=inverted-logo alt="Inverted Logo">
-</nav>
-<section class=sidebar-section id=sidebar-section>
-<div class=sidebar-holder>
-<div class=sidebar id=sidebar>
-<form class=mx-auto method=get action=https://jsduenass.github.io/search>
-<input type=text name=keyword placeholder=Search data-search id=search-box>
-</form>
-<div class=sidebar-tree>
-<ul class=tree id=tree>
-<li id=list-heading><a href=/posts data-filter=all>Posts</a></li>
-<div class=subtree>
-<li><a href=/posts/meta/ title=About>About</a></li>
-<li>
-<i class="fas fa-plus-circle"></i><a href=/posts/library/>Library</a>
-<ul>
-<li><a href=/posts/library/quotebook/ title=Quotebook>Quotebook</a></li>
-<li><a href=/posts/library/watchlist/ title="Watch list">Watch list</a></li>
-</ul>
-</li>
-<li>
-<i class="fas fa-minus-circle"></i><a class=active href=/posts/programming/>Programming</a>
-<ul class=active>
-<li><a href=/posts/programming/intro/ title=Intro>Intro</a></li>
-<li><a class=active href=/posts/programming/robocup/ title=Robocup>Robocup</a></li>
-</ul>
-</li>
-<li><a href=/posts/data-analysis/datacademy/ title=Datacademy>Datacademy</a></li>
-</div>
-</ul>
-</div>
-</div>
-</div>
-</section>
-<section class=content-section id=content-section>
-<div class=content>
-<div class="container p-0 read-area">
-<div class="hero-area col-sm-12" id=hero-area style=background-image:url(https://jsduenass.github.io/posts/programming/robocup/hero.png)>
-</div>
-<div class=page-content>
-<div class="author-profile ml-auto align-self-lg-center">
-<img class=rounded-circle src=/images/author/Sebastian.png alt="Author Image">
-<h5 class=author-name>Juan Sebastian Dueñas</h5>
-<p>May 19, 2021</p>
-</div>
-<div class=title>
-<h1>Robocup Virtual manipulator challenge</h1>
-</div>
-<div class=post-content id=post-content>
-<h2 id=resources>Resources</h2>
-<ul>
-<li><a href=https://2021.robocup.org/robot-manipulation>Virtual manipulator challenge main page</a></li>
-<li><a href="https://youtu.be/h-IVj2tajQQ?t=1561">Video introduction</a></li>
-<li><a href=https://github.com/jsduenass/virtual_manipulator>source code</a></li>
-<li><a href=https://jsduenass.github.io/posts/matlab/>Blog</a></li>
-</ul>
-<h3 id=other-resources>Other resources</h3>
-<ul>
-<li><a href=https://www.mathworks.com/help/robotics/ug/pick-and-place-gazebo-with-point-clouds-and-rrt.html>Pick-and-Place Workflow in Gazebo Using Point-Cloud Processing and RRT Path Planning</a></li>
-<li><a href=https://atwork.robocup.org/2021/03/12/robocup-2021-worldwide-call-for-participation/>Robocup@work team qualifications</a></li>
-<li><a href=https://athome.robocup.org/2021-cfp-all/>Robocup@home team qualifications</a></li>
-<li><a href=https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge>Github getting started</a></li>
-<li><a href=https://www.facebook.com/notes/matlab-and-simulink-robotics-arena/design-and-control-of-robot-manipulators-technical-resources/3351011848336733/>Design and Control of Robot Manipulators </a></li>
-<li><a href=https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html>Get started with gazebo</a></li>
-</ul>
-<h2 id=objective>Objective</h2>
-<p>Crate an algorithm for the robotic arm so it can sort properly the cans and bottles.</p>
-<ul>
-<li>Cans must go into the green bin</li>
-<li>Bottles must go into the blue bin</li>
-</ul>
-<h2 id=config-of-this-project>Config of this project</h2>
-<ul>
-<li>A submodule is used the repository <a href=https://github.com/mora200217/vision_>vision_</a> if you want to clone this repository use the command <code>git clone --recurse-submodules https://github.com/jsduenass/virtual_manipulator</code></li>
-<li>add the folders <code>data</code> and <code>functions</code> to the matlab path.</li>
-<li>if you need to change the ROS ip address run the following command so git ignores the changes<code>git update-index --skip-worktree data/ROS_ip.txt</code>. If you need to update the submodule <code>git submodule update --remote --merge</code></li>
-</ul>
-<h2 id=results>Results</h2>
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden>
-<iframe src=https://www.youtube.com/embed/L27-7TKqqbg style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="YouTube Video"></iframe>
-</div>
-<h2 id=about-the-virtual-machine>About the virtual machine</h2>
-<p>The work is based on the vmware virtual machine provided by the github getting started. It contains:</p>
-<ul>
-<li>ROS 2 Dashing desktop installation</li>
-<li>ROS Melodic desktop installation</li>
-<li>Gazebo robot simulator 9.0.0</li>
-<li>Example Gazebo worlds for a simulated TurtleBot® 3</li>
-</ul>
-<p>Checking the version of the software packages</p>
-<pre tabindex=0><code>lsb_release -a
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse lang-selector" id=top-nav-items><ul class="navbar-nav ml-auto"><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href=# id=languageSelector role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false><span class="flag-icon flag-icon-gb"></span>
+English</a><div class=dropdown-menu aria-labelledby=languageSelector><a class="dropdown-item nav-link languages-item" href=/es/posts/programming/robocup><span class="flag-icon flag-icon-es"></span>
+Spanish</a></div></li></ul></div></div><img src=/images/site/logo.svg class=d-none id=main-logo alt=Logo>
+<img src=/images/site/inverted-logo.svg class=d-none id=inverted-logo alt="Inverted Logo"></nav><section class=sidebar-section id=sidebar-section><div class=sidebar-holder><div class=sidebar id=sidebar><form class=mx-auto method=get action=https://jsduenass.github.io/search><input type=text name=keyword placeholder=Search data-search id=search-box></form><div class=sidebar-tree><ul class=tree id=tree><li id=list-heading><a href=/posts data-filter=all>Posts</a></li><div class=subtree><li><a href=/posts/meta/ title=About>About</a></li><li><i class="fas fa-plus-circle"></i><a href=/posts/library/>Library</a><ul><li><a href=/posts/library/quotebook/ title=Quotebook>Quotebook</a></li><li><a href=/posts/library/watchlist/ title="Watch list">Watch list</a></li></ul></li><li><i class="fas fa-minus-circle"></i><a class=active href=/posts/programming/>Programming</a><ul class=active><li><a href=/posts/programming/intro/ title=Intro>Intro</a></li><li><a href=/posts/programming/linux/ title=Linux>Linux</a></li><li><a href=/posts/programming/raspi/ title="Raspbery pi">Raspbery pi</a></li><li><a class=active href=/posts/programming/robocup/ title=Robocup>Robocup</a></li></ul></li><li><a href=/posts/data-analysis/datacademy/ title=Datacademy>Datacademy</a></li></div></ul></div></div></div></section><section class=content-section id=content-section><div class=content><div class="container p-0 read-area"><div class="hero-area col-sm-12" id=hero-area style=background-image:url(https://jsduenass.github.io/posts/programming/robocup/hero.png)></div><div class=page-content><div class="author-profile ml-auto align-self-lg-center"><img class=rounded-circle src=/images/author/Sebastian.png alt="Author Image"><h5 class=author-name>Juan Sebastian Dueñas</h5><p>May 19, 2021</p></div><div class=title><h1>Robocup Virtual manipulator challenge</h1></div><div class=post-content id=post-content><h2 id=virtual-manipulator-demo>virtual manipulator demo</h2><h2 id=resources>Resources</h2><ul><li><a href=https://2021.robocup.org/robot-manipulation>Virtual manipulator challenge main page</a></li><li><a href="https://youtu.be/h-IVj2tajQQ?t=1561">Video introduction</a></li><li><a href=https://github.com/jsduenass/virtual_manipulator>source code</a></li><li><a href=https://jsduenass.github.io/posts/matlab/>Blog</a></li></ul><h3 id=other-resources>Other resources</h3><ul><li><a href=https://www.mathworks.com/help/robotics/ug/pick-and-place-gazebo-with-point-clouds-and-rrt.html>Pick-and-Place Workflow in Gazebo Using Point-Cloud Processing and RRT Path Planning</a></li><li><a href=https://atwork.robocup.org/2021/03/12/robocup-2021-worldwide-call-for-participation/>Robocup@work team qualifications</a></li><li><a href=https://athome.robocup.org/2021-cfp-all/>Robocup@home team qualifications</a></li><li><a href=https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge>Github getting started</a></li><li><a href=https://www.facebook.com/notes/matlab-and-simulink-robotics-arena/design-and-control-of-robot-manipulators-technical-resources/3351011848336733/>Design and Control of Robot Manipulators</a></li><li><a href=https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html>Get started with gazebo</a></li></ul><h2 id=objective>Objective</h2><p>Crate an algorithm for the robotic arm so it can sort properly the cans and bottles.</p><ul><li>Cans must go into the green bin</li><li>Bottles must go into the blue bin</li></ul><h2 id=config-of-this-project>Config of this project</h2><ul><li>A submodule is used the repository <a href=https://github.com/mora200217/vision_>vision_</a> if you want to clone this repository use the command <code>git clone --recurse-submodules https://github.com/jsduenass/virtual_manipulator</code></li><li>add the folders <code>data</code> and <code>functions</code> to the matlab path.</li><li>if you need to change the ROS ip address run the following command so git ignores the changes<code>git update-index --skip-worktree data/ROS_ip.txt</code>. If you need to update the submodule <code>git submodule update --remote --merge</code></li></ul><h2 id=results>Results</h2><div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden><iframe src=https://www.youtube.com/embed/L27-7TKqqbg style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="YouTube Video"></iframe></div><h2 id=about-the-virtual-machine>About the virtual machine</h2><p>The work is based on the vmware virtual machine provided by the github getting started. It contains:</p><ul><li>ROS 2 Dashing desktop installation</li><li>ROS Melodic desktop installation</li><li>Gazebo robot simulator 9.0.0</li><li>Example Gazebo worlds for a simulated TurtleBot® 3</li></ul><p>Checking the version of the software packages</p><pre tabindex=0><code>lsb_release -a
 gazebo -v
-</code></pre><ul>
-<li>Ubuntu version: 18.04.5</li>
-<li>Gazebo version: 9.16.0</li>
-</ul>
-<p>The project uses ros_kortex robotic arm for the virtual manipulator</p>
-<p>There are different platforms where to run vmware workstation player and virtual box. The tutorial recommends using the vmware route and issues where found while using virtual box</p>
-<h3 id=vmware>vmware</h3>
-<p>While running the virtual machine some errors were encounter</p>
-<pre tabindex=0><code>Error while powering on: VMware Player does not support nested virtualization on this host.
+</code></pre><ul><li>Ubuntu version: 18.04.5</li><li>Gazebo version: 9.16.0</li></ul><p>The project uses ros_kortex robotic arm for the virtual manipulator</p><p>There are different platforms where to run vmware workstation player and virtual box. The tutorial recommends using the vmware route and issues where found while using virtual box</p><h3 id=vmware>vmware</h3><p>While running the virtual machine some errors were encounter</p><pre tabindex=0><code>Error while powering on: VMware Player does not support nested virtualization on this host.
 </code></pre><p>Which were fix by disabling the <code>virtual CPU performance counters</code> and <code>Virtual Intel VT-x/EPT or AMD-V/RVI</code> settings
-and <code>disable side channel mitigation</code></p>
-<h3 id=virtual-box-not-recommended>Virtual box (Not recommended)</h3>
-<ul>
-<li>Running and testing the vm (virtual machine) works</li>
-<li>Take a snapshot of the vm in order to have a backup to go back to if something goes wrong.</li>
-<li>Using virtual box Guest additions to get full-screen</li>
-<li>Activate share clipboard to copy paste to work between both in host and guest</li>
-<li>Configure Network between guest and host. Here there are two options:
-<ul>
-<li>Enable network adapter with bridge configuration. issue: scripts file where the ros_master URI is configured fail because many network interfaces are recognized so the ros_master URI needs to be manually defined.<br>
-<img src=images/network-config.png alt="Network configuration"></li>
-<li>Enable network adapter with <strong>NAT</strong> configuration and allow <strong>port forwarding</strong> in advance settings. The port 11311 needs to be forward in order for the host computer to connect to ROS network. NAT (Network Address Translation) creates a private network for the guest vm So the IP address used from inside the guest <code>192.168.56.1</code> is different tha the used by the host computer <code>192.168.56.1</code>. issue: ROS services does not working properly with MATLAB. Note: Check the virtual box network tool to identify network adaptor of the host computer <code>192.168.56.1</code></li>
-</ul>
-</li>
-</ul>
-<p>Once a virtual machine is setup and running some minor configuration are made in order to make it easier to use</p>
-<ul>
-<li>
-<p>Add <a href=https://askubuntu.com/questions/1014585/how-to-add-a-latin-american-keyboard-in-17-10>Spanish keyboard</a>: changing the default keyboard layout from English to Spanish simplifies the use of special characters</p>
-<pre tabindex=0><code>sudo locale-gen es_AR.UTF-8
-</code></pre></li>
-<li>
-<p>Add the setup file from ROS and catkin environment to bash, in order to add the ROS environment variable and be able to run ROS command from the shell.</p>
-<pre tabindex=0><code>echo 'source /opt/ros/melodic/setup.bash' &gt;&gt;  ~/.bashrc
-echo 'source ~/catkin_ws/devel/setup.bash' &gt;&gt;  ~/.bashrc
-</code></pre></li>
-<li>
-<p>try running <code>rostopic list</code> to test it is working</p>
-</li>
-</ul>
-<h2 id=environment-exploration>Environment exploration</h2>
-<p>Files related to the project are located at the Desktop inside the Robocup Challenge folder. Exploring these files ( <code>Example World 1.desktop</code>) from the command line give an insight in how they work</p>
-<pre tabindex=0><code>cd &quot;~/Desktop/RoboCup Challenge&quot;
-less &quot;Example World 1.desktop&quot;
-</code></pre><p>Content of <code>Example World 1.desktop</code>:</p>
-<pre tabindex=0><code>[Desktop Entry]
+and <code>disable side channel mitigation</code></p><h3 id=virtual-box-not-recommended>Virtual box (Not recommended)</h3><ul><li>Running and testing the vm (virtual machine) works</li><li>Take a snapshot of the vm in order to have a backup to go back to if something goes wrong.</li><li>Using virtual box Guest additions to get full-screen</li><li>Activate share clipboard to copy paste to work between both in host and guest</li><li>Configure Network between guest and host. Here there are two options:<ul><li>Enable network adapter with bridge configuration. issue: scripts file where the ros_master URI is configured fail because many network interfaces are recognized so the ros_master URI needs to be manually defined.<br><img src=images/network-config.png alt="Network configuration"></li><li>Enable network adapter with <strong>NAT</strong> configuration and allow <strong>port forwarding</strong> in advance settings. The port 11311 needs to be forward in order for the host computer to connect to ROS network. NAT (Network Address Translation) creates a private network for the guest vm So the IP address used from inside the guest <code>192.168.56.1</code> is different tha the used by the host computer <code>192.168.56.1</code>. issue: ROS services does not working properly with MATLAB. Note: Check the virtual box network tool to identify network adaptor of the host computer <code>192.168.56.1</code></li></ul></li></ul><p>Once a virtual machine is setup and running some minor configuration are made in order to make it easier to use</p><ul><li><p>Add <a href=https://askubuntu.com/questions/1014585/how-to-add-a-latin-american-keyboard-in-17-10>Spanish keyboard</a>: changing the default keyboard layout from English to Spanish simplifies the use of special characters</p><pre tabindex=0><code>sudo locale-gen es_AR.UTF-8
+</code></pre></li><li><p>Add the setup file from ROS and catkin environment to bash, in order to add the ROS environment variable and be able to run ROS command from the shell.</p><pre tabindex=0><code>echo &#39;source /opt/ros/melodic/setup.bash&#39; &gt;&gt;  ~/.bashrc
+echo &#39;source ~/catkin_ws/devel/setup.bash&#39; &gt;&gt;  ~/.bashrc
+</code></pre></li><li><p>try running <code>rostopic list</code> to test it is working</p></li></ul><h2 id=environment-exploration>Environment exploration</h2><p>Files related to the project are located at the Desktop inside the Robocup Challenge folder. Exploring these files ( <code>Example World 1.desktop</code>) from the command line give an insight in how they work</p><pre tabindex=0><code>cd &#34;~/Desktop/RoboCup Challenge&#34;
+less &#34;Example World 1.desktop&#34;
+</code></pre><p>Content of <code>Example World 1.desktop</code>:</p><pre tabindex=0><code>[Desktop Entry]
 Version=1.0
 Comment=Launch example world for RoboCup challenge
 Exec=/home/user/start-robocup-example-world-1.sh
@@ -197,207 +23,38 @@ Type=Application
 Categories=Utility;Application;
 Icon=/usr/share/icons/Tango/32x32/mimetypes/gnome-mime-application-x-executable.png
 Name[en_US]=Example World 1
-</code></pre><p>This file launches a shell script <code>~/start-robocup-example-world-1.sh</code></p>
-<pre tabindex=0><code>less ~/start-robocup-example-world-1.sh
-</code></pre><p>Content of <code>~/start-robocup-example-world-1.sh</code>:</p>
-<pre tabindex=0><code>#!/bin/sh
+</code></pre><p>This file launches a shell script <code>~/start-robocup-example-world-1.sh</code></p><pre tabindex=0><code>less ~/start-robocup-example-world-1.sh
+</code></pre><p>Content of <code>~/start-robocup-example-world-1.sh</code>:</p><pre tabindex=0><code>#!/bin/sh
 # Shortcut shell script to start pickandplace recycling world
 export SVGA_VGPU10=0
 export ROS_IP=$(hostname -I | tr -d [:blank:])
 export ROS_MASTER_URI=http://$ROS_IP:11311
 export GAZEBO_PLUGIN_PATH=/home/user/src/GazeboPlugin/export:$GAZEBO_PLUGIN_PATH
 # Launch Gazebo world with kortex
-gnome-terminal --title=&quot;Gazebo Recycling World - Depth Sensing&quot; -- /bin/bash -c 'source /opt/ros/melodic/setup.bash; source ~/catkin_ws/devel/setup.bash; roslaunch kortex_gazebo_depth pickplace.launch world:=RoboCup_1.world '
-</code></pre><p>This file open a gazebo world from the ROS project found at <code>~/catkin_ws/</code></p>
-<p>search for the robot model (urdf)</p>
-<pre tabindex=0><code>cd ~/catkin_ws
+gnome-terminal --title=&#34;Gazebo Recycling World - Depth Sensing&#34; -- /bin/bash -c &#39;source /opt/ros/melodic/setup.bash; source ~/catkin_ws/devel/setup.bash; roslaunch kortex_gazebo_depth pickplace.launch world:=RoboCup_1.world &#39;
+</code></pre><p>This file open a gazebo world from the ROS project found at <code>~/catkin_ws/</code></p><p>search for the robot model (urdf)</p><pre tabindex=0><code>cd ~/catkin_ws
 ls -R | grep urdf
-</code></pre><p><code>./src/ros_kortex/kortex_description/arms/gen3/urdf</code></p>
-<h3 id=connect-to-matlab>Connect to MATLAB</h3>
-<ul>
-<li>Select on of the available example files located on the RoboCup Challenge folder, it would run a gazebo world and start ROS.</li>
-<li>Open MATLAb and run the following script to connect to</li>
-</ul>
-<pre tabindex=0><code class=language-{matlab} data-lang={matlab}>%% Connect to ROs Network
+</code></pre><p><code>./src/ros_kortex/kortex_description/arms/gen3/urdf</code></p><h3 id=connect-to-matlab>Connect to MATLAB</h3><ul><li>Select on of the available example files located on the RoboCup Challenge folder, it would run a gazebo world and start ROS.</li><li>Open MATLAb and run the following script to connect to</li></ul><pre tabindex=0><code class=language-{matlab} data-lang={matlab}>%% Connect to ROs Network
 clc
-ipaddress = '192.168.182.128';
+ipaddress = &#39;192.168.182.128&#39;;
 
 rosshutdown
 rosinit(ipaddress,11311);
 
 % Initializing global node /matlab_global_node_47691 with NodeURI http://192.168.56.1:59106/
-</code></pre><p>The MATLAB command <code>rosshutdown</code> ends the connection</p>
-<p>ROS action client</p>
-<h3 id=basic-ros-commands>Basic ROS commands</h3>
-<pre tabindex=0><code>%% testing ROS commands 
-rosaction(&quot;list&quot;)
-rostopic(&quot;info&quot;, &quot;tf&quot;)
-rostopic(&quot;info&quot;, &quot;clock&quot;)
-svclist =rosservice(&quot;list&quot;);
-rosservice(&quot;info&quot;,&quot;/gazebo/set_model_configuration&quot;)
-rosservice info '/gazebo/set_model_configuration'
-</code></pre><h2 id=important-information>Important information</h2>
-<p>variables of interest:</p>
-<ul>
-<li>rostopic: &lsquo;/my_gen3/joint_states&rsquo;
-<ul>
-<li>message type: &lsquo;sensor_msgs/JointState&rsquo;</li>
-</ul>
-</li>
-</ul>
-<p><code>rqt_graph</code>: Show a graphical representation of the ROS network</p>
-<p>matlab homogeneous transformation matrix
+</code></pre><p>The MATLAB command <code>rosshutdown</code> ends the connection</p><p>ROS action client</p><h3 id=basic-ros-commands>Basic ROS commands</h3><pre tabindex=0><code>%% testing ROS commands 
+rosaction(&#34;list&#34;)
+rostopic(&#34;info&#34;, &#34;tf&#34;)
+rostopic(&#34;info&#34;, &#34;clock&#34;)
+svclist =rosservice(&#34;list&#34;);
+rosservice(&#34;info&#34;,&#34;/gazebo/set_model_configuration&#34;)
+rosservice info &#39;/gazebo/set_model_configuration&#39;
+</code></pre><h2 id=important-information>Important information</h2><p>variables of interest:</p><ul><li>rostopic: &lsquo;/my_gen3/joint_states&rsquo;<ul><li>message type: &lsquo;sensor_msgs/JointState&rsquo;</li></ul></li></ul><p><code>rqt_graph</code>: Show a graphical representation of the ROS network</p><p>matlab homogeneous transformation matrix
 euler angles
-intrinsic rotation</p>
-<h2 id=ros-concepts>ROS concepts</h2>
-<ul>
-<li>ROS Node</li>
-<li>ROS Publisher: Broadcast information</li>
-<li>ROS Subscriber: Request information</li>
-<li>ROS message: packet of information</li>
-</ul>
-<p>axis color</p>
-<ul>
-<li>R -> x, roll</li>
-<li>G -> y, pitch</li>
-<li>B -> z, yaw</li>
-</ul>
-<h2 id=main-items-position>Main items position</h2>
-<p><strong>Base_link</strong> : [-0.13, -0.1, 0.6]</p>
-<p><img src=images/fixed_objects.png alt="Objects in grey zone"></p>
-<ol>
-<li>
-<p>Blue bottle <br>
-[-0.1592 -0.6765 0.6338] [0.00 -0.00 -0.0001]</p>
-</li>
-<li>
-<p>Green can <br>
-[-0.1065 0.363 0.6743] [0.0009 -0.0135 1.3401]</p>
-</li>
-<li>
-<p>Blue bottle <br>
-[0.0735 0.2639 0.6338] [0.00 -0.00 0.003]</p>
-</li>
-<li>
-<p>Yellow bottle <br>
-[-0.1430 0.5261 0.5557] [1.5592 1.4658 1.5682]</p>
-</li>
-<li>
-<p>Red can vertical <br>
-[0.2140 0.4408 0.5854] [3.1301 -0.0084 -3.0172]</p>
-</li>
-<li>
-<p>Red bottle <br>
-[0.2214 0.5998 0.5559] [1.5708 -0.4342 1.5320]</p>
-</li>
-</ol>
-<p><a href=https://www.mathworks.com/help/ros/ref/rosservice.html>ROS service MATLAB</a></p>
-</div>
-<div class=btn-improve-page>
-<a href=https://github.com/jsduenass/jsduenass.github.io/edit/source/content/posts/programming/robocup/index.md title="Improve this page" target=_blank rel=noopener>
-<i class="fas fa-code-branch"></i>
-Improve this page
-</a>
-</div>
-<hr>
-<div class="row next-prev-navigator">
-<div class="col-md-6 previous-article">
-<a href=/posts/meta/ title=About class="btn btn-outline-info">
-<div><i class="fas fa-chevron-circle-left"></i> Prev</div>
-<div class=next-prev-text>About</div>
-</a>
-</div>
-<div class="col-md-6 next-article">
-<a href=/posts/library/quotebook/ title=Quotebook class="btn btn-outline-info">
-<div>Next <i class="fas fa-chevron-circle-right"></i></div>
-<div class=next-prev-text>Quotebook</div>
-</a>
-</div>
-</div>
-<hr>
-</div>
-</div>
-</div>
-<a id=scroll-to-top class=btn><i class="fas fa-chevron-circle-up"></i></a>
-<div class="dropdown languageSelector">
-<a class="btn dropdown-toggle" href=# id=languageSelector role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>
-<img class=flag src=https://www.countryflags.io/gb/flat/16.png alt=gb>
-English
-</a>
-<div class=dropdown-menu aria-labelledby=languageSelector>
-<a class="dropdown-item nav-link languages-item" href=/es/posts/programming/robocup>
-<img class=flag src=https://www.countryflags.io/es/flat/24.png alt=es>
-Spanish
-</a>
-</div>
-</div>
-</section>
-<section class=toc-section id=toc-section>
-<div class=toc-holder>
-<h5 class="text-center pl-3">Table of Contents</h5>
-<hr>
-<div class=toc>
-<nav id=TableOfContents>
-<ul>
-<li><a href=#resources>Resources</a>
-<ul>
-<li><a href=#other-resources>Other resources</a></li>
-</ul>
-</li>
-<li><a href=#objective>Objective</a></li>
-<li><a href=#config-of-this-project>Config of this project</a></li>
-<li><a href=#results>Results</a></li>
-<li><a href=#about-the-virtual-machine>About the virtual machine</a>
-<ul>
-<li><a href=#vmware>vmware</a></li>
-<li><a href=#virtual-box-not-recommended>Virtual box (Not recommended)</a></li>
-</ul>
-</li>
-<li><a href=#environment-exploration>Environment exploration</a>
-<ul>
-<li><a href=#connect-to-matlab>Connect to MATLAB</a></li>
-<li><a href=#basic-ros-commands>Basic ROS commands</a></li>
-</ul>
-</li>
-<li><a href=#important-information>Important information</a></li>
-<li><a href=#ros-concepts>ROS concepts</a></li>
-<li><a href=#main-items-position>Main items position</a></li>
-</ul>
-</nav>
-</div>
-</div>
-</section>
-</div>
-<footer class="container-fluid text-center align-content-center footer pb-2">
-<div class="container pt-5">
-<div class="row text-left">
-<div class="col-md-4 col-sm-12">
-<h5>Navigation</h5>
-<ul>
-<li class=nav-item>
-<a class=smooth-scroll href=/#about>About</a>
-</li>
-<li class=nav-item>
-<a class=smooth-scroll href=/#experiences>Experiences</a>
-</li>
-<li class=nav-item>
-<a class=smooth-scroll href=/#education>Education</a>
-</li>
-<li class=nav-item>
-<a class=smooth-scroll href=/#recent-posts>Recent Posts</a>
-</li>
-</ul>
-</div>
-<div class="col-md-4 col-sm-12">
-<h5>Contact me:</h5>
-<ul>
-<li><span>Email: </span> <span>jsduenass@unal.edu.co</span></li>
-</ul>
-</div>
-</div>
-</div>
-</footer>
-<script type=text/javascript src=/js/jquery-3.4.1.min.js></script>
+intrinsic rotation</p><h2 id=ros-concepts>ROS concepts</h2><ul><li>ROS Node</li><li>ROS Publisher: Broadcast information</li><li>ROS Subscriber: Request information</li><li>ROS message: packet of information</li></ul><p>axis color</p><ul><li>R -> x, roll</li><li>G -> y, pitch</li><li>B -> z, yaw</li></ul><h2 id=main-items-position>Main items position</h2><p><strong>Base_link</strong> : [-0.13, -0.1, 0.6]</p><p><img src=images/fixed_objects.png alt="Objects in grey zone"></p><ol><li><p>Blue bottle<br>[-0.1592 -0.6765 0.6338] [0.00 -0.00 -0.0001]</p></li><li><p>Green can<br>[-0.1065 0.363 0.6743] [0.0009 -0.0135 1.3401]</p></li><li><p>Blue bottle<br>[0.0735 0.2639 0.6338] [0.00 -0.00 0.003]</p></li><li><p>Yellow bottle<br>[-0.1430 0.5261 0.5557] [1.5592 1.4658 1.5682]</p></li><li><p>Red can vertical<br>[0.2140 0.4408 0.5854] [3.1301 -0.0084 -3.0172]</p></li><li><p>Red bottle<br>[0.2214 0.5998 0.5559] [1.5708 -0.4342 1.5320]</p></li></ol><p><a href=https://www.mathworks.com/help/ros/ref/rosservice.html>ROS service MATLAB</a></p></div><div class=btn-improve-page><a href=https://github.com/jsduenass/jsduenass.github.io/edit/source/content/posts/programming/robocup/index.md title="Improve this page" target=_blank rel=noopener><i class="fas fa-code-branch"></i>
+Improve this page</a></div><hr><div class="row next-prev-navigator"><div class="col-md-6 previous-article"><a href=/posts/meta/ title=About class="btn btn-outline-info"><div><i class="fas fa-chevron-circle-left"></i> Prev</div><div class=next-prev-text>About</div></a></div><div class="col-md-6 next-article"><a href=/posts/library/quotebook/ title=Quotebook class="btn btn-outline-info"><div>Next <i class="fas fa-chevron-circle-right"></i></div><div class=next-prev-text>Quotebook</div></a></div></div><hr></div></div></div><a id=scroll-to-top class=btn><i class="fas fa-chevron-circle-up"></i></a><div class="dropdown languageSelector"><a class="btn dropdown-toggle" href=# id=languageSelector role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false><img class=flag src=https://www.countryflags.io/gb/flat/16.png alt=gb>
+English</a><div class=dropdown-menu aria-labelledby=languageSelector><a class="dropdown-item nav-link languages-item" href=/es/posts/programming/robocup><img class=flag src=https://www.countryflags.io/es/flat/24.png alt=es>
+Spanish</a></div></div></section><section class=toc-section id=toc-section><div class=toc-holder><h5 class="text-center pl-3">Table of Contents</h5><hr><div class=toc><nav id=TableOfContents><ul><li><a href=#virtual-manipulator-demo>virtual manipulator demo</a></li><li><a href=#resources>Resources</a><ul><li><a href=#other-resources>Other resources</a></li></ul></li><li><a href=#objective>Objective</a></li><li><a href=#config-of-this-project>Config of this project</a></li><li><a href=#results>Results</a></li><li><a href=#about-the-virtual-machine>About the virtual machine</a><ul><li><a href=#vmware>vmware</a></li><li><a href=#virtual-box-not-recommended>Virtual box (Not recommended)</a></li></ul></li><li><a href=#environment-exploration>Environment exploration</a><ul><li><a href=#connect-to-matlab>Connect to MATLAB</a></li><li><a href=#basic-ros-commands>Basic ROS commands</a></li></ul></li><li><a href=#important-information>Important information</a></li><li><a href=#ros-concepts>ROS concepts</a></li><li><a href=#main-items-position>Main items position</a></li></ul></nav></div></div></section></div><footer class="container-fluid text-center align-content-center footer pb-2"><div class="container pt-5"><div class="row text-left"><div class="col-md-4 col-sm-12"><h5>Navigation</h5><ul><li class=nav-item><a class=smooth-scroll href=/#about>About</a></li><li class=nav-item><a class=smooth-scroll href=/#experiences>Experiences</a></li><li class=nav-item><a class=smooth-scroll href=/#education>Education</a></li><li class=nav-item><a class=smooth-scroll href=/#recent-posts>Recent Posts</a></li></ul></div><div class="col-md-4 col-sm-12"><h5>Contact me:</h5><ul><li><span>Email:</span> <span>jsduenass@unal.edu.co</span></li></ul></div></div></div></footer><script type=text/javascript src=/js/jquery-3.4.1.min.js></script>
 <script type=text/javascript src=/js/popper.min.js></script>
 <script type=text/javascript src=/js/bootstrap.min.js></script>
 <script type=text/javascript src=/js/navbar.js></script>
@@ -405,6 +62,4 @@ Spanish
 <script type=text/javascript src=/js/main.js></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js></script>
 <script src=/js/single.js></script>
-<script>hljs.initHighlightingOnLoad()</script>
-</body>
-</html>
+<script>hljs.initHighlightingOnLoad()</script></body></html>

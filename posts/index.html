@@ -1,240 +1,36 @@
-<!doctype html><html>
-<head>
-<title>Posts</title>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta http-equiv=x-ua-compatible content="ie=edge">
-<link rel=stylesheet href=/css/bootstrap.min.css>
-<link rel=stylesheet href=/css/layouts/main.css>
-<link rel=stylesheet href=/css/style.css>
-<link rel=stylesheet href=/css/navigators/navbar.css>
-<link rel=stylesheet href=/css/plyr.css>
-<link rel=stylesheet href=/css/flag-icon.min.css>
-<link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600" rel=stylesheet>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css>
-<link rel=icon type=image/png href=/images/site/logo.svg>
-<link rel=stylesheet href=/css/style.css>
-<link rel=stylesheet href=/css/layouts/list.css>
-<link rel=stylesheet href=/css/navigators/sidebar.css>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-122321624-2','auto'),ga('send','pageview'))</script>
-<script async src=https://www.google-analytics.com/analytics.js></script>
-</head>
-<body data-spy=scroll data-target=#TableOfContents data-offset=80>
-<div class="container-fluid bg-dimmed wrapper">
-<nav class="navbar navbar-expand-xl top-navbar final-navbar shadow">
-<div class=container>
-<button class="navbar-toggler navbar-light" id=sidebar-toggler type=button onclick=toggleSidebar()>
-<span class=navbar-toggler-icon></span>
-</button>
-<a class=navbar-brand href=/>
-<img src=/images/site/logo.svg alt=Logo>Sebastian D 🇨🇴 </a>
+<!doctype html><html><head><title>Posts</title><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="ie=edge"><link rel=stylesheet href=/css/bootstrap.min.css><link rel=stylesheet href=/css/layouts/main.css><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/navigators/navbar.css><link rel=stylesheet href=/css/plyr.css><link rel=stylesheet href=/css/flag-icon.min.css><link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600" rel=stylesheet><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css><link rel=icon type=image/png href=/images/site/logo.svg><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/layouts/list.css><link rel=stylesheet href=/css/navigators/sidebar.css><script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-122321624-2","auto"),ga("send","pageview"))</script><script async src=https://www.google-analytics.com/analytics.js></script></head><body data-spy=scroll data-target=#TableOfContents data-offset=80><div class="container-fluid bg-dimmed wrapper"><nav class="navbar navbar-expand-xl top-navbar final-navbar shadow"><div class=container><button class="navbar-toggler navbar-light" id=sidebar-toggler type=button onclick=toggleSidebar()>
+<span class=navbar-toggler-icon></span></button>
+<a class=navbar-brand href=/><img src=/images/site/logo.svg alt=Logo>Sebastian D 🇨🇴</a>
 <button class="navbar-toggler navbar-light" id=toc-toggler type=button onclick=toggleTOC()>
-<span class=navbar-toggler-icon></span>
-</button>
-<div class="collapse navbar-collapse lang-selector" id=top-nav-items>
-<ul class="navbar-nav ml-auto">
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle" href=# id=languageSelector role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>
-<span class="flag-icon flag-icon-gb"></span>
-English
-</a>
-<div class=dropdown-menu aria-labelledby=languageSelector>
-<a class="dropdown-item nav-link languages-item" href=/es/posts>
-<span class="flag-icon flag-icon-es"></span>
-Spanish
-</a>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<img src=/images/site/logo.svg class=d-none id=main-logo alt=Logo>
-<img src=/images/site/inverted-logo.svg class=d-none id=inverted-logo alt="Inverted Logo">
-</nav>
-<section class=sidebar-section id=sidebar-section>
-<div class=sidebar-holder>
-<div class=sidebar id=sidebar>
-<form class=mx-auto method=get action=https://jsduenass.github.io/search>
-<input type=text name=keyword placeholder=Search data-search id=search-box>
-</form>
-<div class=sidebar-tree>
-<ul class=tree id=tree>
-<li id=list-heading><a href=/posts data-filter=all>Posts</a></li>
-<div class=subtree>
-<li><a href=/posts/meta/ title=About>About</a></li>
-<li>
-<i class="fas fa-plus-circle"></i><a href=/posts/library/>Library</a>
-<ul>
-<li><a href=/posts/library/quotebook/ title=Quotebook>Quotebook</a></li>
-<li><a href=/posts/library/watchlist/ title="Watch list">Watch list</a></li>
-</ul>
-</li>
-<li>
-<i class="fas fa-plus-circle"></i><a href=/posts/programming/>Programming</a>
-<ul>
-<li><a href=/posts/programming/intro/ title=Intro>Intro</a></li>
-<li><a href=/posts/programming/robocup/ title=Robocup>Robocup</a></li>
-</ul>
-</li>
-<li><a href=/posts/data-analysis/datacademy/ title=Datacademy>Datacademy</a></li>
-</div>
-</ul>
-</div>
-</div>
-</div>
-</section>
-<section class=content-section id=content-section>
-<div class="content container-fluid" id=content>
-<div class="container-fluid post-card-holder" id=post-card-holder>
-<div class=post-card>
-<a href=/posts/programming/intro/ class=post-card-link>
-<div class=card>
-<div class=card-head>
-<img class=card-img-top src=/images/default-hero.jpg alt="Hero Image">
-</div>
-<div class=card-body>
-<h5 class=card-title>Introduction to programming</h5>
-<p class="card-text post-summary">What is programming? Well, I think that is a muddy question, because it encapsulates a wide range of activities with an even broader set of tools. If I had to give you a short definition it would be that programming is laying a set of rules for the computer to follow. It sounds extremely simple, but it is a process you can build upon and iterate layer over layer until these instructions create amazing software with complex functionality.</p>
-</div>
-<div class=card-footer>
-<span class=float-left>September 18, 2021</span>
-<a href=/posts/programming/intro/ class="float-right btn btn-outline-info btn-sm">Read</a>
-</div>
-</div>
-</a>
-</div>
-<div class=post-card>
-<a href=/posts/meta/ class=post-card-link>
-<div class=card>
-<div class=card-head>
-<img class=card-img-top src=/posts/meta/hero.gif alt="Hero Image">
-</div>
-<div class=card-body>
-<h5 class=card-title>About</h5>
-<p class="card-text post-summary">The about section holds a formal presentation of who I am. This however is a more lay back version where I intend to explore and also document different experiences.
-What I am currently interested in Computers Organizations Information Robots Cybernetics How do you justify your existence? This is a phrase that has stuck with me since the first time I read it in The Tales of the Black Widowers by Isaac Asimov.</p>
-</div>
-<div class=card-footer>
-<span class=float-left>May 21, 2021</span>
-<a href=/posts/meta/ class="float-right btn btn-outline-info btn-sm">Read</a>
-</div>
-</div>
-</a>
-</div>
-<div class=post-card>
-<a href=/posts/programming/robocup/ class=post-card-link>
-<div class=card>
-<div class=card-head>
-<img class=card-img-top src=/posts/programming/robocup/hero.png alt="Hero Image">
-</div>
-<div class=card-body>
-<h5 class=card-title>Robocup Virtual manipulator challenge</h5>
-<p class="card-text post-summary">Resources Virtual manipulator challenge main page Video introduction source code Blog Other resources Pick-and-Place Workflow in Gazebo Using Point-Cloud Processing and RRT Path Planning Robocup@work team qualifications Robocup@home team qualifications Github getting started Design and Control of Robot Manipulators Get started with gazebo Objective Crate an algorithm for the robotic arm so it can sort properly the cans and bottles.
-Cans must go into the green bin Bottles must go into the blue bin Config of this project A submodule is used the repository vision_ if you want to clone this repository use the command git clone --recurse-submodules https://github.</p>
-</div>
-<div class=card-footer>
-<span class=float-left>May 19, 2021</span>
-<a href=/posts/programming/robocup/ class="float-right btn btn-outline-info btn-sm">Read</a>
-</div>
-</div>
-</a>
-</div>
-<div class=post-card>
-<a href=/posts/library/quotebook/ class=post-card-link>
-<div class=card>
-<div class=card-head>
-<img class=card-img-top src=/posts/library/quotebook/hero.png alt="Hero Image">
-</div>
-<div class=card-body>
-<h5 class=card-title>Quotebook</h5>
-<p class="card-text post-summary">This is a collection of quotes I found interesting in one way or another.
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse lang-selector" id=top-nav-items><ul class="navbar-nav ml-auto"><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href=# id=languageSelector role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false><span class="flag-icon flag-icon-gb"></span>
+English</a><div class=dropdown-menu aria-labelledby=languageSelector><a class="dropdown-item nav-link languages-item" href=/es/posts><span class="flag-icon flag-icon-es"></span>
+Spanish</a></div></li></ul></div></div><img src=/images/site/logo.svg class=d-none id=main-logo alt=Logo>
+<img src=/images/site/inverted-logo.svg class=d-none id=inverted-logo alt="Inverted Logo"></nav><section class=sidebar-section id=sidebar-section><div class=sidebar-holder><div class=sidebar id=sidebar><form class=mx-auto method=get action=https://jsduenass.github.io/search><input type=text name=keyword placeholder=Search data-search id=search-box></form><div class=sidebar-tree><ul class=tree id=tree><li id=list-heading><a href=/posts data-filter=all>Posts</a></li><div class=subtree><li><a href=/posts/meta/ title=About>About</a></li><li><i class="fas fa-plus-circle"></i><a href=/posts/library/>Library</a><ul><li><a href=/posts/library/quotebook/ title=Quotebook>Quotebook</a></li><li><a href=/posts/library/watchlist/ title="Watch list">Watch list</a></li></ul></li><li><i class="fas fa-plus-circle"></i><a href=/posts/programming/>Programming</a><ul><li><a href=/posts/programming/intro/ title=Intro>Intro</a></li><li><a href=/posts/programming/linux/ title=Linux>Linux</a></li><li><a href=/posts/programming/raspi/ title="Raspbery pi">Raspbery pi</a></li><li><a href=/posts/programming/robocup/ title=Robocup>Robocup</a></li></ul></li><li><a href=/posts/data-analysis/datacademy/ title=Datacademy>Datacademy</a></li></div></ul></div></div></div></section><section class=content-section id=content-section><div class="content container-fluid" id=content><div class="container-fluid post-card-holder" id=post-card-holder><div class=post-card><a href=/posts/programming/linux/ class=post-card-link><div class=card><div class=card-head><img class=card-img-top src=/images/default-hero.jpg alt="Hero Image"></div><div class=card-body><h5 class=card-title>Linux</h5><p class="card-text post-summary">My Setup I am currently running in a dual-boot both Windows and Ubuntu 2020 focal Fossa. is a set-up I configure a while ago hoped I had documented it. because As soon as I open it had a couple of issues. For starters apt is not working.
+I found as well one of the issues I have had while running ubuntu in my computer and is that the sound does not quite work link</p></div><div class=card-footer><span class=float-left>April 17, 2022</span>
+<a href=/posts/programming/linux/ class="float-right btn btn-outline-info btn-sm">Read</a></div></div></a></div><div class=post-card><a href=/posts/programming/intro/ class=post-card-link><div class=card><div class=card-head><img class=card-img-top src=/images/default-hero.jpg alt="Hero Image"></div><div class=card-body><h5 class=card-title>Introduction to programming</h5><p class="card-text post-summary">What is programming? Well, I think that is a muddy question, because it encapsulates a wide range of activities with an even broader set of tools. If I had to give you a short definition it would be that programming is laying a set of rules for the computer to follow. It sounds extremely simple, but it is a process you can build upon and iterate layer over layer until these instructions create amazing software with complex functionality.</p></div><div class=card-footer><span class=float-left>September 18, 2021</span>
+<a href=/posts/programming/intro/ class="float-right btn btn-outline-info btn-sm">Read</a></div></div></a></div><div class=post-card><a href=/posts/meta/ class=post-card-link><div class=card><div class=card-head><img class=card-img-top src=/posts/meta/hero.gif alt="Hero Image"></div><div class=card-body><h5 class=card-title>About</h5><p class="card-text post-summary">The about section holds a formal presentation of who I am. This however is a more lay back version where I intend to explore and also document different experiences.
+What I am currently interested in Computers Organizations Information Robots Cybernetics How do you justify your existence? This is a phrase that has stuck with me since the first time I read it in The Tales of the Black Widowers by Isaac Asimov.</p></div><div class=card-footer><span class=float-left>May 21, 2021</span>
+<a href=/posts/meta/ class="float-right btn btn-outline-info btn-sm">Read</a></div></div></a></div><div class=post-card><a href=/posts/programming/robocup/ class=post-card-link><div class=card><div class=card-head><img class=card-img-top src=/posts/programming/robocup/hero.png alt="Hero Image"></div><div class=card-body><h5 class=card-title>Robocup Virtual manipulator challenge</h5><p class="card-text post-summary">virtual manipulator demo --
+Resources Virtual manipulator challenge main page Video introduction source code Blog Other resources Pick-and-Place Workflow in Gazebo Using Point-Cloud Processing and RRT Path Planning Robocup@work team qualifications Robocup@home team qualifications Github getting started Design and Control of Robot Manipulators Get started with gazebo Objective Crate an algorithm for the robotic arm so it can sort properly the cans and bottles.</p></div><div class=card-footer><span class=float-left>May 19, 2021</span>
+<a href=/posts/programming/robocup/ class="float-right btn btn-outline-info btn-sm">Read</a></div></div></a></div><div class=post-card><a href=/posts/library/quotebook/ class=post-card-link><div class=card><div class=card-head><img class=card-img-top src=/posts/library/quotebook/hero.png alt="Hero Image"></div><div class=card-body><h5 class=card-title>Quotebook</h5><p class="card-text post-summary">This is a collection of quotes I found interesting in one way or another.
 Literature The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be.
 &mdash; Douglas Adams
-Así también un orbe entero, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.</p>
-</div>
-<div class=card-footer>
-<span class=float-left>October 28, 2020</span>
-<a href=/posts/library/quotebook/ class="float-right btn btn-outline-info btn-sm">Read</a>
-</div>
-</div>
-</a>
-</div>
-<div class=post-card>
-<a href=/posts/library/watchlist/ class=post-card-link>
-<div class=card>
-<div class=card-head>
-<img class=card-img-top src=/posts/library/watchlist/hero.png alt="Hero Image">
-</div>
-<div class=card-body>
-<h5 class=card-title>WatchList</h5>
-<p class="card-text post-summary">Reading list [] The MIT Rad Lab Series. [] China 2185. liu cixin [] Cibernetica. Norbert weiner [] The Human Use of Human Beings. Norbert weiner [] Baumgartner & Momsen Detective Stories for German Learners [] La historia de mi vida. Hellen Keller [] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé [] Emilio o de la educación. Rousseau. [] Historia social del conocimiento.</p>
-</div>
-<div class=card-footer>
-<span class=float-left>October 27, 2020</span>
-<a href=/posts/library/watchlist/ class="float-right btn btn-outline-info btn-sm">Read</a>
-</div>
-</div>
-</a>
-</div>
-<div class=post-card>
-<a href=/posts/data-analysis/datacademy/ class=post-card-link>
-<div class=card>
-<div class=card-head>
-<img class=card-img-top src=/images/default-hero.jpg alt="Hero Image">
-</div>
-<div class=card-body>
-<h5 class=card-title>Datacademy challenge by Platzi</h5>
-<p class="card-text post-summary">Under construction
-Journal </p>
-</div>
-<div class=card-footer>
-<span class=float-left>January 1, 0001</span>
-<a href=/posts/data-analysis/datacademy/ class="float-right btn btn-outline-info btn-sm">Read</a>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class=paginator>
-</div>
-</div>
-</section>
-</div>
-<footer class="container-fluid text-center align-content-center footer pb-2">
-<div class="container pt-5">
-<div class="row text-left">
-<div class="col-md-4 col-sm-12">
-<h5>Navigation</h5>
-<ul>
-<li class=nav-item>
-<a class=smooth-scroll href=/#about>About</a>
-</li>
-<li class=nav-item>
-<a class=smooth-scroll href=/#experiences>Experiences</a>
-</li>
-<li class=nav-item>
-<a class=smooth-scroll href=/#education>Education</a>
-</li>
-<li class=nav-item>
-<a class=smooth-scroll href=/#recent-posts>Recent Posts</a>
-</li>
-</ul>
-</div>
-<div class="col-md-4 col-sm-12">
-<h5>Contact me:</h5>
-<ul>
-<li><span>Email: </span> <span>jsduenass@unal.edu.co</span></li>
-</ul>
-</div>
-</div>
-</div>
-</footer>
-<script type=text/javascript src=/js/jquery-3.4.1.min.js></script>
+Así también un orbe entero, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.</p></div><div class=card-footer><span class=float-left>October 28, 2020</span>
+<a href=/posts/library/quotebook/ class="float-right btn btn-outline-info btn-sm">Read</a></div></div></a></div><div class=post-card><a href=/posts/library/watchlist/ class=post-card-link><div class=card><div class=card-head><img class=card-img-top src=/posts/library/watchlist/hero.png alt="Hero Image"></div><div class=card-body><h5 class=card-title>WatchList</h5><p class="card-text post-summary">Reading list [] The MIT Rad Lab Series. [] China 2185. liu cixin [] Cibernetica. Norbert weiner [] The Human Use of Human Beings. Norbert weiner [] Baumgartner & Momsen Detective Stories for German Learners [] La historia de mi vida. Hellen Keller [] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé [] Emilio o de la educación. Rousseau. [] Historia social del conocimiento.</p></div><div class=card-footer><span class=float-left>October 27, 2020</span>
+<a href=/posts/library/watchlist/ class="float-right btn btn-outline-info btn-sm">Read</a></div></div></a></div><div class=post-card><a href=/posts/data-analysis/datacademy/ class=post-card-link><div class=card><div class=card-head><img class=card-img-top src=/images/default-hero.jpg alt="Hero Image"></div><div class=card-body><h5 class=card-title>Datacademy challenge by Platzi</h5><p class="card-text post-summary">Under construction
+Journal</p></div><div class=card-footer><span class=float-left>January 1, 0001</span>
+<a href=/posts/data-analysis/datacademy/ class="float-right btn btn-outline-info btn-sm">Read</a></div></div></a></div><div class=post-card><a href=/posts/programming/raspi/ class=post-card-link><div class=card><div class=card-head><img class=card-img-top src=/images/default-hero.jpg alt="Hero Image"></div><div class=card-body><h5 class=card-title>Raspbery pi</h5><p class="card-text post-summary">Getting started with a raspberry pi
+Configuration There are many ways of configuring network interfaces via modifying configuration files .
+sudo raspi-config sudo nano /etc/dhcpcd.conf service networking reload
+service networking restart Find Raspbery PI hostname
+whoami #username ping &lt;hostname>.local -4
+ssh &lt;username>.&lt;hostname>
+sudo ifconfig eth0 up
+sudo matlab-rpi-setup Configure SSH Multiple private keys can be added using ssh-add``. However for this to work the _ssh-agent_ must be activated. To check if it activated Open power shell and get information about the service if it is stoped, ssh-add`` won&rsquo;t work.</p></div><div class=card-footer><span class=float-left>January 1, 0001</span>
+<a href=/posts/programming/raspi/ class="float-right btn btn-outline-info btn-sm">Read</a></div></div></a></div></div><div class=paginator></div></div></section></div><footer class="container-fluid text-center align-content-center footer pb-2"><div class="container pt-5"><div class="row text-left"><div class="col-md-4 col-sm-12"><h5>Navigation</h5><ul><li class=nav-item><a class=smooth-scroll href=/#about>About</a></li><li class=nav-item><a class=smooth-scroll href=/#experiences>Experiences</a></li><li class=nav-item><a class=smooth-scroll href=/#education>Education</a></li><li class=nav-item><a class=smooth-scroll href=/#recent-posts>Recent Posts</a></li></ul></div><div class="col-md-4 col-sm-12"><h5>Contact me:</h5><ul><li><span>Email:</span> <span>jsduenass@unal.edu.co</span></li></ul></div></div></div></footer><script type=text/javascript src=/js/jquery-3.4.1.min.js></script>
 <script type=text/javascript src=/js/popper.min.js></script>
 <script type=text/javascript src=/js/bootstrap.min.js></script>
 <script type=text/javascript src=/js/navbar.js></script>
 <script type=text/javascript src=/js/plyr.js></script>
 <script type=text/javascript src=/js/main.js></script>
-<script src=/js/list.js></script>
-</body>
-</html>
+<script src=/js/list.js></script></body></html>
