@@ -566,3 +566,6 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 > It is very sad to mee that some people are so intent on leaving their mark on the world that they don't care if that mark is a scar
 >
 >  __--- Hank Green__
+
+
+>revolutions before they happen seem impossible afterwards it is inevitable

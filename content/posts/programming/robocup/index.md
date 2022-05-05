@@ -11,6 +11,11 @@ menu:
 ---
 
 
+## virtual manipulator demo
+<!---
+{{< youtube L27-7TKqqbg >}}
+-->
+
 ## Resources 
 *	[Virtual manipulator challenge main page](https://2021.robocup.org/robot-manipulation) 
 * [Video introduction](https://youtu.be/h-IVj2tajQQ?t=1561)
