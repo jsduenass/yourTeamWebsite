@@ -54,6 +54,7 @@ menu:
 - [] The selfish gene.Richard Dawkins
 - [] On the origin of species. Charles Darwin
 - [] the Dragon Book
+- [] It's Been a Good Life.
 
 
 ### Books read
@@ -101,6 +102,8 @@ menu:
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] Ensayo sobre la lucidez. José Saramago
 - [x] El idiota. Fyodor Dostoyevsky
+- [x] Satanas. Mario Mendoza
+- [x] Akelarre. Mario Mendoza  
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
 SpellRight  
 

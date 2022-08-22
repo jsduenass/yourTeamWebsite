@@ -510,12 +510,17 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __--- Mario Bunge, La ciencia su método y su filosofía__
 
+> du wirst immer das zentrum deines eigenen kleinen univerzum sein
+> 
+> __--- Kurzgesagt, [Du bist nicht da, wo du denkst](https://youtu.be/0unvBW91wY0)__
 
 [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo)
 [John Danaher at the Lex Fridman Podcast](https://www.youtube.com/watch?v=ktuw6Ow4sd0)
 
 ### Time by Pink Floyd
 {{< youtube JwYX52BP2Sk >}}
+
+The God of the gaps
 
 
 ## Sayings 
