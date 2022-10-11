@@ -34,7 +34,7 @@ export GAZEBO_PLUGIN_PATH=/home/user/src/GazeboPlugin/export:$GAZEBO_PLUGIN_PATH
 gnome-terminal --title=&#34;Gazebo Recycling World - Depth Sensing&#34; -- /bin/bash -c &#39;source /opt/ros/melodic/setup.bash; source ~/catkin_ws/devel/setup.bash; roslaunch kortex_gazebo_depth pickplace.launch world:=RoboCup_1.world &#39;
 </code></pre><p>This file open a gazebo world from the ROS project found at <code>~/catkin_ws/</code></p><p>search for the robot model (urdf)</p><pre tabindex=0><code>cd ~/catkin_ws
 ls -R | grep urdf
-</code></pre><p><code>./src/ros_kortex/kortex_description/arms/gen3/urdf</code></p><h3 id=connect-to-matlab>Connect to MATLAB</h3><ul><li>Select on of the available example files located on the RoboCup Challenge folder, it would run a gazebo world and start ROS.</li><li>Open MATLAb and run the following script to connect to</li></ul><pre tabindex=0><code class=language-{matlab} data-lang={matlab}>%% Connect to ROs Network
+</code></pre><p><code>./src/ros_kortex/kortex_description/arms/gen3/urdf</code></p><h3 id=connect-to-matlab>Connect to MATLAB</h3><ul><li>Select on of the available example files located on the RoboCup Challenge folder, it would run a gazebo world and start ROS.</li><li>Open MATLAb and run the following script to connect to</li></ul><pre tabindex=0><code>%% Connect to ROs Network
 clc
 ipaddress = &#39;192.168.182.128&#39;;
 
