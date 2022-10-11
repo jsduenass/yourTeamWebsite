@@ -13,8 +13,7 @@ menu:
 
 ## Reading list
 - [] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html). 
-- [] China 2185. liu cixin
-- [] Cibernetica. Norbert weiner 
+- [] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet translation](https://www-513gp-org.translate.goog/book/2761/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es-419&_x_tr_pto=wapp)
 - [] The Human Use of Human Beings. Norbert weiner
 - [] [Baumgartner & Momsen Detective Stories for German Learners](https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook)
 - [] La historia de mi vida. Hellen Keller
@@ -52,9 +51,13 @@ menu:
 - [] Computer networks. Stuart Tanenbaum
 - [] Oryx and crake. Margaret Atwood
 - [] The selfish gene.Richard Dawkins
-- [] On the origin of species. Charles Darwin
-- [] the Dragon Book
-- [] It's Been a Good Life.
+- [] The Dragon Book. Compilers: Principles, Techniques, and Tools
+- [] It's Been a Good Life. Isaac Asimov
+- [] The Success of Open Source. Steven Weber
+- [] Johnny Got His Gun. Dalton Trumbo
+- [] The Machine Stops. E. M.Forster
+- [] The Evolution of Cooperation. Robert Axelrod
+
 
 
 ### Books read
@@ -70,6 +73,7 @@ menu:
 - [x] La nave de un millón de años. Poul Anderson
 - [x] Visiones de robot. Isaac Asimov
 - [x] The hunger games. Suzanne Collins
+- [] On the origin of species. Charles Darwin
 - [x] La traición de Darwin. Gerardo Bartolomé
 - [x] Fiasco. Stanislaw Lem 
 - [x] Historia del futuro. Robert Anson Heinlein [extra sci-fi](https://www.youtube.com/watch?v=XaWMe5nC9SA)  
@@ -83,6 +87,7 @@ menu:
 - [x] Paris del siglo xx. Julio Verne
 - [x] Surely you´re joking, Mr. Feynman. Feynman, Richard Phillips
 - [x] Frankenstein o el moderno prometeo. Marry Shelly
+- [x] Cibernetica. Norbert weiner 
 - [x] Los dragones del edén. Carl Sagan
 - [x] El mundo y sus demonios. Carl Sagan 
 - [x] Terraformar la tierra. Jack Williamson
@@ -95,6 +100,8 @@ menu:
 - [x] El fin de la eternidad. Isaac Asimov
 - [x] Objetivo: la luna: la historia inédita de la mayor aventura humana. Parry Dan 
 - [x] Las aventuras de Sherlock Holmes. Sir arthur Connan Doyle
+- [x] Born a crime. Trevor Noah
+- [x] Mi historia. Michelle Obama
 - [x] The narrative Life of Frederick Douglass. Frederick Douglass
 - [x] El extranjero. Albert Camus 
 - [x] Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?. Einstein-Podolsky-Rosen. (EPR article/ EPR paradox)
