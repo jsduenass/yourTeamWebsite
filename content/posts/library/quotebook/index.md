@@ -211,7 +211,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >__--- Gabriel Garcia Marquez, cien años de soledad__
 
 
-> Era en aquel momento temprano del reinado que cada pueblo vive unas cinco veces en un siglo. Un periodo  revolucionario, diferente de lo que llamamos <<revolución>> solo por el hecho de que el poder está en manos del antiguo gobierno y no del nuevo. En estas revoluciones, como en todas las demás, se habla del espíritu de los nuevos tiempos, de las exigencias de este tiempo, de los derechos del hombre, de la necesidad de que impere la sensatez en la estructura del estad y la justicia general. Bajo el pretexto de estas ideas, también entran en liza las pasiones más irrazonables del hombre. Pasarán  el tiempo y las ganas, y los antiguos introductores de lo novedoso se aferrarán a su antiguo orden nuevo, ahora anticuado, y defenderán la decoración de su casa frente a la juventud que crece, que de nuevo quiere y necesita satisfacer su necesidad de probar fuerzas. 
+> Era en aquel momento temprano del reinado que cada pueblo vive unas cinco veces en un siglo. Un periodo  revolucionario, diferente de lo que llamamos <<revolución>> solo por el hecho de que el poder está en manos del antiguo gobierno y no del nuevo. En estas revoluciones, como en todas las demás, se habla del espíritu de los nuevos tiempos, de las exigencias de este tiempo, de los derechos del hombre, de la necesidad de que impere la sensatez en la estructura del estado y la justicia general. Bajo el pretexto de estas ideas, también entran en liza las pasiones más irrazonables del hombre. Pasarán  el tiempo y las ganas, y los antiguos introductores de lo novedoso se aferrarán a su antiguo orden nuevo, ahora anticuado, y defenderán la decoración de su casa frente a la juventud que crece, que de nuevo quiere y necesita satisfacer su necesidad de probar fuerzas. 
 > 
 > __--- Leon Tolstoi, Guerra y paz__
 
@@ -244,6 +244,13 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > 
 > __--- Matt Walker, The lex Fridman Podcast__
 
+
+
+> Artist have more influence in the progress of technology than engineer.
+> 
+> __---Matthew Pan, human robot interaction class__
+
+Gartner hype cycle
 
 
 ### Computers
@@ -410,7 +417,7 @@ Context has a key role in communication
 
 > La educación se ve obligada a proporcionar las cartas náuticas de un mundo complejo y en perpetua agitación y, al mismo tiempo, la brújula para poder navegar por él.
 >
->_--- Jackes Delors, Los cuatro pilares de la educación__
+>__--- Jackes Delors, Los cuatro pilares de la educación__
 
 
 
@@ -514,17 +521,24 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 > 
 > __--- Kurzgesagt, [Du bist nicht da, wo du denkst](https://youtu.be/0unvBW91wY0)__
 
+[If Tomorrow Starts Without Me read by Tom O'Bedlam](hhttps://youtu.be/8YMJcIvpUlc)
+
+
 [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo)
+
 [John Danaher at the Lex Fridman Podcast](https://www.youtube.com/watch?v=ktuw6Ow4sd0)
+
+
+The God of the gaps
 
 ### Time by Pink Floyd
 {{< youtube JwYX52BP2Sk >}}
 
-The God of the gaps
+
 
 
 ## Sayings 
-> Meaning is jumper that you have to knit yourself
+> [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
 
 > El sueño de la razón produce monstros
 > 
