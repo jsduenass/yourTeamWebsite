@@ -13,7 +13,7 @@ This is a collection of quotes I found interesting in one way or another.
 
 ## Literature
 
-> The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be. 
+> The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be.
 >
 > __--- Douglas Adams__
 
@@ -30,6 +30,7 @@ This is a collection of quotes I found interesting in one way or another.
 De las anteriores dos citas se evidencia el conocimiento de astronomía que poseía Charles Dickens, y como lo influía a contemplar un punto de vista más allá de la tierra, donde todo lo que conocemos es minúsculo. 
 
 ### A pale blue dot
+
 {{< youtube EWPFmdAWRZ0 >}}
 
 >From this distant vantage point, the Earth might not seem of any particular interest. 
@@ -46,14 +47,14 @@ De las anteriores dos citas se evidencia el conocimiento de astronomía que pose
 > __--- Carl Sagan, A pale blue dot__
 
 > For the very reason that here nothing served a purpose -not ever, not to anyone- and that here no guillotine of evolution was in play, nature, constrained neither by the life she bore nor by the death she inflicted, could achieve liberation, displaying a prodigality characteristic of herself, a limitless wastefulness, a brute magnificence that was useless, a eternal power of creation without a goal, without a need, without a meaning. 
-> 
+>
 > __--- Stanislaw Lem, Fiasco__
 
 
 
 > Es un sentimiento creciente entre algunos grupos de este país la noción de que cuando un hombre o una compañía han sacado un beneficio del publico durante un cierto número de años, el gobierno y los tribunales tienen el deber de salvaguardar esos beneficios en el futuro, incluso frente a circunstancias de cambio y contra el interés del publico... 
 > Ni los individuos ni las corporaciones tienen el menor derecho de acudir a los tribunales y exigir que el reloj de la historia sea detenido, o retrasado, en beneficio particular suyo.
-> 
+>
 > __---Robert.A Heinlein, La línea de la vida__
 
 > The intensity of every astonishment gradually wear off; the human mind, by the sheer effect of repetition and habit, gradually becomes accustomed to the strangest and least familiar ideas.
@@ -219,6 +220,9 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > 
 > __---Thierry Bardin, bootstrapping Douglas Endelbart and the origins of Personal Computing__
 
+> El universo es la historia de un incendio provocado y ahogado por la gravitación 
+>
+> __---Stanislaw Lem, Golem XIV__
 
 ## STEM
 
@@ -295,6 +299,10 @@ This quote captures the problem of making code accesible and understandable, a p
 > 
 > __--- David Clark, [RFC 1336](https://datatracker.ietf.org/doc/html/rfc1336)__
 
+> As the Open Source Software (OSS) model continues  to grow and expand into new domains, and the dependency graph for many popular projects continues to expand over time, dependency management is perhaps becoming the most important problem in software engineering policy. We are no longer disconnected islands built on one or two layers outside an API. Modern software is built on towering pillars of dependencies; but just because we can build those pillars doesn’t mean we’ve yet figured out how to keep them standing and stable over time.
+>
+> __--- The Software Engineering at Google book (“SWE Book”)__
+
 ### Mechatronics
 > Clearly, an automobile with 30–60 microcontrollers, up to 100 electric motors, about 200 pounds of wiring, a multitude of sensors, and thousands of lines of software code can hardly be classified as a strictly mechanical system. The automobile is being transformed into a comprehensive mechatronic system.
 >
@@ -309,6 +317,13 @@ This quote captures the problem of making code accesible and understandable, a p
 > __---Sergey Edward Lyshevski, The Mechatronics handbook__
 
 
+> Robotics can be defined as “the art of integration” 
+>
+>__--- Francisco Martín Rico, A Concise Introduction to Robot Programming with ROS2__
+
+> ROS2 is notacommunications middleware,but a robot programming middleware
+>
+>__--- Francisco Martín Rico, A Concise Introduction to Robot Programming with ROS2__
 
 <!---
 {{< youtube PL1-Z9ArJBD7tBImjZDuETByCk3q9djTMc >}}
@@ -419,7 +434,13 @@ Context has a key role in communication
 >
 >__--- Jackes Delors, Los cuatro pilares de la educación__
 
+>The idea that information can be store in a changing world without an overwhelming depreciation in its value is false
+>
+> __--- Norbert Wiener, The Human use of Human beings__
 
+> Los conocimientos adquiridos de forma prematura como inconciliables con los conocimientos ya poseídos, carecían de valor porque quien está siendo instruido percibe una contradicción entre lo que sabe y lo que le ha sido anunciado. Solo por eso esperar alguna revelación desde las estrellas proveniente de los seres por encima de nosotros, ya sean estas noticias de salvación o de perdición, es una quimera.
+>
+> __---Stanislaw Lem, Golem XIV__
 
 ## Economy 
 
@@ -521,6 +542,10 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 > 
 > __--- Kurzgesagt, [Du bist nicht da, wo du denkst](https://youtu.be/0unvBW91wY0)__
 
+> One painful duty fulfilled makes the next plainer and easier
+> 
+> __--- Hellen Keller, Story of my life__
+
 [If Tomorrow Starts Without Me read by Tom O'Bedlam](hhttps://youtu.be/8YMJcIvpUlc)
 
 
@@ -535,7 +560,24 @@ The God of the gaps
 {{< youtube JwYX52BP2Sk >}}
 
 
+> I heard this story about a fish. He swims up to this older fish and says, “I'm trying to find this thing they call the ocean.” “The ocean?” says the older fish, “that's what you're in right now.” “This?” says the younger fish, “This is water. What I want is the ocean.”
+>
+> Movie: Soul
 
+## Miselanious
+
+> People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.
+>
+> __---paulgraham__
+
+> So here's the brief recipe for getting startup ideas. Find something that's missing in your own life, and supply that need—no matter how specific to you it seems. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that's narrow but genuine is a better starting point than one that's broad but hypothetical.
+>
+> __---paulgraham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
+
+
+> but i wanted to jump, i wanted to give it a try. But i wasn't sure, because one thing i am sure about, it wouldn't feel right if you don't want to jump with me
+>
+> me
 
 ## Sayings 
 > [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
@@ -582,9 +624,14 @@ The God of the gaps
 > 
 > __--- George Orwell__
 
-> It is very sad to mee that some people are so intent on leaving their mark on the world that they don't care if that mark is a scar
+> It is very sad to me that some people are so intent on leaving their mark on the world that they don't care if that mark is a scar
 >
 >  __--- Hank Green__
 
 
 >revolutions before they happen seem impossible afterwards it is inevitable
+
+> Writing novels is hard. Reading novels isn't
+>
+> __Paul Graham__
+

@@ -12,22 +12,26 @@ menu:
 ---
 
 ## Reading list
+- [] [Quantum country](https://quantum.country/)
 - [] The Martian. Andy Weir
 - [] The man in the high castle.  Philip K. Dick
 - [] So Good They Can't Ignore You. Cal Newport
+- [] Meditations. Marcus Aurelius
 - [] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html). 
 - [] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet translation](https://www-513gp-org.translate.goog/book/2761/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es-419&_x_tr_pto=wapp)
 - [] [Baumgartner & Momsen Detective Stories for German Learners](https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook)
 - [] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
 - [] Emilio o de la educación. Rousseau.
 - [] Historia social del conocimiento. Peter Burke
+- [] Maus. Art Spiegelman
+- [] The Software Engineering at Google. Tom Manshreck
 - [] The Feynman Lectures on Physics
 - [] this is how they tell me the world ends. Nicole Perlroth
 - [] Self-Reliance. Ralph Waldo Emerson
 - [] Si una Noche de Invierno un Viajero. Italo Calvino 
 - [] where wizards stay up late. Katie Hafner
-- [] Golem. Stanislaw Lem
 - [] My Philosophy of Industry. Henry Ford
+- [] The Success of Open Source. Steven Weber
 - [] Hard drive bill gates and the making of the microsoft empire
 - [] Letters to a young scientist. Edward Osborne Wilson
 - [] Pale Blue Dot. Carl Sagan
@@ -55,7 +59,6 @@ menu:
 - [] The selfish gene.Richard Dawkins
 - [] The Dragon Book. Compilers: Principles, Techniques, and Tools
 - [] It's Been a Good Life. Isaac Asimov
-- [] The Success of Open Source. Steven Weber
 - [] Johnny Got His Gun. Dalton Trumbo
 - [] The Machine Stops. E. M.Forster
 - [] The Evolution of Cooperation. Robert Axelrod
@@ -70,18 +73,30 @@ menu:
 - [] 2600: The Hacker Quarterly
 - [] The structure of scientific revolutions. Thomas kuhn
 - [] Flow My Tears, the Policeman Said. Philip K. Dick
+- [] Smoke Gets in Your Eyes: And Other Lessons From the Crematorium. Caitlin Doughty 
  
-### Interesting 
+### honorable mention
+
+don't quite made the cut but worth to keep an eye on if I change my mind: 
+- [] Reinventing Discovery: The New Era of Networked Science.  Michael Nielsen
+- [] [singularity](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
+- [] The End of History and the Last Man.	Francis Fukuyama
+- [] [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
+- [] Toyota Production System: Beyond Large-scale Production. taiichi ohno 
+- [] How to read and why. Harold Bloom
+- [] [Structure and Interpretation of Computer Programs. Harold Abelson and Gerald Jay Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf)
+- [] Organizational Communication: Balancing Creativity and Constraint. Eric M. Eisenberg
+- [] Site Reliability Engineering: How Google Runs Production. Niall Richard Murphy 
+- [] shop management. Frederick taylor
+- [] The History of the Decline and Fall of the Roman Empire. Edward Gibbon. Inspiration for Isaac Asimov's fundation series
+- []  [punkt und linie zu fläche. kandinsky](https://youtu.be/8Ab3ArE8W3s?t=1309)
+
 For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [] Logsdon, John M., ed., with Linda J. Lear, Jannelle Warren Findley, Ray A. Williamson, and Dwayne A. Day. Exploring the Unknown: Selected Documents in the History of the U.S. Civil Space Program, Volume I, Organizing for Exploration. NASA SP-4407, 1995.
 - [] Dick, Steven J. , ed. Historical Studies in the Societal Impact of Spaceflight. (NASA SP-2015-4803)
 - [] Orloff, Richard W. Apollo by the Numbers: A Statistical Reference. NASA SP-2000-4029, 2000.
 - [] Roland, Alex. Model Research: The National Advisory Committee for Aeronautics,1915-1958. NASA SP-4103, 1985.
 
-
-- [] How to read and why. Harold Bloom
-- [] The History of the Decline and Fall of the Roman Empire. Edward Gibbon. Inspiration for Isaac Asimov's fundation series
-- []  [punkt und linie zu fläche. kandinsky](https://youtu.be/8Ab3ArE8W3s?t=1309)
 
 ### Books read
 
@@ -137,6 +152,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] La riqueza de las naciones. Adam Smith
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] Brave New World. Aldous Huxley
+- [x] Golem XIV . Stanislaw Lem
 - [x] Ensayo sobre la lucidez. José Saramago
 - [x] El extranjero. Albert Camus 
 - [x] El idiota. Fyodor Dostoyevsky
@@ -144,16 +160,23 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Akelarre. Mario Mendoza  
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
 
-#### Essays
+#### Essays and blogs
+
 - [x] Black swan farming. Paul Graham
+- [] [Scaling Software Development. Alex Gaynor](https://alexgaynor.net/2020/feb/18/scaling-software-development)
 
 ## Movies
+
 - Slingshot. documentary of Dean Kamen.
 - About Time.
-- the perks of being a wallflower. 
+- the perks of being a wallflower.
 
 ## Series
+
 - The man in the high casttle.
 - The expanse.
 - Marco Polo.
+- Better than Us. Andrey Junkovsky
 
+## Places 
+- Volcan Licancabur
