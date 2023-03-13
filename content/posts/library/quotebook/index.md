@@ -224,6 +224,19 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > __---Stanislaw Lem, Golem XIV__
 
+> Tu lectura ya no es solitaria: piensas en la Lectora que en este mismo momento está abriendo también ella el libro, y ehte aquí que a la novel por ller se superpone una posible novela por vivir, o mejor dicho: el inicio de una posible historia.
+>
+> __--- Italo Calvino, Si una noche de invierno un viajero__
+
+> Y una vez conquistados para tu persona, marcados por tu posesión los objetos ya no tienen pinta de estar allí por casualidad, asumen un significado como partes de un discurso, como una memoria hecha de señales y emblemas.
+>
+> __--- Italo Calvino, Si una noche de invierno un viajero__
+
+> El mayor deseo del escritor atormentado sería ser leído com lee aquella joven. Se pone a escribir una novela como piensa que la escribíria el escritor productivo. Mientra tnato el mayor deseo del escritor productivo sería ser leído como lee aquella jove: se pone a escribir una novela como piensa que la escrbiría el escritor atormentado.
+>
+> __--- Italo Calvino, Si una noche de invierno un viajero__
+
+
 ## STEM
 
 > Physics my friend is a narrow path drawn across a gulf that the human imagination cannot grasp
@@ -479,7 +492,7 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 >
 >The answer, of course, is to have a society based on human values other than buying or selling. To arrive at this society, we need a good deal of planning and a good deal of struggle
 >
-> __--- Robert wiener, Cybernetics__
+> __--- Robert Wiener, Cybernetics__
 
 > The history of industrial automation is characterized by periods of rapid change in
 popular methods. Either as a cause or, perhaps, an effect, such periods of change in
@@ -562,9 +575,30 @@ The God of the gaps
 
 > I heard this story about a fish. He swims up to this older fish and says, “I'm trying to find this thing they call the ocean.” “The ocean?” says the older fish, “that's what you're in right now.” “This?” says the younger fish, “This is water. What I want is the ocean.”
 >
-> Movie: Soul
+> __Movie: Soul__
 
-## Miselanious
+
+>“What you need,” the Savage went on, “is something with tears for a change. Nothing costs enough here.”
+>
+> ...
+>
+> “But I like the inconveniences.”
+>
+> “We don’t,” said the Controller. “We prefer to do things comfortably.”
+>
+>“But I don’t want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.”
+>
+> “In fact,” said Mustapha Mond, “you’re claiming the right to be unhappy.”
+>
+>“All right then,” said the Savage defiantly, “I’m claiming the right to be unhappy.”
+>
+> “Not to mention the right to grow old and ugly and impotent; the right to have syphilis and cancer; the right to have too little to eat; the right to be lousy; the right to live in constant apprehension of what may happen to-morrow; the right to catch typhoid: the right to be tortured by unspeakable pains of every kind.” There was a long silence.
+>
+> “I claim them all,” said the Savage at last.
+>
+> __--- Aldous Huxley, Brave New World__
+
+## Miscellaneous
 
 > People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.
 >
@@ -577,7 +611,12 @@ The God of the gaps
 
 > but i wanted to jump, i wanted to give it a try. But i wasn't sure, because one thing i am sure about, it wouldn't feel right if you don't want to jump with me
 >
-> me
+> __me__
+
+> if you don't have a coherent story, if you don't know who you are, and are being vauge or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
+> 
+>  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)
+
 
 ## Sayings 
 > [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
@@ -635,3 +674,8 @@ The God of the gaps
 >
 > __Paul Graham__
 
+> if I had had more time, I would have written a shorter letter
+
+> I love deadlines. I like the whooshing sound they make as they fly by 
+>
+> __---Douglas Adams__

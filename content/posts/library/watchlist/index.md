@@ -36,6 +36,7 @@ menu:
 - [] Letters to a young scientist. Edward Osborne Wilson
 - [] Pale Blue Dot. Carl Sagan
 - [] Fish is Fish. Leo Lionni. Children's book
+- [] The Book of the Thousand Nights and a Night.  Burton
 - [] The reluctant dragon
 - [] The walking drum. Louis L. Amoun
 - [] Introduction to quantum mechanics. David Griffiths
@@ -90,7 +91,14 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [] shop management. Frederick taylor
 - [] The History of the Decline and Fall of the Roman Empire. Edward Gibbon. Inspiration for Isaac Asimov's fundation series
 - []  [punkt und linie zu fläche. kandinsky](https://youtu.be/8Ab3ArE8W3s?t=1309)
-
+- [] a history of control engineering bennett 
+- [] UNIX: A History and a Memoir. Brian W Kernighan
+- [] Infamous Scribblers: The Founding Fathers and the Rowdy Beginnings of American Journalism. Eric Burns 
+- [] Thread Of The Silkworm.Iris Chang (Qian Xuesen biography)
+- [] A Canticle for Leibowitz. Walter Michael Miller
+- [] A river runs through it. Norman Maclean
+- [][Softwares para la visualización estadística. Camila Acosta Ramirez](estadisticaun.github.io/Softwares/)
+ 
 For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [] Logsdon, John M., ed., with Linda J. Lear, Jannelle Warren Findley, Ray A. Williamson, and Dwayne A. Day. Exploring the Unknown: Selected Documents in the History of the U.S. Civil Space Program, Volume I, Organizing for Exploration. NASA SP-4407, 1995.
 - [] Dick, Steven J. , ed. Historical Studies in the Societal Impact of Spaceflight. (NASA SP-2015-4803)
@@ -143,12 +151,12 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Objetivo: la luna: la historia inédita de la mayor aventura humana. Parry Dan 
 - [x] The black widowers. Isaac Asimov
 - [x] Las aventuras de Sherlock Holmes. Sir arthur Connan Doyle
+- [x] Astronaut's guide to life on earth. Chris Hadfield
 - [x] Born a crime. Trevor Noah
 - [x] Mi historia. Michelle Obama
 - [x] Dreams of my father. Barack Obama
 - [x] The narrative Life of Frederick Douglass. Frederick Douglass
 - [x] Story of my life. Hellen Keller
-- [x] Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?. Einstein-Podolsky-Rosen. (EPR article/ EPR paradox)
 - [x] La riqueza de las naciones. Adam Smith
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] Brave New World. Aldous Huxley
@@ -160,8 +168,9 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Akelarre. Mario Mendoza  
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
 
-#### Essays and blogs
+#### Essays paper and blogs
 
+- [x] Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?. Einstein-Podolsky-Rosen. (EPR article/ EPR paradox)
 - [x] Black swan farming. Paul Graham
 - [] [Scaling Software Development. Alex Gaynor](https://alexgaynor.net/2020/feb/18/scaling-software-development)
 
