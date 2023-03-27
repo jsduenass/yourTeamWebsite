@@ -26,14 +26,14 @@ menu:
 - [] Maus. Art Spiegelman
 - [] The Software Engineering at Google. Tom Manshreck
 - [] The Feynman Lectures on Physics
-- [] this is how they tell me the world ends. Nicole Perlroth
+- [] This is how they tell me the world ends. Nicole Perlroth
 - [] Self-Reliance. Ralph Waldo Emerson
-- [] Si una Noche de Invierno un Viajero. Italo Calvino 
 - [] where wizards stay up late. Katie Hafner
 - [] My Philosophy of Industry. Henry Ford
 - [] The Success of Open Source. Steven Weber
 - [] Hard drive bill gates and the making of the microsoft empire
 - [] Letters to a young scientist. Edward Osborne Wilson
+- [] Masters of Doom. David Kushner
 - [] Pale Blue Dot. Carl Sagan
 - [] Fish is Fish. Leo Lionni. Children's book
 - [] The Book of the Thousand Nights and a Night.  Burton
@@ -75,6 +75,7 @@ menu:
 - [] The structure of scientific revolutions. Thomas kuhn
 - [] Flow My Tears, the Policeman Said. Philip K. Dick
 - [] Smoke Gets in Your Eyes: And Other Lessons From the Crematorium. Caitlin Doughty 
+- [] Invitation To Contemporary Physics
  
 ### honorable mention
 
@@ -98,6 +99,8 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [] A Canticle for Leibowitz. Walter Michael Miller
 - [] A river runs through it. Norman Maclean
 - [][Softwares para la visualización estadística. Camila Acosta Ramirez](estadisticaun.github.io/Softwares/)
+- [] How to Draw: drawing and sketching objects and environments from your imagination.  Scott Robertson and Thomas Bertling
+- [] Parable of the talents. Octavia E. Butler
  
 For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [] Logsdon, John M., ed., with Linda J. Lear, Jannelle Warren Findley, Ray A. Williamson, and Dwayne A. Day. Exploring the Unknown: Selected Documents in the History of the U.S. Civil Space Program, Volume I, Organizing for Exploration. NASA SP-4407, 1995.
@@ -160,6 +163,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] La riqueza de las naciones. Adam Smith
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] Brave New World. Aldous Huxley
+- [x] Si una Noche de Invierno un Viajero. Italo Calvino 
 - [x] Golem XIV . Stanislaw Lem
 - [x] Ensayo sobre la lucidez. José Saramago
 - [x] El extranjero. Albert Camus 
@@ -168,10 +172,11 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Akelarre. Mario Mendoza  
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
 
-#### Essays paper and blogs
+#### Essays, papers and blogs
 
 - [x] Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?. Einstein-Podolsky-Rosen. (EPR article/ EPR paradox)
 - [x] Black swan farming. Paul Graham
+- [] The Limits to Growth (LTG)
 - [] [Scaling Software Development. Alex Gaynor](https://alexgaynor.net/2020/feb/18/scaling-software-development)
 
 ## Movies
@@ -179,11 +184,14 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Slingshot. documentary of Dean Kamen.
 - About Time.
 - the perks of being a wallflower.
+- [] Beautiful Boy (2018 film) 
+- [] The pirates of silicon valley
 
 ## Series
 
 - The man in the high casttle.
 - The expanse.
+- Atypical.
 - Marco Polo.
 - Better than Us. Andrey Junkovsky
 

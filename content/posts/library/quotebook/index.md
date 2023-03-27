@@ -236,6 +236,9 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > __--- Italo Calvino, Si una noche de invierno un viajero__
 
+> So many vows. They make you swear and swear. Defend the king. Obey the king. Obey your father. Protect the innocent. Defend the weak. What if your father despises the king? What If the king massacres the innocent?
+> 
+> __---Jaime Lanister, Game of thrones tv show__
 
 ## STEM
 
@@ -269,6 +272,9 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 Gartner hype cycle
 
+> A lot of our training is like this: we learn how to do things that contribute in a very small way to a much larger mission but do absolutely nothing for our own career prospects. We spend our days studying and simulating experiences we may never actually have. It’s all pretend, really, but we are learning. And that, I think, is the point: learning.
+>
+> __--- Chris Hadfield,An astronaut's guide to life on earth__ 
 
 ### Computers
 > It is time to give these users more control over their computers through education and supporting software, this will cause a massive surge in productivity and creativity, with a far-ranging impact that can barely be anticipated or imagined.
@@ -315,6 +321,8 @@ This quote captures the problem of making code accesible and understandable, a p
 > As the Open Source Software (OSS) model continues  to grow and expand into new domains, and the dependency graph for many popular projects continues to expand over time, dependency management is perhaps becoming the most important problem in software engineering policy. We are no longer disconnected islands built on one or two layers outside an API. Modern software is built on towering pillars of dependencies; but just because we can build those pillars doesn’t mean we’ve yet figured out how to keep them standing and stable over time.
 >
 > __--- The Software Engineering at Google book (“SWE Book”)__
+
+> La refactorización es el comportamiento por defecto de una persona novata
 
 ### Mechatronics
 > Clearly, an automobile with 30–60 microcontrollers, up to 100 electric motors, about 200 pounds of wiring, a multitude of sensors, and thousands of lines of software code can hardly be classified as a strictly mechanical system. The automobile is being transformed into a comprehensive mechatronic system.
@@ -506,6 +514,21 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 
 ## Meaning 
 
+{{<https://youtu.be/P3X4jALZG_w >}}
+
+> Because getting to know a person also means to get to know their shortcomigs, their flaws, their internal obstacles that are holding them back, or negatively impact their lives in other way... In situation like these, it hard to ignore the urge to step in ... but the thing about trying to help in this way is that, more often than not depending on what exactly is going on, the part that we are trying to change is not so much the external situaiton of the person in trouble but rather their interior, something inside their character. You know, if only they would let us erase their bad habits, unburden them from their traumas, if only they would let us fix what is broken then they would be saved, they would be happy again.
+>
+> For it is true, we can seldom help those closest to us. Either we don't know what part of ourselves to give or, more often than not the part we have to give is not wanted.
+>
+> No one truly suffers alone. Stading by, watching helpessly as someone close to us slips away, it is not easy.
+>
+> We rely so much on those who are closest to us, but in the end, there is a part, an essence to them that we cannnot reach, that is theirs alone. And that is ok. Because even though they may not be ours to save, asn Norman Maclean's father concluded, they will always be ours to love.
+>
+>And so it is those we live with and shoul know, who elude us. But we can still love them, we can love completely without complete understanding.
+> 
+> __Like Stories of Old__
+
+
 > Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
 > Seria muy triste que todo ocurriese sin que yo lo percibiera. No quiero que mi cuerpo, con sus sufrimientos y sus faltas, sirva tan solo para contribuir a la armonía futura en beneficio de no se quien. Quiero ver con mis propios ojos a la cierva durmiendo junto al león, a la victima besando a su matador. Sobre este deseo reposan todas las religiones y yo tengo fe.
 > Quiero estar presente cuando todos se enteren del porque de las cosas. 
@@ -609,14 +632,26 @@ The God of the gaps
 > __---paulgraham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
 
 
-> but i wanted to jump, i wanted to give it a try. But i wasn't sure, because one thing i am sure about, it wouldn't feel right if you don't want to jump with me
+> but I wanted to jump, I wanted to give it a try. But I wasn't sure, because one thing I am sure about, it wouldn't feel right if you don't want to jump with me
 >
 > __me__
+
+>  Reading old writings bring a smile to my face, somehow some of the ideas and question are still persistent in my head  
+>
+> __me__
+
 
 > if you don't have a coherent story, if you don't know who you are, and are being vauge or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
 > 
 >  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)
 
+> you can filter all your team members into broad categories based on skillfulness, determination, focus, kindness+integrity
+
+> I’ve had detailed conversations with many professors and it was apparent that most of them had themselves never applied concepts they were teaching. Their knowledge is restricted to the textbook and questions they have been asking for years in their exams.
+
+> Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
+> 
+> __---Alex Winkler__
 
 ## Sayings 
 > [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
