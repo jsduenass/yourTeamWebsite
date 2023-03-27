@@ -514,7 +514,7 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 
 ## Meaning 
 
-{{<https://youtu.be/P3X4jALZG_w >}}
+{{< youtube P3X4jALZG_w >}}
 
 > Because getting to know a person also means to get to know their shortcomigs, their flaws, their internal obstacles that are holding them back, or negatively impact their lives in other way... In situation like these, it hard to ignore the urge to step in ... but the thing about trying to help in this way is that, more often than not depending on what exactly is going on, the part that we are trying to change is not so much the external situaiton of the person in trouble but rather their interior, something inside their character. You know, if only they would let us erase their bad habits, unburden them from their traumas, if only they would let us fix what is broken then they would be saved, they would be happy again.
 >
