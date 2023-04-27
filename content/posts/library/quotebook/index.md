@@ -23,7 +23,7 @@ This is a collection of quotes I found interesting in one way or another.
 > __--- Charles Dickens, Historia de dos ciudades. pag. 212 (1859)__
 
 
->Bajo esa bóveda tachonada de luminarias fijas y eternas, tan lejanas algunas de este minúsculo planeta que según afirman los sabios es dudoso que sus rayos hallan tenido tiempo de llegar a el descubrirlo como un punto en el espacio donde nada se sufre y nada se hace.
+>Bajo esa bóveda tachonada de luminarias fijas y eternas, tan lejanas algunas de este minúsculo planeta que según afirman los sabios es dudoso que sus rayos hayan tenido tiempo de llegar a el descubrirlo como un punto en el espacio donde nada se sufre y nada se hace.
 >
 > __--- Charles Dickens, Historia de dos ciudades - El zapatero. (1859)__
 
@@ -629,8 +629,16 @@ The God of the gaps
 
 > So here's the brief recipe for getting startup ideas. Find something that's missing in your own life, and supply that need—no matter how specific to you it seems. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that's narrow but genuine is a better starting point than one that's broad but hypothetical.
 >
-> __---Paul Graham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
+> __--- Paul Graham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
 
+
+> Y finalmente el lo hizo ... y ella quedo ... hablando con el silencio tenue y socuro de una pantall que anuncaiba su partida repentina pero anunciada.
+>
+> __--- Alejandra Arias__
+
+> Pero las horas caen y el tiempo los atrapa, alejandonos ... Quza en otro punto de esto que llamos tiempo puedan reencontrarse para volver a ser victimas de un adios que se deleta seprando lo que en un momento en un instate del y a mencionado tiempo, parecia eterno
+>
+> __--- Alejandra Arias__
 
 > but I wanted to jump, I wanted to give it a try. But I wasn't sure, because one thing I am sure about, it wouldn't feel right if you don't want to jump with me
 >
