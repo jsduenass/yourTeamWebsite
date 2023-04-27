@@ -461,7 +461,7 @@ Context has a key role in communication
 
 > Los conocimientos adquiridos de forma prematura como inconciliables con los conocimientos ya poseídos, carecían de valor porque quien está siendo instruido percibe una contradicción entre lo que sabe y lo que le ha sido anunciado. Solo por eso esperar alguna revelación desde las estrellas proveniente de los seres por encima de nosotros, ya sean estas noticias de salvación o de perdición, es una quimera.
 >
-> __---Stanislaw Lem, Golem XIV__
+> __--- Stanislaw Lem, Golem XIV__
 
 ## Economy 
 
@@ -516,13 +516,13 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 
 {{< youtube P3X4jALZG_w >}}
 
-> Because getting to know a person also means to get to know their shortcomigs, their flaws, their internal obstacles that are holding them back, or negatively impact their lives in other way... In situation like these, it hard to ignore the urge to step in ... but the thing about trying to help in this way is that, more often than not depending on what exactly is going on, the part that we are trying to change is not so much the external situaiton of the person in trouble but rather their interior, something inside their character. You know, if only they would let us erase their bad habits, unburden them from their traumas, if only they would let us fix what is broken then they would be saved, they would be happy again.
+> Because getting to know a person also means to get to know their shortcomigs, their flaws, their internal obstacles that are holding them back, or negatively impact their lives in other way... In situation like these, it hard to ignore the urge to step in ... but the thing about trying to help in this way is that, more often than not depending on what exactly is going on, the part that we are trying to change is not so much the external situation of the person in trouble but rather their interior, something inside their character. You know, if only they would let us erase their bad habits, unburden them from their traumas, if only they would let us fix what is broken, then they would be saved, they would be happy again.
 >
 > For it is true, we can seldom help those closest to us. Either we don't know what part of ourselves to give or, more often than not the part we have to give is not wanted.
 >
 > No one truly suffers alone. Stading by, watching helpessly as someone close to us slips away, it is not easy.
 >
-> We rely so much on those who are closest to us, but in the end, there is a part, an essence to them that we cannnot reach, that is theirs alone. And that is ok. Because even though they may not be ours to save, asn Norman Maclean's father concluded, they will always be ours to love.
+> We rely so much on those who are closest to us, but in the end, there is a part, an essence to them that we cannnot reach, that is theirs alone. And that is ok. Because even though they may not be ours to save, as Norman Maclean's father concluded, they will always be ours to love.
 >
 >And so it is those we live with and shoul know, who elude us. But we can still love them, we can love completely without complete understanding.
 > 
@@ -625,25 +625,25 @@ The God of the gaps
 
 > People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.
 >
-> __---paulgraham__
+> __--- Paul Graham__
 
 > So here's the brief recipe for getting startup ideas. Find something that's missing in your own life, and supply that need—no matter how specific to you it seems. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that's narrow but genuine is a better starting point than one that's broad but hypothetical.
 >
-> __---paulgraham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
+> __---Paul Graham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
 
 
 > but I wanted to jump, I wanted to give it a try. But I wasn't sure, because one thing I am sure about, it wouldn't feel right if you don't want to jump with me
 >
-> __me__
+> __--- Me__
 
 >  Reading old writings bring a smile to my face, somehow some of the ideas and question are still persistent in my head  
 >
-> __me__
+> __--- Me__
 
 
 > if you don't have a coherent story, if you don't know who you are, and are being vauge or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
 > 
->  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)
+>  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
 
 > you can filter all your team members into broad categories based on skillfulness, determination, focus, kindness+integrity
 
@@ -651,7 +651,7 @@ The God of the gaps
 
 > Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
 > 
-> __---Alex Winkler__
+> __--- Alex Winkler__
 
 ## Sayings 
 > [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
@@ -662,7 +662,7 @@ The God of the gaps
 
 > What a delightful crap bag life is 
 >  
-> __---Jason Scott, Jason Scott talks his way out podcast__
+> __--- Jason Scott, Jason Scott talks his way out podcast__
 
 > Engañar esta mal aunque el diablo sea la victima 
 > 
