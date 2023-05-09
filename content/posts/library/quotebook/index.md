@@ -621,6 +621,11 @@ The God of the gaps
 >
 > __--- Aldous Huxley, Brave New World__
 
+> No hay en esto certidubmre logica .
+>
+> __--- Albert Camus, Brave New World__
+
+
 ## Miscellaneous
 
 > People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.
@@ -632,11 +637,11 @@ The God of the gaps
 > __--- Paul Graham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
 
 
-> Y finalmente el lo hizo ... y ella quedo ... hablando con el silencio tenue y socuro de una pantall que anuncaiba su partida repentina pero anunciada.
+> Y finalmente el lo hizo ... y ella quedo ... hablando con el silencio tenue y oscuro de una pantalla que anunciaba su partida repentina pero anunciada.
 >
 > __--- Alejandra Arias__
 
-> Pero las horas caen y el tiempo los atrapa, alejandonos ... Quza en otro punto de esto que llamos tiempo puedan reencontrarse para volver a ser victimas de un adios que se deleta seprando lo que en un momento en un instate del y a mencionado tiempo, parecia eterno
+> Pero las horas caen y el tiempo los atrapa, alejandonos ... quiza en otro punto de esto que llamos tiempo puedan reencontrarse para volver a ser victimas de un adios que se delieta seprando lo que en un momento en un instante del ya mencionado tiempo, parecia eterno
 >
 > __--- Alejandra Arias__
 
@@ -644,7 +649,7 @@ The God of the gaps
 >
 > __--- Me__
 
->  Reading old writings bring a smile to my face, somehow some of the ideas and question are still persistent in my head  
+> Reading old writings bring a smile to my face, somehow some of the ideas and question are still persistent in my head  
 >
 > __--- Me__
 
@@ -658,7 +663,7 @@ The God of the gaps
 > I’ve had detailed conversations with many professors and it was apparent that most of them had themselves never applied concepts they were teaching. Their knowledge is restricted to the textbook and questions they have been asking for years in their exams.
 
 > Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
-> 
+>
 > __--- Alex Winkler__
 
 ## Sayings 
