@@ -621,9 +621,9 @@ The God of the gaps
 >
 > __--- Aldous Huxley, Brave New World__
 
-> No hay en esto certidubmre logica .
+> No hay en esto certidubmre lógica. Tampoco hya probabilidad experimental todo lo que puedo decir es que, en efecto, sobrepasa mi medida si no dedusco de ello una negación, por lo menos no quiero fundamentar nada en lo incomprensible. Quiero saber si puedo vivir con lo que sé y con eso solamente. Me dcien también que la razón debe inclinarse. Pero si reconozco los límites de la razón no lo niego por lo mismo, pues reconozco sus poderes relativos.
 >
-> __--- Albert Camus, Brave New World__
+> __--- Albert Camus, El mito de Sísifo__
 
 
 ## Miscellaneous
@@ -666,6 +666,9 @@ The God of the gaps
 >
 > __--- Alex Winkler__
 
+> Infeliz de mí, dice uno, porque tal cosa me aconteció. No, al contrario: Dichoso yo porque habiéndome ocurrido esto, continúo sin pena alguna, ni quebrantado por lo presente ni amedrentado por lo venidero. Una semejante desgracia hubiera podido ocurrir a cualquier otro; y éste no hubiera sabido continuar, como yo, sin apenarse.
+> 
+> __--- Marco Aurelio, Meditaciones__
 ## Sayings 
 > [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
 

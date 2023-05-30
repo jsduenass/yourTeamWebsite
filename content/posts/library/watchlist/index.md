@@ -53,7 +53,6 @@ menu:
 [ ] How we learn. Benedic Carey
 [ ] Armas de instrucción masiva. John Taylor Gatto
 [ ] The pig that wants to be eaten. Julian Baggani
-[ ] El mito de sisifo. Albert camus
 [ ] La Revolución Historiográfica Francesa. Peter Burke
 [ ] Por las grutas y selvas del Indostán. Helena Blavatsky
 [ ] Diagnosing the System for Organizations. Stafford Beer 
@@ -79,6 +78,8 @@ menu:
 [ ] Flow My Tears, the Policeman Said. Philip K. Dick
 [ ] Smoke Gets in Your Eyes: And Other Lessons From the Crematorium. Caitlin Doughty 
 [ ] Invitation To Contemporary Physics
+[ ] El proceso. Franz Kafka
+[ ] Seeing voices. Oliver sacks
  
 ### honorable mention
 
@@ -110,6 +111,10 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 [ ] El arte de ver. Aldous Huxley
 [ ] El pais de los ciegos. h. g. wells
 [ ] El concepto de derecho. H. L. A. Hart
+[ ] Of Molecules and Men. Francis Crick
+[ ] Industrial history lectures. Olaf Stapledon
+[ ] Horacio kalinbang o los automatas.  Eduardo Ladislao Holmberg
+
 
 
  
@@ -136,7 +141,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 [x] The hunger games. Suzanne Collins
 [x] On the origin of species. Charles Darwin
 [x] La traición de Darwin. Gerardo Bartolomé
-[x] Fiasco. Stanislaw Lem 
+[x] Fiasco. Stanislaw Lem
 [x] Historia del futuro. Robert Anson Heinlein [extra sci-fi](https://www.youtube.com/watch?v=XaWMe5nC9SA)  
 [x] Ensayo sobre la ceguera. José Saramago 
 [x] Los propios dioses. Isaac Asimov
@@ -144,8 +149,9 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 [x] El sol desnudo. Asimov
 [x] Bootstrapping Douglas Endelbart and the origins of Personal Computing. Thierry Bardin
 [x] The Human Use of Human Beings. Norbert weiner
-[x] París. Edward Rutherfurd
-[x] A tale of two cities. Charles Dickens 
+[x] Guerra y paz. Leon Tolsoi
+[x] A tale of two cities. Charles Dickens
+[x] París. Edward Rutherfurd 
 [x] Paris del siglo xx. Julio Verne
 [x] El techo del mundo. Angel Gutierrez y David Zurdo
 [x] Surely you´re joking, Mr. Feynman. Feynman, Richard Phillips
@@ -154,11 +160,11 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 [x] Los dragones del edén. Carl Sagan
 [x] El mundo y sus demonios. Carl Sagan 
 [x] Terraformar la tierra. Jack Williamson
-[x] Guerra y paz. Leon Tolsoi
 [x] Ficciones. Jorge Luis Borges
 [x] Vivir para contarla. Gabriel Garcia Marquez
 [x] El otoño del patriarca. Gabriel Garcia Marquez
 [x] Cien años de soledad. Gabriel Garcia Marquez
+[x] El mito de sisifo. Albert camus
 [x] Spies of No Country. Matti Friedman 
 [x] El problema de los 3 cuerpos. Liu Cixin
 [x] El fin de la eternidad. Isaac Asimov

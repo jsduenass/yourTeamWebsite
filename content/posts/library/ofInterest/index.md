@@ -44,7 +44,7 @@ menu:
 * Fachhochschule Wedel University of Applied Sciences
 
 
-## people
+## People
 * Paul Graham. YCombinator
 * Lex Fridman
 * Sid Sijbrandij. gitlab
@@ -74,3 +74,5 @@ menu:
 * Roger D. Launius. chief historian NASA
 * John Carmack. Best programmer (allegedly)
 
+# Institutions
+- dlr institute of robotics and mechatronics
