@@ -113,8 +113,12 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 [ ] El concepto de derecho. H. L. A. Hart
 [ ] Of Molecules and Men. Francis Crick
 [ ] Industrial history lectures. Olaf Stapledon
+[ ] UBIK. Philip K. Dick 
 [ ] Horacio kalinbang o los automatas.  Eduardo Ladislao Holmberg
+[ ] Viajes interplanetarios en zepelines que tendrán lugar el año 2009 (1936)
+[ ]Show your work.  Austin Kleon 
 
+Prehistoria de la Ciencia Ficción. de Laguna Libros
 
 
  

@@ -224,7 +224,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > __---Stanislaw Lem, Golem XIV__
 
-> Tu lectura ya no es solitaria: piensas en la Lectora que en este mismo momento está abriendo también ella el libro, y ehte aquí que a la novel por ller se superpone una posible novela por vivir, o mejor dicho: el inicio de una posible historia.
+> Tu lectura ya no es solitaria: piensas en la Lectora que en este mismo momento está abriendo también ella el libro, y ehte aquí que a la novel por leer se superpone una posible novela por vivir, o mejor dicho: el inicio de una posible historia.
 >
 > __--- Italo Calvino, Si una noche de invierno un viajero__
 
@@ -232,7 +232,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > __--- Italo Calvino, Si una noche de invierno un viajero__
 
-> El mayor deseo del escritor atormentado sería ser leído com lee aquella joven. Se pone a escribir una novela como piensa que la escribíria el escritor productivo. Mientra tnato el mayor deseo del escritor productivo sería ser leído como lee aquella jove: se pone a escribir una novela como piensa que la escrbiría el escritor atormentado.
+> El mayor deseo del escritor atormentado sería ser leído com lee aquella joven. Se pone a escribir una novela como piensa que la escribíria el escritor productivo. Mientra taanto el mayor deseo del escritor productivo sería ser leído como lee aquella joven: se pone a escribir una novela como piensa que la escrbiría el escritor atormentado.
 >
 > __--- Italo Calvino, Si una noche de invierno un viajero__
 

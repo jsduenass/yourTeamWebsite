@@ -39,12 +39,13 @@ menu:
 * West Virginia University
 * TU Braunschweig (https://www.youtube.com/watch?v=V5vpwVFMPqs)
 * TU Kaiserslautern
-*  university of Nothinham. numberphile
-*  IIT Gandhinagar
+* University of Nothinham. numberphile
+* IIT Gandhinagar
 * Fachhochschule Wedel University of Applied Sciences
 
 
 ## People
+
 * Paul Graham. YCombinator
 * Lex Fridman
 * Sid Sijbrandij. gitlab
@@ -74,5 +75,6 @@ menu:
 * Roger D. Launius. chief historian NASA
 * John Carmack. Best programmer (allegedly)
 
-# Institutions
-- dlr institute of robotics and mechatronics
+## Institutions
+
+* dlr institute of robotics and mechatronics
