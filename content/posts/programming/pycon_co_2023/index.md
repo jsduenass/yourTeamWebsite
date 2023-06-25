@@ -24,7 +24,10 @@ Computer Programming for Everybody. El sueño de que cada persona pudiera progra
 <a href="https://www.youtube.com/live/fiEq85l9dTc?feature=share&t=30327" target="_blank"> 
         <img align = "center" alt=Slide lightning talk" width="70%" src="hero.png" /> 
 
-
+## Pycon 2023
+- [Day 1](https://www.youtube.com/live/KxbukbKG67c?feature=share)
+- [Day 2](https://www.youtube.com/live/fiEq85l9dTc?feature=share)
+- [Day 3](https://www.youtube.com/live/KAPHE6akw7Q?feature=share)
 
 ## Recursos
 - [Computer Programming for Everyone](https://www.python.org/doc/essays/cp4e/), Guido Van Rossum.

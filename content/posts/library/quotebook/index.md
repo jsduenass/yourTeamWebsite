@@ -512,17 +512,26 @@ automation techniques seem closely tied to world economics
 
 it is fascinating to see how an indicator of economic prosperity has shifted from production to consumption
 
-## Meaning 
+## Meaning
 
+### you can't save those you love 
 {{< youtube P3X4jALZG_w >}}
 
 > Because getting to know a person also means to get to know their shortcomigs, their flaws, their internal obstacles that are holding them back, or negatively impact their lives in other way... In situation like these, it hard to ignore the urge to step in ... but the thing about trying to help in this way is that, more often than not depending on what exactly is going on, the part that we are trying to change is not so much the external situation of the person in trouble but rather their interior, something inside their character. You know, if only they would let us erase their bad habits, unburden them from their traumas, if only they would let us fix what is broken, then they would be saved, they would be happy again.
 >
+> ...
+>
 > For it is true, we can seldom help those closest to us. Either we don't know what part of ourselves to give or, more often than not the part we have to give is not wanted.
+>
+> ...
 >
 > No one truly suffers alone. Stading by, watching helpessly as someone close to us slips away, it is not easy.
 >
+> ...
+>
 > We rely so much on those who are closest to us, but in the end, there is a part, an essence to them that we cannnot reach, that is theirs alone. And that is ok. Because even though they may not be ours to save, as Norman Maclean's father concluded, they will always be ours to love.
+>
+> ...
 >
 >And so it is those we live with and shoul know, who elude us. But we can still love them, we can love completely without complete understanding.
 > 
@@ -563,7 +572,7 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __---Ray Bradbury, The veldt__
 
-> It is not good for a man to be cognizant of his physical and spiritual mechanisms. Complete knowledge reveals limits to human possibilities and the less a man is by nature in his purposes, the lees he can tolerate limits.
+> It is not good for a man to be cognizant of his physical and spiritual mechanisms. Complete knowledge reveals limits to human possibilities and the less a man is by nature in his purposes, the less he can tolerate limits.
 >
 >__--- Stanislaw Lem, Fiasco__
 
@@ -621,7 +630,7 @@ The God of the gaps
 >
 > __--- Aldous Huxley, Brave New World__
 
-> No hay en esto certidubmre lógica. Tampoco hya probabilidad experimental todo lo que puedo decir es que, en efecto, sobrepasa mi medida si no dedusco de ello una negación, por lo menos no quiero fundamentar nada en lo incomprensible. Quiero saber si puedo vivir con lo que sé y con eso solamente. Me dcien también que la razón debe inclinarse. Pero si reconozco los límites de la razón no lo niego por lo mismo, pues reconozco sus poderes relativos.
+> No hay en esto certidumbre lógica. Tampoco hay probabilidad experimental todo lo que puedo decir es que, en efecto, sobrepasa mi medida si no dedusco de ello una negación, por lo menos no quiero fundamentar nada en lo incomprensible. Quiero saber si puedo vivir con lo que sé y con eso solamente. Me dicen también que la razón debe inclinarse. Pero si reconozco los límites de la razón no lo niego por lo mismo, pues reconozco sus poderes relativos.
 >
 > __--- Albert Camus, El mito de Sísifo__
 
@@ -641,20 +650,20 @@ The God of the gaps
 >
 > __--- Alejandra Arias__
 
-> Pero las horas caen y el tiempo los atrapa, alejandonos ... quiza en otro punto de esto que llamos tiempo puedan reencontrarse para volver a ser victimas de un adios que se delieta seprando lo que en un momento en un instante del ya mencionado tiempo, parecia eterno
+> Pero las horas caen y el tiempo los atrapa, alejandonos ... quiza en otro punto de esto que llamos tiempo puedan reencontrarse para volver a ser victimas de un adios que se delieta separando lo que en un momento en un instante del ya mencionado tiempo, parecia eterno.
 >
 > __--- Alejandra Arias__
 
-> but I wanted to jump, I wanted to give it a try. But I wasn't sure, because one thing I am sure about, it wouldn't feel right if you don't want to jump with me
+> But I wanted to jump, I wanted to give it a try. But I wasn't sure, because one thing I am sure about, it wouldn't feel right if you don't want to jump with me.
 >
 > __--- Me__
 
-> Reading old writings bring a smile to my face, somehow some of the ideas and question are still persistent in my head  
+> Reading old writings bring a smile to my face, somehow some of the ideas and question are still persistent in my head.
 >
 > __--- Me__
 
 
-> if you don't have a coherent story, if you don't know who you are, and are being vauge or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
+> if you don't have a coherent story, if you don't know who you are, and are being vague or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
 > 
 >  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
 
@@ -723,7 +732,7 @@ The God of the gaps
 
 > Writing novels is hard. Reading novels isn't
 >
-> __Paul Graham__
+> __--- Paul Graham__
 
 > if I had had more time, I would have written a shorter letter
 

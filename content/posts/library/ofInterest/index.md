@@ -10,11 +10,13 @@ menu:
     weight: 23
 ---
 
+Because I seem to be pretty fond on lists, here are some more, of interesting institutions universities and people doing amazing work.
+
 
 # Universities
 
-* ETH Zürich. 
-    * [Autonomous Systems Lab](https://github.com/ethz-asl), Roland Siegwart 
+* ETH Zürich.
+    * [Autonomous Systems Lab](https://github.com/ethz-asl), Roland Siegwart
     * [robotics system lab](https://github.com/leggedrobotics)
 * DelftTU. [Software architecture](https://delftswa.gitbooks.io/desosa2016/content/)
     * https://github.com/tudelft

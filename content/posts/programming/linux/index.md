@@ -7,7 +7,7 @@ menu:
     name: "Linux"
     identifier: linux
     parent: programming
-    weight: 3
+    weight: 4
 ---
 
 <!--

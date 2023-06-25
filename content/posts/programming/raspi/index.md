@@ -7,7 +7,7 @@ menu:
     name: "Raspbery pi"
     identifier: raspi
     parent: programming
-    weight: 4
+    weight: 5
 ---
 
 Getting started with a raspberry pi

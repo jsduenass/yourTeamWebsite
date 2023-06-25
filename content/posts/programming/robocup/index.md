@@ -7,7 +7,7 @@ menu:
     name: "Robocup"
     identifier: robocup
     parent: programming  
-    weight: 8
+    weight: 3
 ---
 
 
@@ -156,7 +156,7 @@ ls -R | grep urdf
 * Select on of the available example files located on the RoboCup Challenge folder, it would run a gazebo world and start ROS.
 * Open MATLAb and run the following script to connect to 
 
-```{matlab}
+```
 %% Connect to ROs Network
 clc
 ipaddress = '192.168.182.128';
