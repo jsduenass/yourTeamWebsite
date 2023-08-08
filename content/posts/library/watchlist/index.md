@@ -13,7 +13,7 @@ menu:
 
 ## Reading list
 
-- [ ] So Good They Can't Ignore You. Cal Newport
+- [ ] A calendar of wisdom. Leo Tolstoy
 - [ ] Letters to a young scientist. Edward Osborne Wilson
 - [ ] The Success of Open Source. Steven Weber
 - [ ] [Quantum country](https://quantum.country/)
@@ -30,11 +30,11 @@ menu:
 - [ ] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
 - [ ] Emilio o de la educación. Rousseau.
 - [ ] Historia social del conocimiento. Peter Burke
-- [ ] Maus. Art Spiegelman
 - [ ] Seveneves. Neal Stephenson
 - [ ] It's Been a Good Life. Isaac Asimov
 - [ ] Johnny Got His Gun. Dalton Trumbo
 - [ ] El proceso. Franz Kafka
+- [ ] The diamond age. Neal stephenson
 - [ ] The Software Engineering at Google. Tom Manshreck
 - [ ] Toyota Production System: Beyond Large-scale Production. Taiichi Ohno
 - [ ] The Feynman Lectures on Physics
@@ -50,17 +50,17 @@ menu:
 - [ ] Introduction to quantum mechanics. David Griffiths
 - [ ] The time machine. H.G wells
 - [ ] How to solve it. George Poyla
-- [ ] Los años de aprendizaje de Wilhelm Meister. Wolfgang Goethe 
+- [ ] Los años de aprendizaje de Wilhelm Meister. Wolfgang Goethe
 - [ ] En busca del tiempo perdido. Marcel Proust
 - [ ] How we learn. Benedic Carey
 - [ ] Armas de instrucción masiva. John Taylor Gatto
 - [ ] The pig that wants to be eaten. Julian Baggani
 - [ ] La Revolución Historiográfica Francesa. Peter Burke
 - [ ] Por las grutas y selvas del Indostán. Helena Blavatsky
-- [ ] Diagnosing the System for Organizations. Stafford Beer 
+- [ ] Diagnosing the System for Organizations. Stafford Beer
 - [ ] Social Commitments in a Depersonalized World. Shane R. Thye  
-- [ ] Computers as theatre. Brenda Laurel 
-- [ ] Modern Operating Systems. Stuart Tanenbaum 
+- [ ] Computers as theatre. Brenda Laurel
+- [ ] Modern Operating Systems. Stuart Tanenbaum
 - [ ] Computer networks. Stuart Tanenbaum
 - [ ] Oryx and crake. Margaret Atwood
 - [ ] The selfish gene.Richard Dawkins
@@ -69,13 +69,14 @@ menu:
 - [ ] The Evolution of Cooperation. Robert Axelrod
 - [ ] The Historian's Craft. Marc Bloch
 - [ ] How to read and why. Harold Bloom
+- [ ] Paradise Lost. John Milton
 - [ ] UNIX: A History and a Memoir. Brian W Kernighan
 - [ ] Robot modeling and control.  Mark W. Spong , Seth Hutchinson,  M. Vidyasagar.
-- [ ] Robotics vision and control. Peter Corke 
+- [ ] Robotics vision and control. Peter Corke
 - [ ] Introduction to autonomous mobile robots.
 - [ ] Modern Control Engineering. Katsuhiko Ogata 
 - [ ] Gödel, Escher, Bach: un Eterno y Grácil Bucle. Douglas Hofstadter
-- [ ] PoC || GTFO 
+- [ ] PoC || GTFO
 - [ ] 2600: The Hacker Quarterly
 - [ ] The structure of scientific revolutions. Thomas kuhn
 - [ ] Flow My Tears, the Policeman Said. Philip K. Dick
@@ -88,7 +89,7 @@ menu:
 don't quite made the cut but worth to keep an eye on if I change my mind: 
 - [ ] Reinventing Discovery: The New Era of Networked Science.  Michael Nielsen
 - [ ] [singularity](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
-- [ ] The End of History and the Last Man.	Francis Fukuyama
+- [ ] The End of History and the Last Man.Francis Fukuyama
 - [ ] [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 - [ ] [Structure and Interpretation of Computer Programs. Harold Abelson and Gerald Jay Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - [ ] Organizational Communication: Balancing Creativity and Constraint. Eric M. Eisenberg
@@ -97,9 +98,9 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Shop management. Frederick taylor
 - [ ] The History of the Decline and Fall of the Roman Empire. Edward Gibbon. Inspiration for Isaac Asimov's fundation series
 - [ ]  [punkt und linie zu fläche. kandinsky](https://youtu.be/8Ab3ArE8W3s?t=1309)
-- [ ] S history of control engineering. Bennett 
-- [ ] Infamous Scribblers: The Founding Fathers and the Rowdy Beginnings of American Journalism. Eric Burns 
-- [ ] Thread Of The Silkworm.Iris Chang (Qian Xuesen biography)
+- [ ] history of control engineering. Bennett 
+- [ ] Infamous Scribblers: The Founding Fathers and the Rowdy Beginnings of American Journalism. Eric Burns
+- [ ] Thread Of The Silkworm. Iris Chang (Qian Xuesen biography)
 - [ ] A Canticle for Leibowitz. Walter Michael Miller
 - [ ] A river runs through it. Norman Maclean
 - [ ][Softwares para la visualización estadística. Camila Acosta Ramirez](estadisticaun.github.io/Softwares/)
@@ -113,7 +114,7 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] El concepto de derecho. H. L. A. Hart
 - [ ] Of Molecules and Men. Francis Crick
 - [ ] Industrial history lectures. Olaf Stapledon
-- [ ] UBIK. Philip K. Dick 
+- [ ] UBIK. Philip K. Dick
 - [ ] Horacio kalinbang o los automatas.  Eduardo Ladislao Holmberg
 - [ ] Viajes interplanetarios en zepelines que tendrán lugar el año 2009 (1936)
 - [ ] Show your work.  Austin Kleon
@@ -153,12 +154,12 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] La traición de Darwin. Gerardo Bartolomé
 - [x] Fiasco. Stanislaw Lem
 - [x] Historia del futuro. Robert Anson Heinlein [extra sci-fi](https://www.youtube.com/watch?v=XaWMe5nC9SA)  
-- [x] Ensayo sobre la ceguera. José Saramago 
+- [x] Ensayo sobre la ceguera. José Saramago
 - [x] Los propios dioses. Isaac Asimov
 - [x] Bóvedas de acero. Isaac Asimov
 - [x] El sol desnudo. Asimov
 - [x] Bootstrapping Douglas Endelbart and the origins of Personal Computing. Thierry Bardin
-- [x] The Human Use of Human Beings. Norbert weiner
+- [x] The Human Use of Human Beings. Norbert Weiner
 - [x] Guerra y paz. Leon Tolsoi
 - [x] A tale of two cities. Charles Dickens
 - [x] París. Edward Rutherfurd
@@ -166,7 +167,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] El techo del mundo. Angel Gutierrez y David Zurdo
 - [x] Surely you´re joking, Mr. Feynman. Feynman, Richard Phillips
 - [x] Frankenstein o el moderno prometeo. Marry Shelly
-- [x] Cibernetica. Norbert weiner
+- [x] Cibernetica. Norbert Weiner
 - [x] Los dragones del edén. Carl Sagan
 - [x] El mundo y sus demonios. Carl Sagan
 - [x] Terraformar la tierra. Jack Williamson
@@ -193,13 +194,17 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Si una Noche de Invierno un Viajero. Italo Calvino
 - [x] Golem XIV . Stanislaw Lem
 - [x] La ruidosa marcha de los mudos. Juan Alvarez
-- [x] Ensayo sobre la lucidez. José Saramago
-- [x] Angela Merkel la fisica del poder. Patricia Salazar y Christina Mendoza
-- [x] El extranjero. Albert Camus
-- [x] El idiota. Fyodor Dostoyevsky
+- [x] Maus. Art Spiegelman
 - [x] Satanas. Mario Mendoza
 - [x] Akelarre. Mario Mendoza  
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
+
+#### extended list
+- [x] El idiota. Fyodor Dostoyevsky
+- [x] So Good They Can't Ignore You. Cal Newport
+- [x] Ensayo sobre la lucidez. José Saramago
+- [x] Angela Merkel la fisica del poder. Patricia Salazar y Christina Mendoza
+- [x] El extranjero. Albert Camus
 
 #### Essays, papers and blogs
 
@@ -213,7 +218,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Inglourious basterds
 - Slingshot. documentary of Dean Kamen.
 - About Time.
-- the perks of being a wallflower.
+- The perks of being a wallflower.
 
 - [ ] Before Sunrise/Before Sunset/Before Midnight
 - [ ] In the mood for love
@@ -223,9 +228,15 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 
 - The man in the high casttle.
 - The expanse.
-- Atypical.
-- Marco Polo.
 - Better than Us. Andrey Junkovsky
+- Atypical.
+- The office.
+- Marco Polo.
+
+## Poetry
+- [If Tomorrow Starts Without Me by David Romano possibly](https://youtu.be/8YMJcIvpUlc)
+- [Your Life is Your life by Charles Bukowski](https://youtu.be/2lK4LrD8Ii4)
+- [If by Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)
 
 ## Art
 - Michael Cheval.

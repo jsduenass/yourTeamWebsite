@@ -276,6 +276,10 @@ Gartner hype cycle
 >
 > __--- Chris Hadfield,An astronaut's guide to life on earth__ 
 
+> Getting things done means doing things you might not be interested in. No matter how exciting or appealing a project is, there are always boring tasks. Tedious tasks. Tasks that a less mature engineer may deem beneath their dignity or their job title.
+>
+>__---John Allspaw__
+
 ### Computers
 > It is time to give these users more control over their computers through education and supporting software, this will cause a massive surge in productivity and creativity, with a far-ranging impact that can barely be anticipated or imagined.
 >
@@ -634,6 +638,11 @@ The God of the gaps
 >
 > __--- Albert Camus, El mito de Sísifo__
 
+>  Or watch the things you gave your life to, broken,
+>
+>  And stoop and build ’em up with worn-out tools:
+>
+> __--- [if, Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)__
 
 ## Miscellaneous
 
@@ -662,6 +671,9 @@ The God of the gaps
 >
 > __--- Me__
 
+> “I am just a fleeing thought in this stream of consciousness” were the last words of a dear old friend before willingly surrendering to the dark abyss of nothingness. It was a scream of a tortured soul, someone who was suffering from a violent attack. It was a Tuesday night like any other, it was late he already laying in his bed. In that moment before falling asleep while dreaming about the future, he suddenly saw the unavoidable trap that laid in front of him. He could clearly see his executioner approaching to rip apart from him what he held dear the most. In front stood an impasse, those professional goals he wanted, could no longer be. Neither would he ever feel the sweet touch of a loving hand. His destiny was set, to go quietly into the night to perish and be forgotten. He knew it well, his time had come, like many before him, but that did not make any easier to rest assure and be content of all the things he would not get to experience. Before accepting his fate, he traversed inside his room, which had become empty, distant and alienating. Digging into the recesses of this labyrinth he got to bury a drowned scream before  being struck and succumbing to Morfeo for a new being to arise renewed.
+>
+> __--- Me__
 
 > if you don't have a coherent story, if you don't know who you are, and are being vague or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
 > 
