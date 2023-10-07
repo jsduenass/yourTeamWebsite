@@ -356,13 +356,31 @@ This quote captures the problem of making code accesible and understandable, a p
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL1-Z9ArJBD7tBImjZDuETByCk3q9djTMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 --->
 
-## Organization
+## Startups
+
 
 > While an ideal time to begin a company handbook is at inception, the next best time is _today_.
 >
 >__--- [gitlab Handbook](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)__
 
+> People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.
+>
+> __--- Paul Graham__
 
+> So here's the brief recipe for getting startup ideas. Find something that's missing in your own life, and supply that need—no matter how specific to you it seems. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that's narrow but genuine is a better starting point than one that's broad but hypothetical.
+>
+> __--- Paul Graham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
+
+> I’ve had detailed conversations with many professors and it was apparent that most of them had themselves never applied concepts they were teaching. Their knowledge is restricted to the textbook and questions they have been asking for years in their exams.
+
+> Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
+>
+> __--- Alex Winkler__
+
+> you can filter all your team members into broad categories based on skillfulness, determination, focus, kindness+integrity
+
+
+{{< youtube ii1jcLg-eIQ >}}
 
 
 ## Education and learning
@@ -516,7 +534,18 @@ automation techniques seem closely tied to world economics
 
 it is fascinating to see how an indicator of economic prosperity has shifted from production to consumption
 
-## Meaning
+## Interpersonal relationships
+
+> When you miss me remember that it wasn't enough when we were together
+
+
+> Disconnection happens very slowly and then all at once
+>
+> __---James Sexton, The Lex Fridman podcast__
+
+> A person who adores an idol and a person who destroys an idol are both idolist
+>
+> __---James Sexton, The Lex Fridman podcast__
 
 ### you can't save those you love 
 {{< youtube P3X4jALZG_w >}}
@@ -540,6 +569,8 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >And so it is those we live with and shoul know, who elude us. But we can still love them, we can love completely without complete understanding.
 > 
 > __Like Stories of Old__
+
+## Meaning
 
 
 > Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
@@ -646,20 +677,12 @@ The God of the gaps
 
 ## Miscellaneous
 
-> People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.
->
-> __--- Paul Graham__
-
-> So here's the brief recipe for getting startup ideas. Find something that's missing in your own life, and supply that need—no matter how specific to you it seems. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that's narrow but genuine is a better starting point than one that's broad but hypothetical.
->
-> __--- Paul Graham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
-
 
 > Y finalmente el lo hizo ... y ella quedo ... hablando con el silencio tenue y oscuro de una pantalla que anunciaba su partida repentina pero anunciada.
 >
 > __--- Alejandra Arias__
 
-> Pero las horas caen y el tiempo los atrapa, alejandonos ... quiza en otro punto de esto que llamos tiempo puedan reencontrarse para volver a ser victimas de un adios que se delieta separando lo que en un momento en un instante del ya mencionado tiempo, parecia eterno.
+> Pero las horas caen y el tiempo los atrapa, alejandonos ... quiza en otro punto de esto que llamamos tiempo puedan reencontrarse para volver a ser victimas de un adios que se delieta separando lo que en un momento en un instante del ya mencionado tiempo, parecia eterno.
 >
 > __--- Alejandra Arias__
 
@@ -671,7 +694,7 @@ The God of the gaps
 >
 > __--- Me__
 
-> “I am just a fleeing thought in this stream of consciousness” were the last words of a dear old friend before willingly surrendering to the dark abyss of nothingness. It was a scream of a tortured soul, someone who was suffering from a violent attack. It was a Tuesday night like any other, it was late he already laying in his bed. In that moment before falling asleep while dreaming about the future, he suddenly saw the unavoidable trap that laid in front of him. He could clearly see his executioner approaching to rip apart from him what he held dear the most. In front stood an impasse, those professional goals he wanted, could no longer be. Neither would he ever feel the sweet touch of a loving hand. His destiny was set, to go quietly into the night to perish and be forgotten. He knew it well, his time had come, like many before him, but that did not make any easier to rest assure and be content of all the things he would not get to experience. Before accepting his fate, he traversed inside his room, which had become empty, distant and alienating. Digging into the recesses of this labyrinth he got to bury a drowned scream before  being struck and succumbing to Morfeo for a new being to arise renewed.
+> “I am just a fleeing thought in this stream of consciousness” were the last words of a dear old friend before willingly surrendering to the dark abyss of nothingness. It was a scream of a tortured soul, someone who was suffering from a violent attack. It was a Tuesday night like any other, it was late he already laying in his bed. In that moment before falling asleep while dreaming about the future, he suddenly saw the unavoidable trap that laid in front of him. He could clearly see his executioner approaching to rip apart from him what he held dear the most. In front stood an impasse, those professional goals he wanted, could no longer be. Neither would he ever feel the sweet touch of a loving hand. His destiny was set, to go quietly into the night to perish and be forgotten. He knew it well, his time had come, like many before him, but that did not make it any easier to rest assure and be content of all the things he would not get to experience. Before accepting his fate, he traversed inside his room, which had become empty, distant and alienating. Digging into the recesses of this labyrinth he got to bury a drowned scream before  being struck and succumbing to Morfeo for a new being to arise renewed.
 >
 > __--- Me__
 
@@ -679,17 +702,11 @@ The God of the gaps
 > 
 >  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
 
-> you can filter all your team members into broad categories based on skillfulness, determination, focus, kindness+integrity
-
-> I’ve had detailed conversations with many professors and it was apparent that most of them had themselves never applied concepts they were teaching. Their knowledge is restricted to the textbook and questions they have been asking for years in their exams.
-
-> Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
->
-> __--- Alex Winkler__
 
 > Infeliz de mí, dice uno, porque tal cosa me aconteció. No, al contrario: Dichoso yo porque habiéndome ocurrido esto, continúo sin pena alguna, ni quebrantado por lo presente ni amedrentado por lo venidero. Una semejante desgracia hubiera podido ocurrir a cualquier otro; y éste no hubiera sabido continuar, como yo, sin apenarse.
 > 
 > __--- Marco Aurelio, Meditaciones__
+
 ## Sayings 
 > [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
 
@@ -751,3 +768,8 @@ The God of the gaps
 > I love deadlines. I like the whooshing sound they make as they fly by 
 >
 > __---Douglas Adams__
+
+> Peace and focus are intimate related and distraction is the enemy of peace and focus
+> 
+> __---Andrew Huberman, The Lex Fridman podcast__
+
