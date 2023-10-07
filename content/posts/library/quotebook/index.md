@@ -123,7 +123,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 
 > ¿Acaso no existe ninguna manera de gobernar el mundo sin hacer que la violencia sea la manera decisiva de juzgar entre el bien y el mal? ...
-> vivimos en un mundo en el que la Union Soviética dispone de suficiente armamento como para mater cincuenta veces a cada habitante de la tierra, pero se siente insegura porque los Estados Unidos tienen suficiente armamento como para matar a todos sesenta veces.
+> vivimos en un mundo en el que la Union Soviética dispone de suficiente armamento como para matar cincuenta veces a cada habitante de la tierra, pero se siente insegura porque los Estados Unidos tienen suficiente armamento como para matar a todos sesenta veces.
 > 
 > __--- Isaac Asimov, No violencia. La visita del tiranosaurio- prologo Penterra__ 
 
@@ -327,6 +327,8 @@ This quote captures the problem of making code accesible and understandable, a p
 > __--- The Software Engineering at Google book (“SWE Book”)__
 
 > La refactorización es el comportamiento por defecto de una persona novata
+>
+> Freddy Vega
 
 ### Mechatronics
 > Clearly, an automobile with 30–60 microcontrollers, up to 100 electric motors, about 200 pounds of wiring, a multitude of sensors, and thousands of lines of software code can hardly be classified as a strictly mechanical system. The automobile is being transformed into a comprehensive mechatronic system.
@@ -346,7 +348,7 @@ This quote captures the problem of making code accesible and understandable, a p
 >
 >__--- Francisco Martín Rico, A Concise Introduction to Robot Programming with ROS2__
 
-> ROS2 is notacommunications middleware,but a robot programming middleware
+> ROS2 is not a communications middleware, but a robot programming middleware
 >
 >__--- Francisco Martín Rico, A Concise Introduction to Robot Programming with ROS2__
 
@@ -371,6 +373,10 @@ This quote captures the problem of making code accesible and understandable, a p
 >
 > __--- Paul Graham__ [Why not not to start a start up](http://paulgraham.com/notnot.html)
 
+> If you want to build a ship don't drum up people to collect wood don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.
+> 
+> __--- Antoine de Saint Exupéry__
+
 > I’ve had detailed conversations with many professors and it was apparent that most of them had themselves never applied concepts they were teaching. Their knowledge is restricted to the textbook and questions they have been asking for years in their exams.
 
 > Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
@@ -381,6 +387,8 @@ This quote captures the problem of making code accesible and understandable, a p
 
 
 {{< youtube ii1jcLg-eIQ >}}
+
+{{< R9ITLdmfdLI >}}
 
 
 ## Education and learning
@@ -399,9 +407,6 @@ This quote captures the problem of making code accesible and understandable, a p
 >
 > __--- The people's choice: How the Voter Makes Up His Mind in a Presidential Campaign__
 
-> If you want to build a ship don't drum up people to collect wood don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.
-> 
-> __--- Antoine de Saint Exupéry__
 
 
 > Aunque el mundo en conjunto progrese, la juventud tiene que volver a empezar por el principio y pasar, como individuo, por las épocas de la cultura de la humanidad
@@ -529,7 +534,6 @@ popular methods. Either as a cause or, perhaps, an effect, such periods of chang
 automation techniques seem closely tied to world economics
 >
 >__---- John Craig__
-
 
 
 it is fascinating to see how an indicator of economic prosperity has shifted from production to consumption
