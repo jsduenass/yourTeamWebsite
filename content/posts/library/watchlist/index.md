@@ -10,6 +10,7 @@ menu:
     weight: 22
 
 ---
+This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them. 
 
 ## Reading list
 
@@ -34,7 +35,6 @@ menu:
 - [ ] It's Been a Good Life. Isaac Asimov
 - [ ] Johnny Got His Gun. Dalton Trumbo
 - [ ] El proceso. Franz Kafka
-- [ ] The diamond age. Neal stephenson
 - [ ] The Software Engineering at Google. Tom Manshreck
 - [ ] Toyota Production System: Beyond Large-scale Production. Taiichi Ohno
 - [ ] The Feynman Lectures on Physics
@@ -73,7 +73,7 @@ menu:
 - [ ] UNIX: A History and a Memoir. Brian W Kernighan
 - [ ] Robot modeling and control.  Mark W. Spong , Seth Hutchinson,  M. Vidyasagar.
 - [ ] Robotics vision and control. Peter Corke
-- [ ] Introduction to autonomous mobile robots.
+- [ ] Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart
 - [ ] Modern Control Engineering. Katsuhiko Ogata 
 - [ ] Gödel, Escher, Bach: un Eterno y Grácil Bucle. Douglas Hofstadter
 - [ ] PoC || GTFO
@@ -87,6 +87,8 @@ menu:
 ### honorable mention
 
 don't quite made the cut but worth to keep an eye on if I change my mind: 
+- [ ] My grandmother asked me tell you she's sorry. Fredrik Backman 
+- [ ] The archaeology of knowledge. Michael Foucautl
 - [ ] Reinventing Discovery: The New Era of Networked Science.  Michael Nielsen
 - [ ] [singularity](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 - [ ] The End of History and the Last Man.Francis Fukuyama
@@ -122,6 +124,12 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Man and His Symbol. Carl Jung
 - [ ] Starting Point: 1979-1996. Hayao Miyazaki
 - [ ] Bogotá en el año de 2000: Una pesadilla. Soledad Acosta De Samper
+- [ ] Sobre hormigas y dinosaurios. Cixin Liu
+- [ ] La invención de la naturaleza. Andrea wulf
+- [ ] Sprint: How to Solve big Problems and Test new Ideas in Just Five Days. Jake Knapp
+- [ ] The Perfectionists: How Precision Engineers Created the Modern. Simon Winchester 
+- [ ] Cuerpos luminares y de otras dimensiones. Rodrigo Bastidas
+- [ ] Nunca te quise dar en la jeta javier. Juan Alvarez
 
 
 
@@ -205,6 +213,8 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Ensayo sobre la lucidez. José Saramago
 - [x] Angela Merkel la fisica del poder. Patricia Salazar y Christina Mendoza
 - [x] El extranjero. Albert Camus
+- [x] Los amores difíciles. Italo calvino
+- [x] La biblioteca de la media noche. Matt Haig
 
 #### Essays, papers and blogs
 
@@ -212,6 +222,8 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Black swan farming. Paul Graham
 - [ ] The Limits to Growth (LTG)
 - [ ] [Scaling Software Development. Alex Gaynor](https://alexgaynor.net/2020/feb/18/scaling-software-development)
+- [ ]  Boing Boing blog. Cory doctorow
+- [ ]  [A blind writers notebook](https://catapult.co/editorial/topics/a-blind-writer-s-notebook/stories). leona godin
 
 ## Movies
 
@@ -219,9 +231,11 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Slingshot. documentary of Dean Kamen.
 - About Time.
 - The perks of being a wallflower.
+- Prime (confesiones a mi suegra) 2005.
 
 - [ ] Before Sunrise/Before Sunset/Before Midnight
 - [ ] In the mood for love
+- [ ] [Persian lesson](https://youtu.be/5FdRKMQMj4o?si=a4rjfoWoofKaEVmJ)
 - [ ] The pirates of silicon valley
 
 ## Series
@@ -241,6 +255,11 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 ## Art
 - Michael Cheval.
 - Thomas Kinkade. Gone with the wind
+- [Standing Man With Outstretched Arms, Stephen De Staebler](http://www.neworleanspast.com/art/id75.html#:~:text=Standing%20Man%20With%20Outstretched%20Arms%20is%20an%20interesting%20example%20of,figure%20seems%20battered%20and%20worn)
 
 ## Places 
+- Schengen, China. Capital of electronics production
+- Zurich, switzerland
 - Volcan Licancabur
+- Puerto Varas, Chile
+- Silfra, Iceland. Dive between the continents  Thingvellir National Park
