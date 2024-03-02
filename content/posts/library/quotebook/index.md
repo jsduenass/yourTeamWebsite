@@ -119,7 +119,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 >Se equivoca, profesor. Que el vulgo crea en cometas extraordinarios que atraviesan el espacio, o en la existencia de monstruos antediluvianos que pueblan el interior del la tierra, pase, pero ni el astrónomo ni el geólogo admiten tales quimeras.
 >
->__--- Julio Verne, Veinte mil leguas de viaje submarino__
+>__--- Julio Verne, Veinte mil lenguas de viaje submarino__
 
 
 > ¿Acaso no existe ninguna manera de gobernar el mundo sin hacer que la violencia sea la manera decisiva de juzgar entre el bien y el mal? ...
@@ -491,6 +491,11 @@ Context has a key role in communication
 >
 > __--- Stanislaw Lem, Golem XIV__
 
+> Every man takes the limits of his own field of vision for the limits of the world
+>
+>__---Arthur Schopenhauer__
+
+
 ## Economy 
 
 > El producido se divide en 3 partes la renta, los salarios y los beneficios del capital
@@ -576,7 +581,9 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 > __Like Stories of Old__
 
 ## Meaning
-
+> The world is a fascinating place, but we only get to live inside the boundary of what we know, therefore I justify my existence by expanding this horizon and being amazed and amused by all what there is out there.
+>
+>__me__
 
 > Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
 > Seria muy triste que todo ocurriese sin que yo lo percibiera. No quiero que mi cuerpo, con sus sufrimientos y sus faltas, sirva tan solo para contribuir a la armonía futura en beneficio de no se quien. Quiero ver con mis propios ojos a la cierva durmiendo junto al león, a la victima besando a su matador. Sobre este deseo reposan todas las religiones y yo tengo fe.
