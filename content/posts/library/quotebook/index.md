@@ -240,6 +240,23 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 > 
 > __---Jaime Lanister, Game of thrones tv show__
 
+> Si alguna vez me cruzas por la calle
+>
+> Regálame tu beso y no te aflijas
+>
+>Si ves que estoy pensando en otra cosa
+>
+>No es nada malo, es que pasó una brisa
+>
+>La brisa de la muerte enamorada
+>
+>Que ronda como un ángel asesino
+>
+>Mas no te asustes, siempre se me pasa
+>Es solo la intuición de mi destino
+>
+>  __---Fito Paes, al lado del camino__
+
 ## STEM
 
 > Physics my friend is a narrow path drawn across a gulf that the human imagination cannot grasp
@@ -330,6 +347,9 @@ This quote captures the problem of making code accesible and understandable, a p
 >
 > Freddy Vega
 
+> Unix philosophy, with three major tenets: 'write programs that do one thing and do it well'. 'write programs that work together'. 'write programs that handle text streams because that is a universal interface'
+>
+> __--- Steven Weber, The success of open source__
 ### Mechatronics
 > Clearly, an automobile with 30–60 microcontrollers, up to 100 electric motors, about 200 pounds of wiring, a multitude of sensors, and thousands of lines of software code can hardly be classified as a strictly mechanical system. The automobile is being transformed into a comprehensive mechatronic system.
 >
@@ -611,6 +631,7 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __--- Carl Sagan, el mundo y sus demonios__
 
+
 > He oído alguna vez a un escéptico que se creyera superior y despreciativo? Sin duda. A veces incluso he oído ese ton desagradable y me aflige recordarlo en mi propia voz.
 >
 > __--- Carl Sagan, el mundo y sus demonios__
@@ -687,6 +708,17 @@ The God of the gaps
 >
 > __--- [if, Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)__
 
+> God exists, if only in the form of a meme with high survival value, or infective power, in the enviroment provided by human culture
+>
+> __--- Richard Dawkins, the selfish gene__
+
+Very provocative comment
+
+
+> if you don't have a coherent story, if you don't know who you are, and are being vague or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
+> 
+>  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
+
 ## Miscellaneous
 
 
@@ -710,14 +742,19 @@ The God of the gaps
 >
 > __--- Me__
 
-> if you don't have a coherent story, if you don't know who you are, and are being vague or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
-> 
->  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
 
 
 > Infeliz de mí, dice uno, porque tal cosa me aconteció. No, al contrario: Dichoso yo porque habiéndome ocurrido esto, continúo sin pena alguna, ni quebrantado por lo presente ni amedrentado por lo venidero. Una semejante desgracia hubiera podido ocurrir a cualquier otro; y éste no hubiera sabido continuar, como yo, sin apenarse.
 > 
 > __--- Marco Aurelio, Meditaciones__
+
+> The currency used in the casion of evolution is survival
+>
+> __--- Richard Dawkins, the selfish gene__
+
+> As my colleague N. K. Humprhey neatly summed up in an earlier draft of this chalter ' ... memes should be regarded as living structures, not just metaphorically but techincally. When you plant a fertile meme in my mind you literally parasitize my brain, turning it inta a vehicle for the meme's propagation in just the way that a virus may parasitize the genetic mechanism of a host cell. And this isn't just a way of talking -- the meme for, say, "belief in life after death" is actually realized physically, millions of times over, as a strucutre in the nervous system of indidual men the world over'
+>
+> __--- Richard Dawkins, the selfish gene__
 
 ## Sayings 
 > [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
@@ -784,4 +821,8 @@ The God of the gaps
 > Peace and focus are intimate related and distraction is the enemy of peace and focus
 > 
 > __---Andrew Huberman, The Lex Fridman podcast__
+
+> equality always feels like a loss to the people who were previously unfairly ahead
+
+> El gran artista es ante todo un gran viviente
 

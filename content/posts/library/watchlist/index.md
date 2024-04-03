@@ -36,7 +36,6 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Johnny Got His Gun. Dalton Trumbo
 - [ ] El proceso. Franz Kafka
 - [ ] The Software Engineering at Google. Tom Manshreck
-- [ ] Toyota Production System: Beyond Large-scale Production. Taiichi Ohno
 - [ ] The Feynman Lectures on Physics
 - [ ] This is how they tell me the world ends. Nicole Perlroth
 - [ ] Self-Reliance. Ralph Waldo Emerson
@@ -63,7 +62,6 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Modern Operating Systems. Stuart Tanenbaum
 - [ ] Computer networks. Stuart Tanenbaum
 - [ ] Oryx and crake. Margaret Atwood
-- [ ] The selfish gene.Richard Dawkins
 - [ ] The Dragon Book. Compilers: Principles, Techniques, and Tools
 - [ ] The Machine Stops. E. M.Forster
 - [ ] The Evolution of Cooperation. Robert Axelrod
@@ -75,14 +73,12 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Robotics vision and control. Peter Corke
 - [ ] Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart
 - [ ] Modern Control Engineering. Katsuhiko Ogata 
-- [ ] Gödel, Escher, Bach: un Eterno y Grácil Bucle. Douglas Hofstadter
-- [ ] PoC || GTFO
-- [ ] 2600: The Hacker Quarterly
 - [ ] The structure of scientific revolutions. Thomas kuhn
 - [ ] Flow My Tears, the Policeman Said. Philip K. Dick
 - [ ] Smoke Gets in Your Eyes: And Other Lessons From the Crematorium. Caitlin Doughty 
 - [ ] Invitation To Contemporary Physics
 - [ ] Seeing voices. Oliver sacks
+- [ ] A river runs through it. Norman Maclean
  
 ### honorable mention
 
@@ -104,7 +100,6 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Infamous Scribblers: The Founding Fathers and the Rowdy Beginnings of American Journalism. Eric Burns
 - [ ] Thread Of The Silkworm. Iris Chang (Qian Xuesen biography)
 - [ ] A Canticle for Leibowitz. Walter Michael Miller
-- [ ] A river runs through it. Norman Maclean
 - [ ][Softwares para la visualización estadística. Camila Acosta Ramirez](estadisticaun.github.io/Softwares/)
 - [ ] How to Draw: drawing and sketching objects and environments from your imagination.  Scott Robertson and Thomas Bertling
 - [ ] Parable of the talents. Octavia E. Butler
@@ -117,6 +112,7 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Of Molecules and Men. Francis Crick
 - [ ] Industrial history lectures. Olaf Stapledon
 - [ ] UBIK. Philip K. Dick
+- [ ] The moon is a harsh mistress. Robert A Heilein
 - [ ] Horacio kalinbang o los automatas.  Eduardo Ladislao Holmberg
 - [ ] Viajes interplanetarios en zepelines que tendrán lugar el año 2009 (1936)
 - [ ] Show your work.  Austin Kleon
@@ -126,10 +122,15 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Bogotá en el año de 2000: Una pesadilla. Soledad Acosta De Samper
 - [ ] Sobre hormigas y dinosaurios. Cixin Liu
 - [ ] La invención de la naturaleza. Andrea wulf
+- [ ] Butterfly Kills: A Stonechild and Rouleau Mystery. Brenda Chapman
+- [ ] alias Grace. Margaret Atwood
 - [ ] Sprint: How to Solve big Problems and Test new Ideas in Just Five Days. Jake Knapp
 - [ ] The Perfectionists: How Precision Engineers Created the Modern. Simon Winchester 
 - [ ] Cuerpos luminares y de otras dimensiones. Rodrigo Bastidas
 - [ ] Nunca te quise dar en la jeta javier. Juan Alvarez
+- [ ] Gödel, Escher, Bach: un Eterno y Grácil Bucle. Douglas Hofstadter
+- [ ] PoC || GTFO
+- [ ] 2600: The Hacker Quarterly
 
 
 
@@ -155,6 +156,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Los hermanos kamarazov. Fyodor Dostoyevsky.   [The Problem of Evil: Crash Course Philosophy](https://www.youtube.com/watch?v=9AzNEG1GB-k)  
 - [x] La guia del autoestopista intergaláctico. Douglas Adams
 - [x] Dune. Frank Herbert
+- [x] Ensayo sobre la ceguera. José Saramago
 - [x] La nave de un millón de años. Poul Anderson
 - [x] Visiones de robot. Isaac Asimov
 - [x] The hunger games. Suzanne Collins
@@ -162,7 +164,6 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] La traición de Darwin. Gerardo Bartolomé
 - [x] Fiasco. Stanislaw Lem
 - [x] Historia del futuro. Robert Anson Heinlein [extra sci-fi](https://www.youtube.com/watch?v=XaWMe5nC9SA)  
-- [x] Ensayo sobre la ceguera. José Saramago
 - [x] Los propios dioses. Isaac Asimov
 - [x] Bóvedas de acero. Isaac Asimov
 - [x] El sol desnudo. Asimov
@@ -176,6 +177,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Surely you´re joking, Mr. Feynman. Feynman, Richard Phillips
 - [x] Frankenstein o el moderno prometeo. Marry Shelly
 - [x] Cibernetica. Norbert Weiner
+- [x] The selfish gene.Richard Dawkins
 - [x] Los dragones del edén. Carl Sagan
 - [x] El mundo y sus demonios. Carl Sagan
 - [x] Terraformar la tierra. Jack Williamson
@@ -197,6 +199,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] The narrative Life of Frederick Douglass. Frederick Douglass
 - [x] Story of my life. Hellen Keller
 - [x] La riqueza de las naciones. Adam Smith
+- [x] Yours, Isaac Asimov: A Life in Letters
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] Brave New World. Aldous Huxley
 - [x] Si una Noche de Invierno un Viajero. Italo Calvino
@@ -205,16 +208,18 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Maus. Art Spiegelman
 - [x] Satanas. Mario Mendoza
 - [x] Akelarre. Mario Mendoza  
+- [X] The art of hearing heartbeats. Jan-Philipp Sendker
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
 
 #### extended list
-- [x] El idiota. Fyodor Dostoyevsky
 - [x] So Good They Can't Ignore You. Cal Newport
 - [x] Ensayo sobre la lucidez. José Saramago
+- [x] Toyota Production System: Beyond Large-scale Production. Taiichi Ohno
 - [x] Angela Merkel la fisica del poder. Patricia Salazar y Christina Mendoza
 - [x] El extranjero. Albert Camus
 - [x] Los amores difíciles. Italo calvino
 - [x] La biblioteca de la media noche. Matt Haig
+- [x] El idiota. Fyodor Dostoyevsky
 
 #### Essays, papers and blogs
 
@@ -236,7 +241,9 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Before Sunrise/Before Sunset/Before Midnight
 - [ ] In the mood for love
 - [ ] [Persian lesson](https://youtu.be/5FdRKMQMj4o?si=a4rjfoWoofKaEVmJ)
+- [ ] The Man from Earth
 - [ ] The pirates of silicon valley
+
 
 ## Series
 
@@ -256,6 +263,9 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Michael Cheval.
 - Thomas Kinkade. Gone with the wind
 - [Standing Man With Outstretched Arms, Stephen De Staebler](http://www.neworleanspast.com/art/id75.html#:~:text=Standing%20Man%20With%20Outstretched%20Arms%20is%20an%20interesting%20example%20of,figure%20seems%20battered%20and%20worn)
+- Marie Gabriele Capet self portrait
+- Famous views of the sixty-odd provinces
+- Robert Doisneau
 
 ## Places 
 - Schengen, China. Capital of electronics production
@@ -263,3 +273,4 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Volcan Licancabur
 - Puerto Varas, Chile
 - Silfra, Iceland. Dive between the continents  Thingvellir National Park
+- Ushuaia Argentina

@@ -10,9 +10,21 @@ menu:
     weight: 4
 ---
 
-<!--
 ## How I Learned To Stop Worrying And Love linux
--->
+Linux is a powerful tool, and OS where many programmers and developers make it their home for building their application. 
+As all things it has a learning curve and the fact that there are many variants (or Distribution) does not help.
+
+
+### WSL
+When starting from a Windows machine `wsl` is the easiest and most straigh forward way to start using linux. 
+
+
+
+run git from a cotainer calling the exte
+
+
+### grep 
+Find what you need with it
 
 ## My Setup 
 
