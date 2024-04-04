@@ -59,7 +59,7 @@ Now  for deploying here is my plan.
 
 How many commit is this going to take? testing github action is kind of a pain as you have to do a lot of commits lets start the count
 
-> failed doply commits counter :1
+> failed doply commits counter :2
 
 After a first failed attemp lets change to the latest github actions
 
