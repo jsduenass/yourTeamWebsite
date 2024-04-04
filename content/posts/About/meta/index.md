@@ -59,7 +59,13 @@ Now  for deploying here is my plan.
 
 How many commit is this going to take? testing github action is kind of a pain as you have to do a lot of commits lets start the count
 
-> failed doply commits conter :0 
+> failed doply commits counter :1
+
+After a first failed attemp lets change to the latest github actions
+
+`
+git checkout  upstream_main .\.github\
+`
 
 <p align = "center" >
 <a href="mailto:jsduenass@unal.edu.co">
