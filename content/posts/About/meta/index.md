@@ -61,11 +61,16 @@ How many commit is this going to take? testing github action is kind of a pain a
 
 > failed doply commits counter :2
 
-After a first failed attemp lets change to the latest github actions
+Atempt 1: After a first failed attemp lets change to the latest github actions. 
 
-`
+```
 git checkout  upstream_main .\.github\
-`
+```
+
+Atempt 2: The error from the github action shows that the error occurred in the template content folder. 
+
+SUCESS!! the action has work in the `source` branch time to migrate it to main.
+
 
 <p align = "center" >
 <a href="mailto:jsduenass@unal.edu.co">
