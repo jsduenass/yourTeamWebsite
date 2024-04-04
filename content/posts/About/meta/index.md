@@ -45,6 +45,21 @@ Starting a new project may be hard, you would find roadblocks that stop you righ
 
 If you have gone this far I really appreciate it and hope you find the rest of the content in this posts just as interesting if not even more. Please reach out and share those projects you are or have worked on where you have encounter roadblocks I would enjoy to hear your stories.
 
+## Migrate this website 2024
+> The only constant is change itself
+
+So ... the time has come and I have been putting this off I don't write much here this blog is just a compilations of list I find interesting that I up from time to time. But after a couple of failed deployments I decided it was time to do something. It was actually not the best time as I am currently quite busy, but something I have noticed is that I tend to focus better when it is the worst time, the most unconfortable and most odd to work. 4 years and a pandemic have pass Since starting this. I had encouter a small failure in deployment before which lead to my very small contribution to open source. Update the ubuntu version in the github action.
+
+In the begining I forked the Toha's example page so my first instict was trying to merge the upstream to my repo. Despite the sporadic incursions with software development and programming this years have not translate in 4 years of expirience and the of multiple languages, frameworks, etc. I do feel more confortable with git and have learned a trick or two. branches no longer scare me. I merge the two repos but there was an issue when build the website while looking in the documentation trying to solve the issue i found the really helpful [Migration guide](https://toha-guides.netlify.app/posts/update-v3-to-v4/) and it worked pretty well I build the website locally and everything seems to be working pretty well. 
+
+Now  for deploying here is my plan. 
+- I should move my changes to source. 
+- That however that is going to override the main branch with the web page so lets how that goes.
+- After as sucessful build it would be worth transitioning to the new deplo workflow. 
+
+How many commit is this going to take? testing github action is kind of a pain as you have to do a lot of commits lets start the count
+
+> failed doply commits conter :0 
 
 <p align = "center" >
 <a href="mailto:jsduenass@unal.edu.co">
