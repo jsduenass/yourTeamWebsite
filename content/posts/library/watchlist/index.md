@@ -33,6 +33,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Historia social del conocimiento. Peter Burke
 - [ ] Seveneves. Neal Stephenson
 - [ ] It's Been a Good Life. Isaac Asimov
+- [ ] Before i Leave You: A Memoir on Suicide, Addiction and Healing. Robert Imbeault
 - [ ] Johnny Got His Gun. Dalton Trumbo
 - [ ] El proceso. Franz Kafka
 - [ ] The Software Engineering at Google. Tom Manshreck
