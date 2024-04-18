@@ -21,7 +21,7 @@ Computer Programming for Everybody. El sueño de que cada persona pudiera progra
 
 ## The Next Computer Programming for Everybody
 
-<a href="https://www.youtube.com/live/fiEq85l9dTc?feature=share&t=30327" target="_blank"> 
+<a href="https://youtu.be/Sr2qAKo75Uc?si=xR3LoLGCx7pqoFSL&t=1474s" target="_blank"> 
         <img align = "center" alt=Slide lightning talk" width="70%" src="hero.png" /> 
 
 ## Pycon 2023
