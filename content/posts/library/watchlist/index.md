@@ -81,14 +81,14 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Seeing voices. Oliver sacks
 - [ ] A river runs through it. Norman Maclean
  
-### honorable mention
+### Honorable mention
 
 don't quite made the cut but worth to keep an eye on if I change my mind: 
 - [ ] My grandmother asked me tell you she's sorry. Fredrik Backman 
 - [ ] The archaeology of knowledge. Michael Foucautl
 - [ ] Reinventing Discovery: The New Era of Networked Science.  Michael Nielsen
 - [ ] [singularity](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
-- [ ] The End of History and the Last Man.Francis Fukuyama
+- [ ] The End of History and the Last Man. Francis Fukuyama
 - [ ] [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 - [ ] [Structure and Interpretation of Computer Programs. Harold Abelson and Gerald Jay Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - [ ] Organizational Communication: Balancing Creativity and Constraint. Eric M. Eisenberg
@@ -114,6 +114,7 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Industrial history lectures. Olaf Stapledon
 - [ ] UBIK. Philip K. Dick
 - [ ] The moon is a harsh mistress. Robert A Heilein
+- [ ] Rossumovi Univerzální Roboti (R.U.R.). Karel Capek
 - [ ] Horacio kalinbang o los automatas.  Eduardo Ladislao Holmberg
 - [ ] Viajes interplanetarios en zepelines que tendrán lugar el año 2009 (1936)
 - [ ] Show your work.  Austin Kleon
@@ -204,6 +205,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] Brave New World. Aldous Huxley
 - [x] Si una Noche de Invierno un Viajero. Italo Calvino
+- [x] Los amores difíciles. Italo calvino
 - [x] Golem XIV . Stanislaw Lem
 - [x] La ruidosa marcha de los mudos. Juan Alvarez
 - [x] Maus. Art Spiegelman
@@ -212,13 +214,14 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [X] The art of hearing heartbeats. Jan-Philipp Sendker
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
 
-#### extended list
+#### Extended list
 - [x] So Good They Can't Ignore You. Cal Newport
+- [x] Memories, Dreams, Reflections. Carl Jung
+- [X] Spare parts. Buzz Williams
 - [x] Ensayo sobre la lucidez. José Saramago
 - [x] Toyota Production System: Beyond Large-scale Production. Taiichi Ohno
 - [x] Angela Merkel la fisica del poder. Patricia Salazar y Christina Mendoza
 - [x] El extranjero. Albert Camus
-- [x] Los amores difíciles. Italo calvino
 - [x] La biblioteca de la media noche. Matt Haig
 - [x] El idiota. Fyodor Dostoyevsky
 
