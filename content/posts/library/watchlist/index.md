@@ -23,6 +23,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] The man in the high castle.  Philip K. Dick
 - [ ] Masters of Doom. David Kushner
 - [ ] Meditations. Marcus Aurelius
+- [ ] Spare parts. Joshua Davis
 - [ ] My Philosophy of Industry. Henry Ford
 - [ ] Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order.  Steven Weber
 - [ ] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html). 
@@ -80,6 +81,11 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Invitation To Contemporary Physics
 - [ ] Seeing voices. Oliver sacks
 - [ ] A river runs through it. Norman Maclean
+- [ ] La insoportable levedad del ser. Milan Kundera
+- [ ] The Joke. Milan Kundera
+- [ ] To the Castle and Back. Vaclav Havel
+- [ ] Havel: A Life. Michael Zantovsky
+
  
 ### Honorable mention
 
@@ -133,6 +139,9 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Gödel, Escher, Bach: un Eterno y Grácil Bucle. Douglas Hofstadter
 - [ ] PoC || GTFO
 - [ ] 2600: The Hacker Quarterly
+- [ ] Spaceman of Bohemia. Jaroslav Kalfar
+- [ ] War of the newts. Karel Capek
+
 
 
 

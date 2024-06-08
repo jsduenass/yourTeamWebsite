@@ -224,7 +224,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > __---Stanislaw Lem, Golem XIV__
 
-> Tu lectura ya no es solitaria: piensas en la Lectora que en este mismo momento está abriendo también ella el libro, y ehte aquí que a la novel por leer se superpone una posible novela por vivir, o mejor dicho: el inicio de una posible historia.
+> Tu lectura ya no es solitaria: piensas en la Lectora que en este mismo momento está abriendo también ella el libro, y eh aquí que a la novela por leer se superpone una posible novela por vivir, o mejor dicho: el inicio de una posible historia.
 >
 > __--- Italo Calvino, Si una noche de invierno un viajero__
 
@@ -719,6 +719,10 @@ Very provocative comment
 > 
 >  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
 
+> Absolute failure is 
+>
+> __--- Buzz Williams,Spare Parts__
+
 ## Miscellaneous
 
 
@@ -752,7 +756,7 @@ Very provocative comment
 >
 > __--- Richard Dawkins, the selfish gene__
 
-> As my colleague N. K. Humprhey neatly summed up in an earlier draft of this chalter ' ... memes should be regarded as living structures, not just metaphorically but techincally. When you plant a fertile meme in my mind you literally parasitize my brain, turning it inta a vehicle for the meme's propagation in just the way that a virus may parasitize the genetic mechanism of a host cell. And this isn't just a way of talking -- the meme for, say, "belief in life after death" is actually realized physically, millions of times over, as a strucutre in the nervous system of indidual men the world over'
+> As my colleague N. K. Humprhey neatly summed up in an earlier draft of this chapter ' ... memes should be regarded as living structures, not just metaphorically but techincally. When you plant a fertile meme in my mind you literally parasitize my brain, turning it inta a vehicle for the meme's propagation in just the way that a virus may parasitize the genetic mechanism of a host cell. And this isn't just a way of talking -- the meme for, say, "belief in life after death" is actually realized physically, millions of times over, as a strucutre in the nervous system of indidual men the world over'
 >
 > __--- Richard Dawkins, the selfish gene__
 
