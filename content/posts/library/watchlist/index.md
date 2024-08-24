@@ -12,6 +12,8 @@ menu:
 ---
 This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them. 
 
+> There is never enough time to do everything but there is always enough time to do the most important things
+
 ## Reading list
 
 - [ ] A calendar of wisdom. Leo Tolstoy
@@ -141,6 +143,8 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] 2600: The Hacker Quarterly
 - [ ] Spaceman of Bohemia. Jaroslav Kalfar
 - [ ] War of the newts. Karel Capek
+- [ ] The Politics Industry. Katherine Gehl y Michael Porter
+
 
 
 
@@ -279,6 +283,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Marie Gabriele Capet self portrait
 - Famous views of the sixty-odd provinces
 - Robert Doisneau
+- Peter Tunney
 
 ## Places 
 - Schengen, China. Capital of electronics production

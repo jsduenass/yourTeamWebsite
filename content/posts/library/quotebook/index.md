@@ -253,6 +253,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >Que ronda como un ángel asesino
 >
 >Mas no te asustes, siempre se me pasa
+>
 >Es solo la intuición de mi destino
 >
 >  __---Fito Paes, al lado del camino__
@@ -722,6 +723,33 @@ Very provocative comment
 > Absolute failure is 
 >
 > __--- Buzz Williams,Spare Parts__
+
+> happiness is the progressive realisation of a worthy ideal
+
+> Time is perishable; it cannot be saved. Time is irrepalceable; nothing else will do. Time is irretrievable; once it is gone or wasted, you can never get it back. Finally, time is indispensable, especially for accomplishments of any kind, All achievment, all results, all succes requieres time.
+> 
+> __--- Brian Tracy, No excuses the power of self disipline__ 
+
+> Your most important assests are your mental, emotional, physical energies
+> 
+> __--- Brian Tracy, No excuses the power of self disipline__ 
+
+### Rules for Being Human
+
+1. You will receive a body. You may like it or hate it but it will be yours for the entire period this time around. It is the only thing you really own, or are guaranteed to keep for your whole life.
+2. You will learn lessons. You are enrolled in a full-time informal school called life on planet earth. Each day in this school you will have the opportunity to learn lessons. You may like the lessons, or think them irrelevant of stupid.
+3. There are no mistakes, only lessons. Growth is a process of experimentation - trial and error. The so-called failed experiments are as much a part of the process as the experiment that ultimately "works".
+4. A lesson is repeated until learned. It will be presented to you in various forms until you have learned it. When you've learned it, you can then go on to the next lessons. If you don't learn lessons easy, they become harder. You will know you've learned a lesson when your actions change.
+5. Learning lessons does not end. There is no part of life that does not contain its lessons. Every person, every incident is the universal teacher. If you are alive, there are lessons to be learned.
+6. "There" is no better than "here". Nothing leads to happiness. When your "there" has become a "here" you will simply obtain another "there" that again looks better than "here".
+7. Others are merely mirrors of you. You cannot love or hate something about another person unless it reflects to you something you love or hate in yourself.
+8. What you create of your life is up to you. You have all the tools and resources you need; what you do with them is up to you. There are three kinds of people: those who make things happen, those who watch what happens, and those who wonder what happened. Take charge of your life or someone else will.
+9. Your answers lie inside you. All you need to do is look, listen, and trust.
+10. You will tend to forget all this.
+
+>__--- Cherie Carter-Scott, If Life Is A Game__
+
+My favorite is rule 10 as it gives you the grace, that even while "knowing" all the rules you will still make mistakes. As you can't live all the time enlightened, and you eventually will fall back to bad habits catiching yourself frustrating and anoyed, struggling to gain peace of mind remembering how it is really like being a human.
 
 ## Miscellaneous
 
