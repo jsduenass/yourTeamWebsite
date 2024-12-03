@@ -76,6 +76,10 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Gen Sasaki. Mathworks
 - Roger D. Launius. chief historian NASA
 - John Carmack. Best programmer (allegedly)
+- Don Norman. Father of UX
+- Sergei Lupashin
+- Adrian Bowyer. RepRap
+- Peo Hansen. Migration 
 
 ## Institutions
 
@@ -88,6 +92,9 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Auterion
 - Gitlab
 - Amazon robotics
+- DJI
+- Formlabs
 - Markforged
+- Prusa
 - Mathworks
 - Esri

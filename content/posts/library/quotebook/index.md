@@ -115,7 +115,7 @@ Este fragmento que sucede en dialogo entre Sherlock Holmes y Watson puede tomars
 
 What I find interesting about this quote is not that I find it true but rather it is telling of a way of thinking of Conan Doyle, a glimpse on how he saw and felt about the world.
 
-Sherlock Holmes strikes as a very modern and relatable character, his life in some way resembles our modern life, he rides carriages as we would a taxi, he has meals and drinks coffee as part of his daily routine, and the fact that he has to pay rent to his land lady miss Turner are small details of normal life that makes you feel fully immerse and think of his stories as realistic as your own experiences.    
+Sherlock Holmes strikes as a very modern and relatable character, his life in some way resembles our modern life, he rides carriages as we would a taxi, he has meals and drinks coffee as part of his daily routine, and the fact that he has to pay rent to his land lady miss Turner are small details of normal life that makes you feel fully immerse and think of his stories as realistic as your own experiences.
 
 >Se equivoca, profesor. Que el vulgo crea en cometas extraordinarios que atraviesan el espacio, o en la existencia de monstruos antediluvianos que pueblan el interior del la tierra, pase, pero ni el astrónomo ni el geólogo admiten tales quimeras.
 >
@@ -232,7 +232,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > __--- Italo Calvino, Si una noche de invierno un viajero__
 
-> El mayor deseo del escritor atormentado sería ser leído com lee aquella joven. Se pone a escribir una novela como piensa que la escribíria el escritor productivo. Mientra taanto el mayor deseo del escritor productivo sería ser leído como lee aquella joven: se pone a escribir una novela como piensa que la escrbiría el escritor atormentado.
+> El mayor deseo del escritor atormentado sería ser leído como lee aquella joven. Se pone a escribir una novela como piensa que la escribiría el escritor productivo. Mientra tanto el mayor deseo del escritor productivo sería ser leído como lee aquella joven: se pone a escribir una novela como piensa que la escribiría el escritor atormentado.
 >
 > __--- Italo Calvino, Si una noche de invierno un viajero__
 
@@ -244,19 +244,46 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 > Regálame tu beso y no te aflijas
 >
->Si ves que estoy pensando en otra cosa
+> Si ves que estoy pensando en otra cosa
 >
->No es nada malo, es que pasó una brisa
+> No es nada malo, es que pasó una brisa
 >
->La brisa de la muerte enamorada
+> La brisa de la muerte enamorada
 >
->Que ronda como un ángel asesino
+> Que ronda como un ángel asesino
 >
->Mas no te asustes, siempre se me pasa
+> Mas no te asustes, siempre se me pasa
 >
->Es solo la intuición de mi destino
+> Es solo la intuición de mi destino
 >
 >  __---Fito Paes, al lado del camino__
+
+> Los libros son un simulacro de recuerdo, una prótesis para recordar
+>
+>__---Héctor Abad Faciolince, El olvido que seremos__
+
+
+To castle and back is a boring book. We got warned about it from the start. One can only imagine the book has succeeded, if removing the glamour of being the head of state (of Czechoslovakia and then the Czech republic) was its goal. One gets the impression that the job is and endless treadmill of writing speeches, peppered here and there with responsibilities on preparing events/dinners for foreign diplomats and the ocasional political squabble. And yet it also let's through some of Vaclav personality and his inability to scape it all. As he only knows one way of acting, and this is to apease his always torturing conscience. Dissuade the right people of pursuing office this cannot. As just as Vaclav they will be compelled to obligue. In order to scape the hardest torture ... acting against one's own beliefs.
+
+
+> In the closet where the vacuum cleaner is kept, there also lives a bat. How to get rid of it? The lightbulb has been unscrewed so as not to wake it up and upset it.
+>
+> __--- Vaclav Havel, To the castle and back__
+
+This whimsical quote could be easily pass as a gag,  except it is repeated several times, it may be used as a metaphor or symbol for the strange situations of political life
+ 
+
+> Then Gorbachev arrived, accompanied by an aide. He smiled at us pleasantly and asked us to sit down. He was evidently curious to know what a dissident looked like. Until that moment he had never seen a live one
+>
+> __--- Vaclav Havel, To the castle and back__
+
+>It's not often that the parliament of a country would celebrate the dissolution of that country and thus the dissolution of itself
+>
+> __--- Vaclav Havel, To the castle and back__
+
+> I think that the moral order stands above the legal,political and economic orders, and that these latter orders should derive from the former, and not be techniques to go around its imperatives
+>
+> __--- Vaclav Havel, To the castle and back__
 
 ## STEM
 
@@ -406,6 +433,8 @@ This quote captures the problem of making code accesible and understandable, a p
 
 > you can filter all your team members into broad categories based on skillfulness, determination, focus, kindness+integrity
 
+> it’s easy to start a company for the wrong reasons—usually so that you can say you’re starting a company—and this makes it easy to cloud your judgment. 
+> __---Sam Altman__
 
 {{< youtube ii1jcLg-eIQ >}}
 
@@ -601,10 +630,20 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 > 
 > __Like Stories of Old__
 
+
+> Relationships don't have to be long to be meaningful — we can still learn and receive more from one person in four weeks than we might with someone else in four years.
+
+[Lex Fridman Podcast | James Sexton: Divorce Lawyer](https://youtu.be/fUEjCXpOjPY?si=0tFp4l6P7_BDeCQc)
+
+[Lex Fridman Podcast | Aella](https://youtu.be/cFSrxSBrgSc?si=BypxvDYwct1HyzQM)
+
 ## Meaning
+
 > The world is a fascinating place, but we only get to live inside the boundary of what we know, therefore I justify my existence by expanding this horizon and being amazed and amused by all what there is out there.
 >
 >__me__
+
+> [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
 
 > Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
 > Seria muy triste que todo ocurriese sin que yo lo percibiera. No quiero que mi cuerpo, con sus sufrimientos y sus faltas, sirva tan solo para contribuir a la armonía futura en beneficio de no se quien. Quiero ver con mis propios ojos a la cierva durmiendo junto al león, a la victima besando a su matador. Sobre este deseo reposan todas las religiones y yo tengo fe.
@@ -659,6 +698,10 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 > One painful duty fulfilled makes the next plainer and easier
 > 
 > __--- Hellen Keller, Story of my life__
+
+> Cada vez que decides dedicar una parte de tu tiempo a algo en concreto, estás dejando de lado todas las otras posibles manera de emplear ese tiempo.  Y realizar ese sacrificio de forma voluntaria es pronunciarse, sin reservas, sobre lo que es más importante para ti.
+>
+> __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
 
 [If Tomorrow Starts Without Me read by Tom O'Bedlam](hhttps://youtu.be/8YMJcIvpUlc)
 
@@ -754,6 +797,10 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 ## Miscellaneous
 
 
+
+
+> Nothing is sacred to the critical eye, nothing can withstand scrutiny
+
 > Y finalmente el lo hizo ... y ella quedo ... hablando con el silencio tenue y oscuro de una pantalla que anunciaba su partida repentina pero anunciada.
 >
 > __--- Alejandra Arias__
@@ -784,12 +831,28 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 >
 > __--- Richard Dawkins, the selfish gene__
 
-> As my colleague N. K. Humprhey neatly summed up in an earlier draft of this chapter ' ... memes should be regarded as living structures, not just metaphorically but techincally. When you plant a fertile meme in my mind you literally parasitize my brain, turning it inta a vehicle for the meme's propagation in just the way that a virus may parasitize the genetic mechanism of a host cell. And this isn't just a way of talking -- the meme for, say, "belief in life after death" is actually realized physically, millions of times over, as a strucutre in the nervous system of indidual men the world over'
+> As my colleague N. K. Humprhey neatly summed up in an earlier draft of this chapter ' ... memes should be regarded as living structures, not just metaphorically but technically. When you plant a fertile meme in my mind you literally parasitize my brain, turning it inta a vehicle for the meme's propagation in just the way that a virus may parasitize the genetic mechanism of a host cell. And this isn't just a way of talking -- the meme for, say, "belief in life after death" is actually realized physically, millions of times over, as a structure in the nervous system of indidual men the world over'
 >
 > __--- Richard Dawkins, the selfish gene__
 
+> **Parkinson's law:**
+>
+> Work expands so as to fill the time available for its completion
+> __---C. Northcote Parkinson__
+
+
+> - Vaya te admiro; yo nunca he sido capaz de arreglar estas cosas.
+>
+> - Es es porque no te tomas el tiempo necesario
+>
+> __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
+
+> Era precisamente el deseo impaciente de los estudiante de hacer el trabajo auna velocidad que no era la adecuada, de correr hasta terminarlo, lo que impedia que progresaran. No podían soporta el malestar que les producia verse obligados a reconocer su limitado control sobre la velocidad del proceso creativo, así que trataba de evitarlo , ya fuera no poniendose a trabajar en absoluto o lanzándose de cabeza a estresantes maratones de escritura que duraban días enteros. Y que los llevaban más adelante a procrastinar, porque acababan odiando lo que tenían que hacer.
+>
+> __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
+
 ## Sayings 
-> [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
+
 
 > El sueño de la razón produce monstros
 > 
@@ -857,4 +920,6 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > equality always feels like a loss to the people who were previously unfairly ahead
 
 > El gran artista es ante todo un gran viviente
+
+> We accept the love we think we deserve
 

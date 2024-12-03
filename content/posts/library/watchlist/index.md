@@ -29,7 +29,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] My Philosophy of Industry. Henry Ford
 - [ ] Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order.  Steven Weber
 - [ ] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html). 
-- [ ] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet translation](https://www-513gp-org.translate.goog/book/2761/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es-419&_x_tr_pto=wapp)
+- [ ] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html)
 - [ ] [Baumgartner & Momsen Detective Stories for German Learners](https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook)
 - [ ] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
 - [ ] Emilio o de la educación. Rousseau.
@@ -85,8 +85,8 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] A river runs through it. Norman Maclean
 - [ ] La insoportable levedad del ser. Milan Kundera
 - [ ] The Joke. Milan Kundera
-- [ ] To the Castle and Back. Vaclav Havel
 - [ ] Havel: A Life. Michael Zantovsky
+- [ ] Do androids dream of electric sheep. Philip K. Dick
 
  
 ### Honorable mention
@@ -144,9 +144,18 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Spaceman of Bohemia. Jaroslav Kalfar
 - [ ] War of the newts. Karel Capek
 - [ ] The Politics Industry. Katherine Gehl y Michael Porter
-
-
-
+- [ ] A Civic Technologist's Practice Guide. Cyd Harrell
+- [ ] West's Business Law: Text, Cases, Legal, Ethical, Regulatory, and International Environment. Kenneth W. Clarkson
+- [ ] "Business Law: Text and Cases" by Kenneth W. Clarkson, Roger LeRoy Miller, and Frank B. Cross
+- [ ] "International Business Transactions: A Problem-Oriented Coursebook" by Daniel C.K. Chow and Thomas J. Schoenbaum
+- [ ] Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team
+- [ ] The (Delicate) Art of Bureaucracy. Mark Schwartz
+- [ ] Capitalism Without Capital: The Rise of the Intangible Economy. Jonathan Haskel and Stian Westlake
+- [ ] The Design of Everyday Things. Donald Norman
+- [ ] The Invisible Computer. Donald Norman
+- [ ] Turn Signals Are The Facial Expressions Of Automobiles. Donald Norman
+- [ ] Persépolis. Marjane Satrapi
+- [ ] EXPLORER: Futuristic Vehicles for Uncharted Christian Grajewski
 
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
@@ -209,6 +218,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Las aventuras de Sherlock Holmes. Sir arthur Connan Doyle
 - [x] Astronaut's guide to life on earth. Chris Hadfield
 - [x] Born a crime. Trevor Noah
+- [X] To the Castle and Back. Vaclav Havel
 - [x] Mi historia. Michelle Obama
 - [x] Dreams of my father. Barack Obama
 - [x] The narrative Life of Frederick Douglass. Frederick Douglass
@@ -221,6 +231,8 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Los amores difíciles. Italo calvino
 - [x] Golem XIV . Stanislaw Lem
 - [x] La ruidosa marcha de los mudos. Juan Alvarez
+- [x] Marina. Carlos Ruiz Zafón
+- [x] El olvido que seremos. Tyto Alba, adaptación de la novela de Héctor Abad Faciolince.
 - [x] Maus. Art Spiegelman
 - [x] Satanas. Mario Mendoza
 - [x] Akelarre. Mario Mendoza  
@@ -232,6 +244,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Memories, Dreams, Reflections. Carl Jung
 - [X] Spare parts. Buzz Williams
 - [x] Ensayo sobre la lucidez. José Saramago
+- [x] Saga. Sophie de Mello Breyner
 - [x] Toyota Production System: Beyond Large-scale Production. Taiichi Ohno
 - [x] Angela Merkel la fisica del poder. Patricia Salazar y Christina Mendoza
 - [x] El extranjero. Albert Camus
@@ -246,6 +259,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] [Scaling Software Development. Alex Gaynor](https://alexgaynor.net/2020/feb/18/scaling-software-development)
 - [ ]  Boing Boing blog. Cory doctorow
 - [ ]  [A blind writers notebook](https://catapult.co/editorial/topics/a-blind-writer-s-notebook/stories). leona godin
+- [ ] Attention Is All You Need. Ashish Vaswani
 
 ## Movies
 
