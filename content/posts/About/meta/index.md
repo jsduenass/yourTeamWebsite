@@ -30,6 +30,11 @@ This is a phrase that has stuck with me since the first time I read it in _The T
 > The world is a fascinating place, but we only get to live inside the boundary of what we know therefore I justify my existence by expanding this horizon to the farthest I can, and be amazed and amused by what there is out there.
 
 
+## Before breaking it big
+
+It is midnight, I am by myself, second night in London. I am in a bar. I am reading a self help book (it ain't that good I would not recommend it) what and odd place to end up in. But I can't help but feel like I am in a movie. This is the part in the biopic before breaking it big. Am I delusional? may be, only time would tell.
+
+![](before_breaking_it_big.jpg)
 
 ## Building this website
 Let's start from the beginning, I been thinking about writing for a long time but have struggled to do it for any meaningful length of time and keep up with it. I don't know when you are reading this but 2020/2021 have been period defined by a global pandemic which caused a rapid adoption of digital technologies. The times are changing so adapting to this new world with a bigger digital presence is a must.

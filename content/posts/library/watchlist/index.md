@@ -87,6 +87,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] The Joke. Milan Kundera
 - [ ] Havel: A Life. Michael Zantovsky
 - [ ] Do androids dream of electric sheep. Philip K. Dick
+- [ ] Midnight in the Garden of Good and Evil.  John Berendt
 
  
 ### Honorable mention
@@ -234,6 +235,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Marina. Carlos Ruiz Zafón
 - [x] El olvido que seremos. Tyto Alba, adaptación de la novela de Héctor Abad Faciolince.
 - [x] Maus. Art Spiegelman
+- [x] Watchmen. Alan Moore
 - [x] Satanas. Mario Mendoza
 - [x] Akelarre. Mario Mendoza  
 - [X] The art of hearing heartbeats. Jan-Philipp Sendker
@@ -244,6 +246,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Memories, Dreams, Reflections. Carl Jung
 - [X] Spare parts. Buzz Williams
 - [x] Ensayo sobre la lucidez. José Saramago
+- [x] No excuses. brian tracy
 - [x] Saga. Sophie de Mello Breyner
 - [x] Toyota Production System: Beyond Large-scale Production. Taiichi Ohno
 - [x] Angela Merkel la fisica del poder. Patricia Salazar y Christina Mendoza

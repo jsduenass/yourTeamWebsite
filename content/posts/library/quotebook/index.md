@@ -763,7 +763,7 @@ Very provocative comment
 > 
 >  __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
 
-> Absolute failure is 
+> Failure fragments personal security. Consistent failure replaces self-confidence. Absolute failure erases identity
 >
 > __--- Buzz Williams,Spare Parts__
 
@@ -794,9 +794,18 @@ Very provocative comment
 
 My favorite is rule 10 as it gives you the grace, that even while "knowing" all the rules you will still make mistakes. As you can't live all the time enlightened, and you eventually will fall back to bad habits catiching yourself frustrating and anoyed, struggling to gain peace of mind remembering how it is really like being a human.
 
+
+> As far as we can discern, the sole purpose of human existance is to kindle a light of meaning in a the darkness of mere being
+>
+> __---Carl Jung. Memories, dreams,  reflections__
+
+> El mundo te preguntará quién eres, y si no lo sabes, el mundo te lo dirá
+>
+> __---atributted to Carl Jung__
+
+
+
 ## Miscellaneous
-
-
 
 
 > Nothing is sacred to the critical eye, nothing can withstand scrutiny
@@ -827,7 +836,12 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > 
 > __--- Marco Aurelio, Meditaciones__
 
-> The currency used in the casion of evolution is survival
+> Entiende que los hombres cometerán siempre, aunque te exaspere, los mismo errores
+> 
+> __--- Marco Aurelio, Meditaciones__
+
+
+> The currency used in the casino of evolution is survival
 >
 > __--- Richard Dawkins, the selfish gene__
 

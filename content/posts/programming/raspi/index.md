@@ -1,6 +1,6 @@
 ---
 title: "Raspbery pi"
-date: 2022-04-6
+date: 2022-04-06
 description: working with the Raspbery Pi  
 menu:
   sidebar:
