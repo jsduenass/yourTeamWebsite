@@ -1,11 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on Sebastian D 🇨🇴</title><link>https://jsduenass.github.io/posts/programming/</link><description>Recent content in Programming on Sebastian D 🇨🇴</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jsduenass.github.io/posts/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>PyCon Colombian 2023 lightning talk</title><link>https://jsduenass.github.io/posts/programming/pycon_co_2023/</link><pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/pycon_co_2023/</guid><description>Computer Programming for Everybody. El sueño de que cada persona pudiera programar su propia computadora impulso el desarrollo Python. Construyamos el próximo proyecto de alto impacto.
-Conectando con la comunidad de ROS Proyecto de traducción de documentación de ROS 2 Grupo de usuarios de ROS en español discourse The Next Computer Programming for Everybody</description></item><item><title>Linux</title><link>https://jsduenass.github.io/posts/programming/linux/</link><pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/linux/</guid><description>How I Learned To Stop Worrying And Love linux Linux is a powerful tool, and OS where many programmers and developers make it their home for building their application. As all things it has a learning curve and the fact that there are many variants (or Distribution) does not help.
-WSL When starting from a Windows machine wsl is the easiest and most straigh forward way to start using linux.</description></item><item><title>Introduction to programming</title><link>https://jsduenass.github.io/posts/programming/intro/</link><pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/intro/</guid><description>What is programming? Well, I think that is a muddy question, because it encapsulates a wide range of activities with an even broader set of tools. If I had to give you a short definition it would be that programming is laying a set of rules for the computer to follow. It sounds extremely simple, but it is a process you can build upon and iterate layer over layer until these instructions create amazing software with complex functionality.</description></item><item><title>Robocup Virtual manipulator challenge</title><link>https://jsduenass.github.io/posts/programming/robocup/</link><pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/robocup/</guid><description>virtual manipulator demo Resources Virtual manipulator challenge main page Video introduction source code Blog Other resources Pick-and-Place Workflow in Gazebo Using Point-Cloud Processing and RRT Path Planning Robocup@work team qualifications Robocup@home team qualifications Github getting started Design and Control of Robot Manipulators Get started with gazebo Objective Crate an algorithm for the robotic arm so it can sort properly the cans and bottles.
-Cans must go into the green bin Bottles must go into the blue bin Config of this project A submodule is used the repository vision_ if you want to clone this repository use the command git clone --recurse-submodules https://github.</description></item><item><title>Raspbery pi</title><link>https://jsduenass.github.io/posts/programming/raspi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/raspi/</guid><description>Getting started with a raspberry pi
-Configuration There are many ways of configuring network interfaces via modifying configuration files .
-sudo raspi-config sudo nano /etc/dhcpcd.conf service networking reload
-service networking restart Find Raspbery PI hostname
-whoami #username ping &amp;lt;hostname&amp;gt;.local -4
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on Sebastian D 🇨🇴</title><link>https://jsduenass.github.io/posts/programming/</link><description>Recent content in Programming on Sebastian D 🇨🇴</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jsduenass.github.io/posts/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>PyCon Colombian 2023 lightning talk</title><link>https://jsduenass.github.io/posts/programming/pycon_co_2023/</link><pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/pycon_co_2023/</guid><description>&lt;p>Computer Programming for Everybody. El sueño de que cada persona pudiera programar su propia computadora impulso el desarrollo Python. Construyamos el próximo proyecto de alto impacto.&lt;/p>
+&lt;h2 id="conectando-con-la-comunidad-de-ros">Conectando con la comunidad de ROS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ROS-Spanish-Users-Group/ros2_documentation" target="_blank" rel="noopener">Proyecto de traducción de documentación de ROS 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://discourse.ros.org/c/local/ros-spanish/69" target="_blank" rel="noopener">Grupo de usuarios de ROS en español discourse&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="the-next-computer-programming-for-everybody">The Next Computer Programming for Everybody&lt;/h2>
+&lt;a href="https://youtu.be/Sr2qAKo75Uc?si=xR3LoLGCx7pqoFSL&amp;t=1474s" target="_blank">
+&lt;img align = "center" alt=Slide lightning talk" width="70%" src="hero.png" />
+&lt;h2 id="pycon-2023">Pycon 2023&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/live/KxbukbKG67c?feature=share" target="_blank" rel="noopener">Day 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/live/fiEq85l9dTc?feature=share" target="_blank" rel="noopener">Day 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/live/KAPHE6akw7Q?feature=share" target="_blank" rel="noopener">Day 3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recursos">Recursos&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.python.org/doc/essays/cp4e/" target="_blank" rel="noopener">Computer Programming for Everyone&lt;/a>, Guido Van Rossum.&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/B6rKUf9DWRI" target="_blank" rel="noopener">The mother of all demos &lt;/a>. Presentación de Douglas Engelbart demostrando las tecnologias que desarrolladas en su laboratorio (1968).&lt;/li>
+&lt;li>&lt;a href="https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf" target="_blank" rel="noopener">Augmenting Human Intellect: A conceptual framework &lt;/a>, Douglas Engelbart. Como utilizar los computadores como herramientas para empoderar a las personas, volverlas más productivas y apoyarlas a resolver los problemas más importantes que aquejan la humanidad.&lt;/li>
+&lt;li>Bootstrapping Douglas Endelbart and the origins of Personal Computing, Thierry Bardin.&lt;/li>
+&lt;/ul>
+&lt;h3 id="proyectos-personales">Proyectos personales&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/cychitivav/pai" target="_blank" rel="noopener">Robotica movil: Vehiculo autonomo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Robotica-UNAL-G3-A" target="_blank" rel="noopener">Brazos robóticos&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Linux</title><link>https://jsduenass.github.io/posts/programming/linux/</link><pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/linux/</guid><description>&lt;h2 id="how-i-learned-to-stop-worrying-and-love-linux">How I Learned To Stop Worrying And Love linux&lt;/h2>
+&lt;p>Linux is a powerful tool, and OS where many programmers and developers make it their home for building their application.
+As all things it has a learning curve and the fact that there are many variants (or Distribution) does not help.&lt;/p>
+&lt;h3 id="wsl">WSL&lt;/h3>
+&lt;p>When starting from a Windows machine &lt;code>wsl&lt;/code> is the easiest and most straigh forward way to start using linux.&lt;/p></description></item><item><title>Raspbery pi</title><link>https://jsduenass.github.io/posts/programming/raspi/</link><pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/raspi/</guid><description>&lt;p>Getting started with a raspberry pi&lt;/p>
+&lt;h2 id="configuration">Configuration&lt;/h2>
+&lt;p>There are many ways of configuring network interfaces via modifying configuration files .&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo raspi-config
+&lt;/code>&lt;/pre>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo nano /etc/dhcpcd.conf
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>service networking reload
+service networking restart
+&lt;/code>&lt;/pre>&lt;h2 id="find-raspbery-pi">Find Raspbery PI&lt;/h2>
+&lt;pre tabindex="0">&lt;code>hostname
+whoami #username
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code>ping &amp;lt;hostname&amp;gt;.local -4
 ssh &amp;lt;username&amp;gt;.&amp;lt;hostname&amp;gt;
 sudo ifconfig eth0 up
-sudo matlab-rpi-setup Configure SSH Multiple private keys can be added using ssh-add``. However for this to work the _ssh-agent_ must be activated. To check if it activated Open power shell and get information about the service if it is stoped, ssh-add`` won&amp;rsquo;t work.</description></item></channel></rss>
+sudo matlab-rpi-setup
+&lt;/code>&lt;/pre>&lt;!--
+```
+ping jsds.local -4
+```
+-->
+&lt;h3 id="configure-ssh">Configure SSH&lt;/h3>
+&lt;p>Multiple private keys can be added using &lt;code>ssh-add``. However for this to work the _ssh-agent_ must be activated. To check if it activated Open power shell and get information about the service if it is stoped, &lt;/code>ssh-add`` won&amp;rsquo;t work. Configure the service as manual so it will be activated via &lt;code>ssh-agent&lt;/code>. With the agent running locate the file path of the private key you want to add and pass is a &lt;code>ssh-add&lt;/code> if lJ .&lt;/p></description></item><item><title>Introduction to programming</title><link>https://jsduenass.github.io/posts/programming/intro/</link><pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/intro/</guid><description>&lt;h2 id="what-is-programming">What is programming?&lt;/h2>
+&lt;p>Well, I think that is a muddy question, because it encapsulates a wide range of activities with an even broader set of tools. If I had to give you a short definition it would be that programming is laying a set of rules for the computer to follow. It sounds extremely simple, but it is a process you can build upon and iterate layer over layer until these instructions create amazing software with complex functionality.&lt;/p></description></item><item><title>Robocup Virtual manipulator challenge</title><link>https://jsduenass.github.io/posts/programming/robocup/</link><pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/robocup/</guid><description>&lt;h2 id="virtual-manipulator-demo">virtual manipulator demo&lt;/h2>
+&lt;!---
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/L27-7TKqqbg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+&lt;/div>
+-->
+&lt;h2 id="resources">Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://2021.robocup.org/robot-manipulation" target="_blank" rel="noopener">Virtual manipulator challenge main page&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/h-IVj2tajQQ?t=1561" target="_blank" rel="noopener">Video introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jsduenass/virtual_manipulator" target="_blank" rel="noopener">source code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jsduenass.github.io/posts/matlab/" target="_blank" rel="noopener">Blog&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-resources">Other resources&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.mathworks.com/help/robotics/ug/pick-and-place-gazebo-with-point-clouds-and-rrt.html" target="_blank" rel="noopener">Pick-and-Place Workflow in Gazebo Using Point-Cloud Processing and RRT Path Planning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://atwork.robocup.org/2021/03/12/robocup-2021-worldwide-call-for-participation/" target="_blank" rel="noopener">Robocup@work team qualifications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://athome.robocup.org/2021-cfp-all/" target="_blank" rel="noopener">Robocup@home team qualifications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge" target="_blank" rel="noopener">Github getting started&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/notes/matlab-and-simulink-robotics-arena/design-and-control-of-robot-manipulators-technical-resources/3351011848336733/" target="_blank" rel="noopener">Design and Control of Robot Manipulators &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html" target="_blank" rel="noopener">Get started with gazebo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="objective">Objective&lt;/h2>
+&lt;p>Crate an algorithm for the robotic arm so it can sort properly the cans and bottles.&lt;/p></description></item></channel></rss>

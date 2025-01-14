@@ -1,18 +1,356 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sebastian D 🇨🇴</title><link>https://jsduenass.github.io/</link><description>Recent content on Sebastian D 🇨🇴</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jsduenass.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>PyCon Colombian 2023 lightning talk</title><link>https://jsduenass.github.io/posts/programming/pycon_co_2023/</link><pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/pycon_co_2023/</guid><description>Computer Programming for Everybody. El sueño de que cada persona pudiera programar su propia computadora impulso el desarrollo Python. Construyamos el próximo proyecto de alto impacto.
-Conectando con la comunidad de ROS Proyecto de traducción de documentación de ROS 2 Grupo de usuarios de ROS en español discourse The Next Computer Programming for Everybody</description></item><item><title>Of interest</title><link>https://jsduenass.github.io/posts/library/ofinterest/</link><pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/ofinterest/</guid><description>Because I seem to be pretty fond on lists, here are some more, of interesting institutions universities and people doing amazing work.
-Universities ETH Zürich. Autonomous Systems Lab, Roland Siegwart robotics system lab DelftTU. Software architecture https://github.com/tudelft delftswa.github.io UPV (universidad politecnica de Valencia) URJC universidad rey juan carlos Universidad carlos iii madrid UC3M Stuttgart university, engineering cybernetics. Master of Science (MSc) focused in Mechatronics, Robotics, and Automation Engineering from University of Stuttgar.</description></item><item><title>Linux</title><link>https://jsduenass.github.io/posts/programming/linux/</link><pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/linux/</guid><description>How I Learned To Stop Worrying And Love linux Linux is a powerful tool, and OS where many programmers and developers make it their home for building their application. As all things it has a learning curve and the fact that there are many variants (or Distribution) does not help.
-WSL When starting from a Windows machine wsl is the easiest and most straigh forward way to start using linux.</description></item><item><title>Introduction to programming</title><link>https://jsduenass.github.io/posts/programming/intro/</link><pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/intro/</guid><description>What is programming? Well, I think that is a muddy question, because it encapsulates a wide range of activities with an even broader set of tools. If I had to give you a short definition it would be that programming is laying a set of rules for the computer to follow. It sounds extremely simple, but it is a process you can build upon and iterate layer over layer until these instructions create amazing software with complex functionality.</description></item><item><title>About the site</title><link>https://jsduenass.github.io/posts/about/meta/</link><pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/about/meta/</guid><description>The about section holds a formal presentation of who I am. This however is a more lay back version where I intend to explore and also document different experiences.
-What I am currently interested in Computers Organizations Information Robots Cybernetics How do you justify your existence? This is a phrase that has stuck with me since the first time I read it in The Tales of the Black Widowers by Isaac Asimov.</description></item><item><title>Robocup Virtual manipulator challenge</title><link>https://jsduenass.github.io/posts/programming/robocup/</link><pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/robocup/</guid><description>virtual manipulator demo Resources Virtual manipulator challenge main page Video introduction source code Blog Other resources Pick-and-Place Workflow in Gazebo Using Point-Cloud Processing and RRT Path Planning Robocup@work team qualifications Robocup@home team qualifications Github getting started Design and Control of Robot Manipulators Get started with gazebo Objective Crate an algorithm for the robotic arm so it can sort properly the cans and bottles.
-Cans must go into the green bin Bottles must go into the blue bin Config of this project A submodule is used the repository vision_ if you want to clone this repository use the command git clone --recurse-submodules https://github.</description></item><item><title>Quotebook</title><link>https://jsduenass.github.io/posts/library/quotebook/</link><pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/quotebook/</guid><description>This is a collection of quotes I found interesting in one way or another.
-Literature The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be.
-&amp;mdash; Douglas Adams
-Así también un orbe entero, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.</description></item><item><title>WatchList</title><link>https://jsduenass.github.io/posts/library/watchlist/</link><pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/watchlist/</guid><description>This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them.
-There is never enough time to do everything but there is always enough time to do the most important things
-Reading list A calendar of wisdom. Leo Tolstoy Letters to a young scientist. Edward Osborne Wilson The Success of Open Source.</description></item><item><title>Raspbery pi</title><link>https://jsduenass.github.io/posts/programming/raspi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/raspi/</guid><description>Getting started with a raspberry pi
-Configuration There are many ways of configuring network interfaces via modifying configuration files .
-sudo raspi-config sudo nano /etc/dhcpcd.conf service networking reload
-service networking restart Find Raspbery PI hostname
-whoami #username ping &amp;lt;hostname&amp;gt;.local -4
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sebastian D 🇨🇴</title><link>https://jsduenass.github.io/</link><description>Recent content on Sebastian D 🇨🇴</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jsduenass.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>PyCon Colombian 2023 lightning talk</title><link>https://jsduenass.github.io/posts/programming/pycon_co_2023/</link><pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/pycon_co_2023/</guid><description>&lt;p>Computer Programming for Everybody. El sueño de que cada persona pudiera programar su propia computadora impulso el desarrollo Python. Construyamos el próximo proyecto de alto impacto.&lt;/p>
+&lt;h2 id="conectando-con-la-comunidad-de-ros">Conectando con la comunidad de ROS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ROS-Spanish-Users-Group/ros2_documentation" target="_blank" rel="noopener">Proyecto de traducción de documentación de ROS 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://discourse.ros.org/c/local/ros-spanish/69" target="_blank" rel="noopener">Grupo de usuarios de ROS en español discourse&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="the-next-computer-programming-for-everybody">The Next Computer Programming for Everybody&lt;/h2>
+&lt;a href="https://youtu.be/Sr2qAKo75Uc?si=xR3LoLGCx7pqoFSL&amp;t=1474s" target="_blank">
+&lt;img align = "center" alt=Slide lightning talk" width="70%" src="hero.png" />
+&lt;h2 id="pycon-2023">Pycon 2023&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/live/KxbukbKG67c?feature=share" target="_blank" rel="noopener">Day 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/live/fiEq85l9dTc?feature=share" target="_blank" rel="noopener">Day 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/live/KAPHE6akw7Q?feature=share" target="_blank" rel="noopener">Day 3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="recursos">Recursos&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.python.org/doc/essays/cp4e/" target="_blank" rel="noopener">Computer Programming for Everyone&lt;/a>, Guido Van Rossum.&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/B6rKUf9DWRI" target="_blank" rel="noopener">The mother of all demos &lt;/a>. Presentación de Douglas Engelbart demostrando las tecnologias que desarrolladas en su laboratorio (1968).&lt;/li>
+&lt;li>&lt;a href="https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf" target="_blank" rel="noopener">Augmenting Human Intellect: A conceptual framework &lt;/a>, Douglas Engelbart. Como utilizar los computadores como herramientas para empoderar a las personas, volverlas más productivas y apoyarlas a resolver los problemas más importantes que aquejan la humanidad.&lt;/li>
+&lt;li>Bootstrapping Douglas Endelbart and the origins of Personal Computing, Thierry Bardin.&lt;/li>
+&lt;/ul>
+&lt;h3 id="proyectos-personales">Proyectos personales&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/cychitivav/pai" target="_blank" rel="noopener">Robotica movil: Vehiculo autonomo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Robotica-UNAL-G3-A" target="_blank" rel="noopener">Brazos robóticos&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Of interest</title><link>https://jsduenass.github.io/posts/library/ofinterest/</link><pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/ofinterest/</guid><description>&lt;p>Because I seem to be pretty fond on lists, here are some more, of interesting institutions universities and people doing amazing work.&lt;/p>
+&lt;h1 id="universities">Universities&lt;/h1>
+&lt;ul>
+&lt;li>ETH Zürich.
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ethz-asl" target="_blank" rel="noopener">Autonomous Systems Lab&lt;/a>, Roland Siegwart&lt;/li>
+&lt;li>&lt;a href="https://github.com/leggedrobotics" target="_blank" rel="noopener">robotics system lab&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>DelftTU. &lt;a href="https://delftswa.gitbooks.io/desosa2016/content/" target="_blank" rel="noopener">Software architecture&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/tudelft" target="_blank" rel="noopener">https://github.com/tudelft&lt;/a>&lt;/li>
+&lt;li>delftswa.github.io&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>UPV (universidad politecnica de Valencia)&lt;/li>
+&lt;li>URJC universidad rey juan carlos&lt;/li>
+&lt;li>Universidad carlos iii madrid UC3M&lt;/li>
+&lt;li>Stuttgart university, engineering cybernetics. Master of Science (MSc) focused in Mechatronics, Robotics, and Automation Engineering from University of Stuttgar.&lt;/li>
+&lt;li>Twente university. Sid Sijbrandij gitlab, &lt;a href="https://www.youtube.com/channel/UCAB2bLpeVElJN2jDyF14zsQ" target="_blank" rel="noopener">roboteam&lt;/a>, &lt;a href="https://www.youtube.com/watch?v=TvSTCM7SjGs" target="_blank" rel="noopener">Student report&lt;/a>&lt;/li>
+&lt;li>Eindhoven TU/e paises bajos, &lt;a href="https://github.com/tue-robotics/" target="_blank" rel="noopener">github&lt;/a> &lt;a href="https://www.techunited.nl/en/" target="_blank" rel="noopener">Tech United Eindhoven&lt;/a>&lt;/li>
+&lt;li>Politecnico de lausanne&lt;/li>
+&lt;li>fh aachen&lt;/li>
+&lt;li>TU München Munich&lt;/li>
+&lt;li>TU Berlin&lt;/li>
+&lt;li>TU Dresden&lt;/li>
+&lt;li>Czech Technical University in Prague&lt;/li>
+&lt;li>TU ilmenau.Technical Cybernetics and Systems Theory&lt;/li>
+&lt;li>University of Waterloo&lt;/li>
+&lt;li>university of Alberta&lt;/li>
+&lt;li>Hong Kong Polytechnic University&lt;/li>
+&lt;li>university of washington seattle&lt;/li>
+&lt;li>West Virginia University&lt;/li>
+&lt;li>TU Braunschweig (&lt;a href="https://www.youtube.com/watch?v=V5vpwVFMPqs" target="_blank" rel="noopener">https://www.youtube.com/watch?v=V5vpwVFMPqs&lt;/a>)&lt;/li>
+&lt;li>TU Kaiserslautern&lt;/li>
+&lt;li>University of Nothinham. numberphile&lt;/li>
+&lt;li>IIT Gandhinagar&lt;/li>
+&lt;li>Fachhochschule Wedel University of Applied Sciences&lt;/li>
+&lt;/ul>
+&lt;h2 id="people">People&lt;/h2>
+&lt;ul>
+&lt;li>Paul Graham. YCombinator&lt;/li>
+&lt;li>Lex Fridman&lt;/li>
+&lt;li>Sid Sijbrandij. gitlab&lt;/li>
+&lt;li>Peter Corke. robotics toolbox&lt;/li>
+&lt;li>Michael Nielsen. quatum computing&lt;/li>
+&lt;li>Raffaello d&amp;rsquo;andrea. Drones&lt;/li>
+&lt;li>Lorenz Meier. Auterion drone company&lt;/li>
+&lt;li>Professor Jeff Hoffman. &lt;a href="https://www.youtube.com/watch?v=bvxqCAkjDxs" target="_blank" rel="noopener">Introduction to aerospace engineerign: Astronautics and Human Spaceflight&lt;/a>&lt;/li>
+&lt;li>Rich Harris. svelte&amp;rsquo;s creator&lt;/li>
+&lt;li>Randy Pausch. Alice python &lt;a href="https://archive.org/details/GabrielRobins-50YearsOfComputerScienceInnovationByRandyPausch812" target="_blank" rel="noopener">lecture&lt;/a>&lt;/li>
+&lt;li>Eric Tsui. knowledge management&lt;/li>
+&lt;li>Fabian Riether and Sertac Karaman &lt;a href="https://github.com/Parrot-Developers/RollingSpiderEdu" target="_blank" rel="noopener">minidrone MATLAB&lt;/a>&lt;/li>
+&lt;li>Jaron Lanier &lt;a href="https://youtu.be/rGqiswuJuQI" target="_blank" rel="noopener">Who is civilization for&lt;/a>&lt;/li>
+&lt;li>Arie van Deursen. software arquitecture DelftTU&lt;/li>
+&lt;li>Rodney Brooks. directorof MIT&amp;rsquo;s Computer Science and Artificial Intelligence Laboratory&lt;/li>
+&lt;li>Robert Playter. Boston Dynamics&lt;/li>
+&lt;li>Ali Agha. Principal Investigator and Research Technologist at NASA&amp;rsquo;s JPL and Caltech’s Center for Autonomous Systems and Technologies (CAST)&lt;/li>
+&lt;li>Vadim Pisarevsky. openCV developer&lt;/li>
+&lt;li>Homayoon Kazerooni. robotics UC berkeley&lt;/li>
+&lt;li>Carlos Galeano. NASA&lt;/li>
+&lt;li>J. Edward Colgate. haptics&lt;/li>
+&lt;li>John Kenneth Salisbury. robotics haptics&lt;/li>
+&lt;li>Brendan Schulman&lt;/li>
+&lt;li>Federico Faggin. synaptics&lt;/li>
+&lt;li>Victoria Lemieux. Electronic Document &amp;amp; Records Management System Implementation&lt;/li>
+&lt;li>Gen Sasaki. Mathworks&lt;/li>
+&lt;li>Roger D. Launius. chief historian NASA&lt;/li>
+&lt;li>John Carmack. Best programmer (allegedly)&lt;/li>
+&lt;li>Don Norman. Father of UX&lt;/li>
+&lt;li>Sergei Lupashin&lt;/li>
+&lt;li>Adrian Bowyer. RepRap&lt;/li>
+&lt;li>Peo Hansen. Migration&lt;/li>
+&lt;/ul>
+&lt;h2 id="institutions">Institutions&lt;/h2>
+&lt;ul>
+&lt;li>dlr institute of robotics and mechatronics&lt;/li>
+&lt;/ul>
+&lt;h2 id="companies">Companies&lt;/h2>
+&lt;ul>
+&lt;li>Boston Dynamics&lt;/li>
+&lt;li>Ocado&lt;/li>
+&lt;li>Anybotics&lt;/li>
+&lt;li>Auterion&lt;/li>
+&lt;li>Gitlab&lt;/li>
+&lt;li>Amazon robotics&lt;/li>
+&lt;li>DJI&lt;/li>
+&lt;li>Formlabs&lt;/li>
+&lt;li>Markforged&lt;/li>
+&lt;li>Prusa&lt;/li>
+&lt;li>Mathworks&lt;/li>
+&lt;li>Esri&lt;/li>
+&lt;/ul></description></item><item><title>Linux</title><link>https://jsduenass.github.io/posts/programming/linux/</link><pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/linux/</guid><description>&lt;h2 id="how-i-learned-to-stop-worrying-and-love-linux">How I Learned To Stop Worrying And Love linux&lt;/h2>
+&lt;p>Linux is a powerful tool, and OS where many programmers and developers make it their home for building their application.
+As all things it has a learning curve and the fact that there are many variants (or Distribution) does not help.&lt;/p>
+&lt;h3 id="wsl">WSL&lt;/h3>
+&lt;p>When starting from a Windows machine &lt;code>wsl&lt;/code> is the easiest and most straigh forward way to start using linux.&lt;/p></description></item><item><title>Raspbery pi</title><link>https://jsduenass.github.io/posts/programming/raspi/</link><pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/raspi/</guid><description>&lt;p>Getting started with a raspberry pi&lt;/p>
+&lt;h2 id="configuration">Configuration&lt;/h2>
+&lt;p>There are many ways of configuring network interfaces via modifying configuration files .&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo raspi-config
+&lt;/code>&lt;/pre>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo nano /etc/dhcpcd.conf
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>service networking reload
+service networking restart
+&lt;/code>&lt;/pre>&lt;h2 id="find-raspbery-pi">Find Raspbery PI&lt;/h2>
+&lt;pre tabindex="0">&lt;code>hostname
+whoami #username
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code>ping &amp;lt;hostname&amp;gt;.local -4
 ssh &amp;lt;username&amp;gt;.&amp;lt;hostname&amp;gt;
 sudo ifconfig eth0 up
-sudo matlab-rpi-setup Configure SSH Multiple private keys can be added using ssh-add``. However for this to work the _ssh-agent_ must be activated. To check if it activated Open power shell and get information about the service if it is stoped, ssh-add`` won&amp;rsquo;t work.</description></item></channel></rss>
+sudo matlab-rpi-setup
+&lt;/code>&lt;/pre>&lt;!--
+```
+ping jsds.local -4
+```
+-->
+&lt;h3 id="configure-ssh">Configure SSH&lt;/h3>
+&lt;p>Multiple private keys can be added using &lt;code>ssh-add``. However for this to work the _ssh-agent_ must be activated. To check if it activated Open power shell and get information about the service if it is stoped, &lt;/code>ssh-add`` won&amp;rsquo;t work. Configure the service as manual so it will be activated via &lt;code>ssh-agent&lt;/code>. With the agent running locate the file path of the private key you want to add and pass is a &lt;code>ssh-add&lt;/code> if lJ .&lt;/p></description></item><item><title>Introduction to programming</title><link>https://jsduenass.github.io/posts/programming/intro/</link><pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/intro/</guid><description>&lt;h2 id="what-is-programming">What is programming?&lt;/h2>
+&lt;p>Well, I think that is a muddy question, because it encapsulates a wide range of activities with an even broader set of tools. If I had to give you a short definition it would be that programming is laying a set of rules for the computer to follow. It sounds extremely simple, but it is a process you can build upon and iterate layer over layer until these instructions create amazing software with complex functionality.&lt;/p></description></item><item><title>About the site</title><link>https://jsduenass.github.io/posts/about/meta/</link><pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/about/meta/</guid><description>&lt;p>The &lt;strong>&lt;a href="https://jsduenass.github.io/#about">about section&lt;/a>&lt;/strong> holds a formal presentation of who I am. This however is a more lay back version where I intend to explore and also document different experiences.&lt;/p>
+&lt;h2 id="what-i-am-currently-interested-in">What I am currently interested in&lt;/h2>
+&lt;ul>
+&lt;li>Computers&lt;/li>
+&lt;li>Organizations&lt;/li>
+&lt;li>Information&lt;/li>
+&lt;li>Robots&lt;/li>
+&lt;li>Cybernetics&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-do-you-justify-your-existence">How do you justify your existence?&lt;/h2>
+&lt;p>This is a phrase that has stuck with me since the first time I read it in &lt;em>The Tales of the Black Widowers&lt;/em> by Isaac Asimov. Asimov is one of my favorite authors. He encapsulates a genuine wonder for the world and all what is around him. Through the lense of science fiction he builds a reflection of our own world with little sprinkles of speculation here and there to make something that feels foreign and yet very familiar. So my way of answering this question would be.&lt;/p></description></item><item><title>Robocup Virtual manipulator challenge</title><link>https://jsduenass.github.io/posts/programming/robocup/</link><pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/robocup/</guid><description>&lt;h2 id="virtual-manipulator-demo">virtual manipulator demo&lt;/h2>
+&lt;!---
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/L27-7TKqqbg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+&lt;/div>
+-->
+&lt;h2 id="resources">Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://2021.robocup.org/robot-manipulation" target="_blank" rel="noopener">Virtual manipulator challenge main page&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/h-IVj2tajQQ?t=1561" target="_blank" rel="noopener">Video introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jsduenass/virtual_manipulator" target="_blank" rel="noopener">source code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jsduenass.github.io/posts/matlab/" target="_blank" rel="noopener">Blog&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-resources">Other resources&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.mathworks.com/help/robotics/ug/pick-and-place-gazebo-with-point-clouds-and-rrt.html" target="_blank" rel="noopener">Pick-and-Place Workflow in Gazebo Using Point-Cloud Processing and RRT Path Planning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://atwork.robocup.org/2021/03/12/robocup-2021-worldwide-call-for-participation/" target="_blank" rel="noopener">Robocup@work team qualifications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://athome.robocup.org/2021-cfp-all/" target="_blank" rel="noopener">Robocup@home team qualifications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge" target="_blank" rel="noopener">Github getting started&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/notes/matlab-and-simulink-robotics-arena/design-and-control-of-robot-manipulators-technical-resources/3351011848336733/" target="_blank" rel="noopener">Design and Control of Robot Manipulators &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html" target="_blank" rel="noopener">Get started with gazebo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="objective">Objective&lt;/h2>
+&lt;p>Crate an algorithm for the robotic arm so it can sort properly the cans and bottles.&lt;/p></description></item><item><title>Quotebook</title><link>https://jsduenass.github.io/posts/library/quotebook/</link><pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/quotebook/</guid><description>&lt;p>This is a collection of quotes I found interesting in one way or another.&lt;/p>
+&lt;h2 id="literature">Literature&lt;/h2>
+&lt;blockquote>
+&lt;p>The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be.&lt;/p>
+&lt;p>&lt;strong>&amp;mdash; Douglas Adams&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Así también un orbe entero, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.&lt;/p></description></item><item><title>WatchList</title><link>https://jsduenass.github.io/posts/library/watchlist/</link><pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/watchlist/</guid><description>&lt;p>This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them.&lt;/p>
+&lt;blockquote>
+&lt;p>There is never enough time to do everything but there is always enough time to do the most important things&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="reading-list">Reading list&lt;/h2>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> A calendar of wisdom. Leo Tolstoy&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Letters to a young scientist. Edward Osborne Wilson&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Success of Open Source. Steven Weber&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://quantum.country/" target="_blank" rel="noopener">Quantum country&lt;/a>&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> La era del diamante. Neal Stephenson&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Martian. Andy Weir&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The man in the high castle. Philip K. Dick&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Masters of Doom. David Kushner&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Meditations. Marcus Aurelius&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Spare parts. Joshua Davis&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> My Philosophy of Industry. Henry Ford&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order. Steven Weber&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="http://web.mit.edu/klund/www/books/radlab.html" target="_blank" rel="noopener">The MIT Rad Lab Series&lt;/a>.&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/" target="_blank" rel="noopener">China 2185. liu cixin&lt;/a> &lt;a href="http://www.kehuan.net.cn/book/2185.html" target="_blank" rel="noopener">internet version&lt;/a>&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook" target="_blank" rel="noopener">Baumgartner &amp;amp; Momsen Detective Stories for German Learners&lt;/a>&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Emilio o de la educación. Rousseau.&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Historia social del conocimiento. Peter Burke&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Seveneves. Neal Stephenson&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> It&amp;rsquo;s Been a Good Life. Isaac Asimov&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Before i Leave You: A Memoir on Suicide, Addiction and Healing. Robert Imbeault&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Johnny Got His Gun. Dalton Trumbo&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> El proceso. Franz Kafka&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Software Engineering at Google. Tom Manshreck&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Feynman Lectures on Physics&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> This is how they tell me the world ends. Nicole Perlroth&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Self-Reliance. Ralph Waldo Emerson&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Where wizards stay up late. Katie Hafner&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Hard drive bill gates and the making of the microsoft empire&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Pale Blue Dot. Carl Sagan&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Fish is Fish. Leo Lionni. Children&amp;rsquo;s book&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Book of the Thousand Nights and a Night. Burton&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The reluctant dragon&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The walking drum. Louis L. Amoun&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Introduction to quantum mechanics. David Griffiths&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The time machine. H.G wells&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> How to solve it. George Poyla&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Los años de aprendizaje de Wilhelm Meister. Wolfgang Goethe&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> En busca del tiempo perdido. Marcel Proust&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> How we learn. Benedic Carey&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Armas de instrucción masiva. John Taylor Gatto&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The pig that wants to be eaten. Julian Baggani&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> La Revolución Historiográfica Francesa. Peter Burke&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Por las grutas y selvas del Indostán. Helena Blavatsky&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Diagnosing the System for Organizations. Stafford Beer&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Social Commitments in a Depersonalized World. Shane R. Thye&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Computers as theatre. Brenda Laurel&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Modern Operating Systems. Stuart Tanenbaum&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Computer networks. Stuart Tanenbaum&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Oryx and crake. Margaret Atwood&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Dragon Book. Compilers: Principles, Techniques, and Tools&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Machine Stops. E. M.Forster&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Evolution of Cooperation. Robert Axelrod&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Historian&amp;rsquo;s Craft. Marc Bloch&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> How to read and why. Harold Bloom&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Paradise Lost. John Milton&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> UNIX: A History and a Memoir. Brian W Kernighan&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Robot modeling and control. Mark W. Spong , Seth Hutchinson, M. Vidyasagar.&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Robotics vision and control. Peter Corke&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Modern Control Engineering. Katsuhiko Ogata&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The structure of scientific revolutions. Thomas kuhn&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Flow My Tears, the Policeman Said. Philip K. Dick&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Smoke Gets in Your Eyes: And Other Lessons From the Crematorium. Caitlin Doughty&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Invitation To Contemporary Physics&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Seeing voices. Oliver sacks&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> A river runs through it. Norman Maclean&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> La insoportable levedad del ser. Milan Kundera&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Joke. Milan Kundera&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Havel: A Life. Michael Zantovsky&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Do androids dream of electric sheep. Philip K. Dick&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Midnight in the Garden of Good and Evil. John Berendt&lt;/li>
+&lt;/ul>
+&lt;h3 id="honorable-mention">Honorable mention&lt;/h3>
+&lt;p>don&amp;rsquo;t quite made the cut but worth to keep an eye on if I change my mind:&lt;/p></description></item><item><title>Introduction</title><link>https://jsduenass.github.io/posts/introduction/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://jsduenass.github.io/posts/introduction/</guid><description>&lt;p>Greeting! This is an introduction post. This post tests the followings:&lt;/p>
+&lt;ul>
+&lt;li>Hero image is in the same directory as the post.&lt;/li>
+&lt;li>This post should be at top of the sidebar.&lt;/li>
+&lt;li>Post author should be the same as specified in &lt;code>author.yaml&lt;/code> file.&lt;/li>
+&lt;/ul></description></item><item><title>Rich Content</title><link>https://jsduenass.github.io/posts/category/sub-category/rich-content/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://jsduenass.github.io/posts/category/sub-category/rich-content/</guid><description>&lt;p>This sample post tests the followings:&lt;/p>
+&lt;ul>
+&lt;li>Category, sub-category nesting in the sidebar.&lt;/li>
+&lt;li>Hero image and other images are in &lt;code>images&lt;/code> folder inside this post directory.&lt;/li>
+&lt;li>Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li>
+&lt;/ul>
+&lt;h3 id="image-sample">Image Sample&lt;/h3>
+&lt;img src="https://jsduenass.github.io/posts/category/sub-category/rich-content/images/forest.jpg"
+alt="Forest"
+class="center"
+>
+&lt;div style="margin-top: rem;">&lt;/div>
+&lt;h3 id="tweet-sample">Tweet Sample&lt;/h3>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href="https://t.co/eJh4f2zncC">pic.twitter.com/eJh4f2zncC&lt;/a>&lt;/p>&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href="https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw">October 26, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;div style="margin-top: rem;">&lt;/div>
+&lt;h3 id="youtube-video-sample">YouTube Video Sample&lt;/h3>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ZJthWmvUzzc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+&lt;/div>
+&lt;div style="margin-top: rem;">&lt;/div>
+&lt;h3 id="vimeo-video-sample">Vimeo Video Sample&lt;/h3>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://player.vimeo.com/video/48912912" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
+&lt;/div></description></item><item><title>Shortcodes Samples</title><link>https://jsduenass.github.io/posts/shortcodes/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://jsduenass.github.io/posts/shortcodes/</guid><description>&lt;p>This is a sample post intended to test the followings:&lt;/p>
+&lt;ul>
+&lt;li>Default hero image.&lt;/li>
+&lt;li>Different shortcodes.&lt;/li>
+&lt;/ul>
+&lt;h2 id="alert">Alert&lt;/h2>
+&lt;p>The following alerts are available in this theme.&lt;/p>
+&lt;div class="alert success">
+&lt;span>&lt;i data-feather="check-circle">&lt;/i>&lt;/span>
+&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;success&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
+&lt;/div>
+&lt;div class="alert danger">
+&lt;span>&lt;i data-feather="alert-octagon">&lt;/i>&lt;/span>
+&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;danger&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
+&lt;/div>
+&lt;div class="alert warning">
+&lt;span>&lt;i data-feather="alert-triangle">&lt;/i>&lt;/span>
+&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;warning&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
+&lt;/div>
+&lt;div class="alert info">
+&lt;span>&lt;i data-feather="info">&lt;/i>&lt;/span>
+&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;info&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
+&lt;/div>
+&lt;div class="alert dark">
+&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
+&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;dark&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
+&lt;/div>
+&lt;div class="alert primary">
+&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
+&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;primary&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
+&lt;/div>
+&lt;div class="alert secondary">
+&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
+&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;secondary&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
+&lt;/div>
+&lt;h2 id="image">Image&lt;/h2>
+&lt;h4 id="a-sample-image-without-any-attribute">A sample image without any attribute.&lt;/h4>
+&lt;img src="https://jsduenass.github.io/posts/shortcodes/boat.jpg"
+alt="A boat at the sea"
+>
+&lt;div style="margin-top: 3rem;">&lt;/div>
+&lt;h4 id="a-sample-image-with-height-and-width-attributes">A sample image with &lt;code>height&lt;/code> and &lt;code>width&lt;/code> attributes.&lt;/h4>
+&lt;img src="https://jsduenass.github.io/posts/shortcodes/boat.jpg"
+alt="A boat at the sea"
+width="600"
+height="400"
+>
+&lt;div style="margin-top: 3rem;">&lt;/div>
+&lt;h4 id="a-center-aligned-image-with-height-and-width-attributes">A center aligned image with &lt;code>height&lt;/code> and &lt;code>width&lt;/code> attributes.&lt;/h4>
+&lt;img src="https://jsduenass.github.io/posts/shortcodes/boat.jpg"
+alt="A boat at the sea"
+width="600"
+height="400"
+class="center"
+>
+&lt;div style="margin-top: 3rem;">&lt;/div>
+&lt;h4 id="a-image-with-float-attribute">A image with &lt;code>float&lt;/code> attribute.&lt;/h4>
+&lt;img src="https://jsduenass.github.io/posts/shortcodes/boat.jpg"
+alt="A boat at the sea"
+width="500"
+height="200"
+style="float: right;"
+>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p></description></item></channel></rss>
