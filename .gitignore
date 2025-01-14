@@ -1,3 +1,7 @@
 resources/*
 node_modules/*
 public/*
+.vscode
+.Rproj.user
+content/posts/temp/*
+assets/jsconfig.json

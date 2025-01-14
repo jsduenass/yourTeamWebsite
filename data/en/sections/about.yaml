@@ -8,60 +8,47 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Mechatronic Engineer Student
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
-
-# your resume. this file path should be relative to you "static" directory
-# Dreprecated. Use resourceLinks instead.
-# resume: "files/resume.pdf"
+  name: Colombian National University
+  url: "https://unal.edu.co/"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Mechatronics Engineer Student interested in programming, control theory and numerical simulations, driven by a deep interest for learning and motivated to search innovative solutions through the lense of Engineering and Optimization.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "jsduenass@unal.edu.co"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: https://github.com/jsduenass
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/jsduenass/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/jsduenass"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
-
-# You can put custom buttons to link your relevant resources.
-# For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/Sebastian_Duenas_CV_english.pdf"
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -82,23 +69,35 @@ badges:
   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
-
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
 - type: soft-skill-indicator
   name: Hard Working
   percentage: 85
+  color: green
+- type: soft-skill-indicator
+  name: Fast Learner
+  percentage: 85
+  color: sky
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 85
   color: orange
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 50
+  color: blue
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 70
+  color: yellow
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 75
+  color: pink
 
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
