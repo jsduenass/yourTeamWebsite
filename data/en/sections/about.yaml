@@ -11,11 +11,8 @@ section:
 designation: Mechatronic Engineer Student
 # your company information
 company:
-  name: Colombian National University.
+  name: Colombian National University
   url: "https://unal.edu.co/"
-
-# your resume. this file path should be relative to you "static" directory
-resume: "files/Sebastian_Duenas_CV_english.pdf"
 
 # a summary about you
 summary: 'Mechatronics Engineer Student interested in programming, control theory and numerical simulations, driven by a deep interest for learning and motivated to search innovative solutions through the lense of Engineering and Optimization.'
@@ -47,32 +44,60 @@ socialLinks:
 #  icon: "fab fa-facebook"
 #  url: "#"
 
+resourceLinks:
+- title: "My Resume"
+  url: "files/Sebastian_Duenas_CV_english.pdf"
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+- type: certification
+  name: Istio and IBM Cloud Kubernetes Service
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+- type: certification
+  name: Artificial Intelligence and Machine Learning
+  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Hard Working
+- type: soft-skill-indicator
+  name: Hard Working
   percentage: 85
   color: green
-- name: Fast Learner
+- type: soft-skill-indicator
+  name: Fast Learner
   percentage: 85
   color: sky
-- name: Problem Solving
+- type: soft-skill-indicator
+  name: Problem Solving
   percentage: 85
   color: orange
-- name: Leadership
+- type: soft-skill-indicator
+  name: Leadership
   percentage: 50
   color: blue
-- name: Team Work
+- type: soft-skill-indicator
+  name: Team Work
   percentage: 70
   color: yellow
-- name: Communication
+- type: soft-skill-indicator
+  name: Communication
   percentage: 75
   color: pink
+
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
-# - name: Example 2
-#   percentage: 65
-#   color: "#8b8383"
