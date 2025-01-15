@@ -12,7 +12,7 @@ section:
 degrees:
 - name: Mechatronics Engineer 
   icon: fa-graduation-cap
-  timeframe: 2015-2022
+  timeframe: 2016-2024
   institution:
     name: Colombian National University 
     url: "#"
@@ -66,5 +66,5 @@ degrees:
   icon: fa-school
   timeframe: 2009-2015
   institution:
-    name: Colegio los angeles
+    name: Colegio los Angeles
  

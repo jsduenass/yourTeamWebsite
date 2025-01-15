@@ -10,7 +10,7 @@ menu:
     weight: 22
 
 ---
-This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them. 
+This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them.
 
 > There is never enough time to do everything but there is always enough time to do the most important things
 
@@ -28,7 +28,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Spare parts. Joshua Davis
 - [ ] My Philosophy of Industry. Henry Ford
 - [ ] Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order.  Steven Weber
-- [ ] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html). 
+- [ ] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html).
 - [ ] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html)
 - [ ] [Baumgartner & Momsen Detective Stories for German Learners](https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook)
 - [ ] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
@@ -40,6 +40,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Johnny Got His Gun. Dalton Trumbo
 - [ ] El proceso. Franz Kafka
 - [ ] The Software Engineering at Google. Tom Manshreck
+- [ ] The road to reality. Roger Penrose
 - [ ] The Feynman Lectures on Physics
 - [ ] This is how they tell me the world ends. Nicole Perlroth
 - [ ] Self-Reliance. Ralph Waldo Emerson
@@ -89,11 +90,14 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Do androids dream of electric sheep. Philip K. Dick
 - [ ] Midnight in the Garden of Good and Evil.  John Berendt
 
- 
 ### Honorable mention
 
-don't quite made the cut but worth to keep an eye on if I change my mind: 
-- [ ] My grandmother asked me tell you she's sorry. Fredrik Backman 
+don't quite made the cut but worth to keep an eye on if I change my mind:
+
+- [ ] The Design of Everyday Things. Donald Norman
+- [ ] The Invisible Computer. Donald Norman
+- [ ] Turn Signals Are The Facial Expressions Of Automobiles. Donald Norman
+- [ ] My grandmother asked me tell you she's sorry. Fredrik Backman
 - [ ] The archaeology of knowledge. Michael Foucautl
 - [ ] Reinventing Discovery: The New Era of Networked Science.  Michael Nielsen
 - [ ] [singularity](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
@@ -104,9 +108,9 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Site Reliability Engineering: How Google Runs Production. Niall Richard Murphy
 - [ ] Dynamics: the Geometry of Behavior. Ralph Abraham
 - [ ] Shop management. Frederick taylor
-- [ ] The History of the Decline and Fall of the Roman Empire. Edward Gibbon. Inspiration for Isaac Asimov's fundation series
+- [ ] The History of the Decline and Fall of the Roman Empire. Edward Gibbon. Inspiration for Isaac Asimov's foundation series
 - [ ]  [punkt und linie zu fläche. kandinsky](https://youtu.be/8Ab3ArE8W3s?t=1309)
-- [ ] history of control engineering. Bennett 
+- [ ] history of control engineering. Bennett
 - [ ] Infamous Scribblers: The Founding Fathers and the Rowdy Beginnings of American Journalism. Eric Burns
 - [ ] Thread Of The Silkworm. Iris Chang (Qian Xuesen biography)
 - [ ] A Canticle for Leibowitz. Walter Michael Miller
@@ -117,14 +121,14 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure. Nadia Eghbal
 - [ ] La Historia de Nintendo. Florent Gorges
 - [ ] El arte de ver. Aldous Huxley
-- [ ] El pais de los ciegos. H. G. wells
+- [ ] El país de los ciegos. H. G. wells
 - [ ] El concepto de derecho. H. L. A. Hart
 - [ ] Of Molecules and Men. Francis Crick
 - [ ] Industrial history lectures. Olaf Stapledon
 - [ ] UBIK. Philip K. Dick
 - [ ] The moon is a harsh mistress. Robert A Heilein
 - [ ] Rossumovi Univerzální Roboti (R.U.R.). Karel Capek
-- [ ] Horacio kalinbang o los automatas.  Eduardo Ladislao Holmberg
+- [ ] Horacio kalinbang o los autómatas.  Eduardo Ladislao Holmberg
 - [ ] Viajes interplanetarios en zepelines que tendrán lugar el año 2009 (1936)
 - [ ] Show your work.  Austin Kleon
 - [ ] Aion. Carl Jung
@@ -152,34 +156,28 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team
 - [ ] The (Delicate) Art of Bureaucracy. Mark Schwartz
 - [ ] Capitalism Without Capital: The Rise of the Intangible Economy. Jonathan Haskel and Stian Westlake
-- [ ] The Design of Everyday Things. Donald Norman
-- [ ] The Invisible Computer. Donald Norman
-- [ ] Turn Signals Are The Facial Expressions Of Automobiles. Donald Norman
 - [ ] Persépolis. Marjane Satrapi
 - [ ] EXPLORER: Futuristic Vehicles for Uncharted Christian Grajewski
 
-
 Prehistoria de la Ciencia Ficción. de Laguna Libros
 
-
- 
 For more ideas see [NASA history](https://history.nasa.gov/series95.html)
+
 - [ ] Logsdon, John M., ed., with Linda J. Lear, Jannelle Warren Findley, Ray A. Williamson, and Dwayne A. Day. Exploring the Unknown: Selected Documents in the History of the U.S. Civil Space Program, Volume I, Organizing for Exploration. NASA SP-4407, 1995.
 - [ ] Dick, Steven J. , ed. Historical Studies in the Societal Impact of Spaceflight. (NASA SP-2015-4803)
 - [ ] Orloff, Richard W. Apollo by the Numbers: A Statistical Reference. NASA SP-2000-4029, 2000.
 - [ ] Roland, Alex. Model Research: The National Advisory Committee for Aeronautics,1915-1958. NASA SP-4103, 1985.
 
-
 ### Books read
 
-> I cannot remember the books I've read anymore than the meal I have eaten; even so, they have made me 
+> I cannot remember the books I've read anymore than the meal I have eaten; even so, they have made me
 >
 > __--- Ralph Waldo Emerson__
 
 - [x] Cuentos completos I. Isaac Asimov
 - [x] Fundación. Isaac Asimov
 - [x] Los hermanos kamarazov. Fyodor Dostoyevsky.   [The Problem of Evil: Crash Course Philosophy](https://www.youtube.com/watch?v=9AzNEG1GB-k)  
-- [x] La guia del autoestopista intergaláctico. Douglas Adams
+- [x] La guía del autoestopista intergaláctico. Douglas Adams
 - [x] Dune. Frank Herbert
 - [x] Ensayo sobre la ceguera. José Saramago
 - [x] La nave de un millón de años. Poul Anderson
@@ -200,9 +198,10 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Paris del siglo xx. Julio Verne
 - [x] El techo del mundo. Angel Gutierrez y David Zurdo
 - [x] Surely you´re joking, Mr. Feynman. Feynman, Richard Phillips
-- [x] Frankenstein o el moderno prometeo. Marry Shelly
-- [x] Cibernetica. Norbert Weiner
-- [x] The selfish gene.Richard Dawkins
+- [x] Frankenstein o el moderno Prometeo. Marry Shelly
+- [x] Cibernética. Norbert Weiner
+- [x] Today and tomorrow. Henry Ford
+- [x] The selfish gene. Richard Dawkins
 - [x] Los dragones del edén. Carl Sagan
 - [x] El mundo y sus demonios. Carl Sagan
 - [x] Terraformar la tierra. Jack Williamson
@@ -210,13 +209,14 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Vivir para contarla. Gabriel Garcia Marquez
 - [x] El otoño del patriarca. Gabriel Garcia Marquez
 - [x] Cien años de soledad. Gabriel Garcia Marquez
-- [x] El mito de sisifo. Albert camus
+- [x] El mito de sisifo. Albert Camus
+- [x] Capitalist without capital. Nathan Latka
 - [x] Spies of No Country. Matti Friedman
 - [x] El problema de los 3 cuerpos. Liu Cixin
 - [x] El fin de la eternidad. Isaac Asimov
 - [x] Objetivo: la luna: la historia inédita de la mayor aventura humana. Parry Dan
 - [x] The black widowers. Isaac Asimov
-- [x] Las aventuras de Sherlock Holmes. Sir arthur Connan Doyle
+- [x] Las aventuras de Sherlock Holmes. Sir Arthur Connan Doyle
 - [x] Astronaut's guide to life on earth. Chris Hadfield
 - [x] Born a crime. Trevor Noah
 - [X] To the Castle and Back. Vaclav Havel
@@ -242,6 +242,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
 
 #### Extended list
+
 - [x] So Good They Can't Ignore You. Cal Newport
 - [x] Memories, Dreams, Reflections. Carl Jung
 - [X] Spare parts. Buzz Williams
@@ -278,7 +279,6 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] The Man from Earth
 - [ ] The pirates of silicon valley
 
-
 ## Series
 
 - The man in the high casttle.
@@ -289,11 +289,13 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Marco Polo.
 
 ## Poetry
+
 - [If Tomorrow Starts Without Me by David Romano possibly](https://youtu.be/8YMJcIvpUlc)
 - [Your Life is Your life by Charles Bukowski](https://youtu.be/2lK4LrD8Ii4)
 - [If by Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)
 
 ## Art
+
 - Michael Cheval.
 - Thomas Kinkade. Gone with the wind
 - [Standing Man With Outstretched Arms, Stephen De Staebler](http://www.neworleanspast.com/art/id75.html#:~:text=Standing%20Man%20With%20Outstretched%20Arms%20is%20an%20interesting%20example%20of,figure%20seems%20battered%20and%20worn)
@@ -302,10 +304,11 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Robert Doisneau
 - Peter Tunney
 
-## Places 
-- Schengen, China. Capital of electronics production
-- Zurich, switzerland
-- Volcan Licancabur
-- Puerto Varas, Chile
-- Silfra, Iceland. Dive between the continents  Thingvellir National Park
-- Ushuaia Argentina
+## Places
+
+- [ ] Schengen, China. Capital of electronics production
+- [x] Zurich, switzerland
+- [] Volcan Licancabur
+- [x] Puerto Varas, Chile
+- [ ] Silfra, Iceland. Dive between the continents  Thingvellir National Park
+- [ ] Ushuaia Argentina
